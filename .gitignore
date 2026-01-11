@@ -32,8 +32,8 @@ build/
 *.bin
 models/
 
-# Data (optional - uncomment if data is large)
-# data/raw/
+# Data
+data/raw/
 
 # OS
 .DS_Store
