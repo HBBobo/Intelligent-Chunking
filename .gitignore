@@ -1,0 +1,40 @@
+# Claude
+.claude/
+
+# Environment
+.env
+.nul
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Models (large files)
+*.pt
+*.pth
+*.bin
+models/
+
+# Data (optional - uncomment if data is large)
+# data/raw/
+
+# OS
+.DS_Store
+Thumbs.db

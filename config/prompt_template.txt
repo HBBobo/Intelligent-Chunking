@@ -1,0 +1,82 @@
+You are a semantic boundary scorer for document chunking.
+
+Score the semantic boundary strength between each adjacent sentence pair.
+
+## Scoring Scale (0-6, half-points allowed):
+
+### Score 0 - Strong continuity (atomic unit)
+Sentences complete each other's thought. One cannot stand alone.
+Example: "The model uses gradient descent." → "It updates weights iteratively." = 0
+Example: "[HEADER] Neural Networks." → "Neural networks are computational models." = 0
+
+### Score 1 - Very weak boundary (elaboration)
+Second sentence adds detail, explains, or continues the same idea.
+Example: "CNNs excel at image tasks." → "They detect edges, textures, and shapes." = 1
+
+### Score 2 - Weak boundary (example/clarification)
+Second sentence gives an example, minor aside, or clarification.
+Example: "Many algorithms exist for clustering." → "K-means is popular for its simplicity." = 2
+
+### Score 3 - Moderate shift (new angle, same subtopic)
+Still the same subtopic, but a new angle or aspect within it.
+Example: "Training took 3 hours on a GPU." → "The validation accuracy reached 94%." = 3
+IMPORTANT: A paragraph break alone is NOT enough for 3. Use 1-2 if still elaborating.
+
+### Score 4 - Strong boundary (new subtopic begins)
+A new subtopic or conceptual block starts. A reader would expect a heading here.
+Example: "...so that concludes gradient descent." → "Now consider regularization techniques." = 4
+Example: "The model learns decision boundaries." → "[HEADER] Unsupervised Learning." = 4
+
+### Score 5 - Very strong boundary (major topic change)
+Transition between major topics (e.g., supervised→unsupervised, methods→ethics, body→conclusion).
+Example: "Reinforcement learning has shown great promise." → "However, ethical concerns remain." = 5
+Example: "CNNs achieved remarkable success." → "[HEADER] Conclusion." = 5
+
+### Score 6 - Hard boundary (document/chapter level)
+Only for document start, chapter breaks, or the FIRST section header.
+Use 6 VERY sparingly - most major transitions are 4-5.
+
+## CRITICAL RULES:
+
+### Do NOT default to 3
+- If unsure between 2 and 3, prefer 2.
+- Score 3 requires a genuine aspect shift, not just a new sentence.
+- A definition followed by elaboration = 0-1, NOT 3.
+
+### Score distribution guidance
+In a typical 50-100 sentence window:
+- Most boundaries (60-70%) should be 0-2
+- Moderate boundaries (20-30%) should be 3
+- Strong boundaries (5-15%) should be 4-6
+If you're assigning 3 to more than 40% of boundaries, reconsider.
+
+### Two-step approach
+1. FIRST: Identify the 3-6 strongest boundaries in the window (these are your 4-6 candidates)
+2. THEN: Score all boundaries, ensuring top boundaries keep their high scores
+
+### Low scores (0-2):
+- Pronoun references ("It", "They", "This") = 0-1
+- "For example", "Consider", "This means", "In other words" = 1
+- Listing items, examples, or properties = 1-2
+- Same paragraph, same idea = 0-1
+
+### High scores (4-6):
+- New learning paradigm (supervised→unsupervised→RL) = 5
+- New model family (CNNs→RNNs→Transformers) = 4-5
+- Transition to ethics, limitations, or conclusion = 5
+- [HEADER] → body text = 0 (header and its content form a unit)
+- body text → [HEADER] = 4-5 (entering new section)
+
+## Sentences:
+{numbered_sentences}
+
+## Half-scores (use sparingly):
+You may use .5 scores (e.g., 2.5, 3.5) ONLY when a boundary genuinely falls between two levels.
+- Use 2.5 when it's more than an example (2) but not a full aspect shift (3)
+- Use 3.5 when there's a clear shift but not quite a new subtopic (4)
+Do NOT overuse half-scores. Most boundaries should be whole numbers.
+
+## Task:
+Output a JSON array of exactly {n_boundaries} numbers (0-6, half-points allowed).
+Use the FULL range. Do NOT collapse everything to 3.
+Output ONLY the JSON array, no explanation.
