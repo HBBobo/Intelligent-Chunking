@@ -16,6 +16,64 @@ from tqdm.auto import tqdm
 from .evaluate import evaluate
 
 
+class FocalLoss(nn.Module):
+    """
+    Focal Loss for handling class imbalance and hard examples.
+
+    Focal loss down-weights easy examples and focuses on hard ones,
+    which helps prevent the model from collapsing to predict the mean.
+
+    FL(p_t) = -alpha * (1 - p_t)^gamma * log(p_t)
+
+    Args:
+        alpha: Weighting factor for rare classes (can be tensor of per-class weights).
+        gamma: Focusing parameter. Higher gamma = more focus on hard examples.
+               gamma=0 is equivalent to CrossEntropyLoss.
+               gamma=2 is typical for moderate class imbalance.
+        reduction: 'mean', 'sum', or 'none'.
+    """
+
+    def __init__(
+        self,
+        alpha: torch.Tensor = None,
+        gamma: float = 2.0,
+        reduction: str = 'mean'
+    ):
+        super().__init__()
+        self.alpha = alpha
+        self.gamma = gamma
+        self.reduction = reduction
+
+    def forward(self, logits: torch.Tensor, targets: torch.Tensor) -> torch.Tensor:
+        """
+        Args:
+            logits: [batch_size, num_classes] raw model outputs.
+            targets: [batch_size] integer class labels.
+
+        Returns:
+            Focal loss value.
+        """
+        ce_loss = nn.functional.cross_entropy(logits, targets, reduction='none')
+        pt = torch.exp(-ce_loss)  # p_t = probability of correct class
+
+        focal_weight = (1 - pt) ** self.gamma
+
+        # Apply per-class alpha weighting if provided
+        if self.alpha is not None:
+            alpha = self.alpha.to(logits.device)
+            alpha_t = alpha[targets]
+            focal_weight = alpha_t * focal_weight
+
+        focal_loss = focal_weight * ce_loss
+
+        if self.reduction == 'mean':
+            return focal_loss.mean()
+        elif self.reduction == 'sum':
+            return focal_loss.sum()
+        else:
+            return focal_loss
+
+
 def compute_class_weights(boundaries_path: Path, num_classes: int = 7) -> torch.Tensor:
     """
     Compute inverse frequency class weights for handling imbalanced data.
@@ -53,7 +111,9 @@ def train(
     weight_decay: float = 0.01,
     warmup_ratio: float = 0.1,
     patience: int = 2,
-    class_weights: torch.Tensor = None
+    class_weights: torch.Tensor = None,
+    use_focal_loss: bool = False,
+    focal_gamma: float = 2.0
 ) -> dict:
     """
     Train the boundary scoring model.
@@ -69,6 +129,8 @@ def train(
         warmup_ratio: Fraction of steps for warmup.
         patience: Early stopping patience (epochs without improvement).
         class_weights: Optional tensor of class weights for imbalanced data.
+        use_focal_loss: If True, use FocalLoss instead of CrossEntropyLoss.
+        focal_gamma: Focusing parameter for FocalLoss (default 2.0).
 
     Returns:
         Dictionary with training history.
@@ -90,8 +152,12 @@ def train(
         num_training_steps=total_steps
     )
 
-    # Use weighted loss if class_weights provided
-    if class_weights is not None:
+    # Select loss function
+    if use_focal_loss:
+        alpha = class_weights.to(device) if class_weights is not None else None
+        criterion = FocalLoss(alpha=alpha, gamma=focal_gamma)
+        print(f"Using FocalLoss with gamma={focal_gamma}, alpha={alpha.tolist() if alpha is not None else None}")
+    elif class_weights is not None:
         class_weights = class_weights.to(device)
         criterion = nn.CrossEntropyLoss(weight=class_weights)
         print(f"Using weighted CrossEntropyLoss with weights: {class_weights.tolist()}")

@@ -114,7 +114,9 @@ def main():
         return 130
 
     except Exception as e:
+        import traceback
         safe_print(f"\nError: {e}")
+        traceback.print_exc()
         return 1
 
 

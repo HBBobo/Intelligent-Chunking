@@ -15,7 +15,11 @@ def safe_print(msg: str) -> None:
     try:
         print(msg)
     except UnicodeEncodeError:
-        print(msg.encode(sys.stdout.encoding or 'utf-8', errors='replace').decode())
+        # Get the console encoding (e.g., cp1250 on Windows)
+        encoding = sys.stdout.encoding or 'utf-8'
+        # Encode with replacement, then decode using the same encoding
+        safe_msg = msg.encode(encoding, errors='replace').decode(encoding, errors='replace')
+        print(safe_msg)
 
 
 class BoundaryLabeler:

@@ -17,6 +17,32 @@ def safe_print(msg: str = "") -> None:
         print(msg.encode(sys.stdout.encoding or 'utf-8', errors='replace').decode())
 
 
+def normalize_text(text: str) -> str:
+    """
+    Normalize text by ensuring it's valid UTF-8.
+
+    Handles Windows-1252 encoded characters that may appear in DOCX files
+    or Windows filenames.
+    """
+    # If text is already valid UTF-8, try to detect and fix Windows-1252 chars
+    try:
+        # First, try to encode as latin-1 (which accepts all bytes 0-255)
+        # and then decode as cp1252 (Windows-1252) to get proper Unicode
+        # This handles cases where strings contain raw Windows-1252 bytes
+        encoded = text.encode('latin-1')
+        text = encoded.decode('cp1252', errors='replace')
+    except (UnicodeDecodeError, UnicodeEncodeError):
+        pass
+
+    # Ensure the result is valid UTF-8 by encoding and decoding
+    try:
+        text = text.encode('utf-8', errors='replace').decode('utf-8')
+    except Exception:
+        pass
+
+    return text
+
+
 from .config import (
     DEFAULT_WINDOW_SIZE,
     DEFAULT_OVERLAP,
@@ -75,7 +101,8 @@ class Pipeline:
             safe_print(f"Skipping {file_path.name}: not enough sentences ({len(sentences)})")
             return sentences, []
 
-        doc_id = file_path.stem
+        # Normalize doc_id to handle filename encoding issues
+        doc_id = normalize_text(file_path.stem)
 
         # Create windows
         windows = self.window_manager.create_windows(sentences, doc_id)
@@ -150,7 +177,8 @@ class Pipeline:
         with tqdm(total=total_windows, desc="Processing windows") as pbar:
             for file_path in files:
                 sentences, boundaries = await self.process_document(file_path, pbar)
-                doc_id = file_path.stem
+                # Normalize doc_id to handle any filename encoding issues
+                doc_id = normalize_text(file_path.stem)
                 all_results.append((doc_id, sentences, boundaries))
 
         # Create output directories
@@ -164,10 +192,12 @@ class Pipeline:
         # Write sentences files (one per document)
         for doc_id, sentences, _ in all_results:
             sentences_file = sentences_dir / f"{doc_id}.json"
+            # Normalize text to handle any encoding issues
+            normalized_sentences = [normalize_text(s.text) for s in sentences]
             with open(sentences_file, "w", encoding="utf-8") as f:
                 json.dump({
                     "doc_id": doc_id,
-                    "sentences": [s.text for s in sentences]
+                    "sentences": normalized_sentences
                 }, f, ensure_ascii=False, indent=2)
             total_sentences += len(sentences)
 
@@ -221,14 +251,17 @@ class Pipeline:
         sentences_dir = output_path.parent / "sentences"
         sentences_dir.mkdir(exist_ok=True)
 
-        doc_id = input_path.stem
+        # Normalize doc_id to handle filename encoding issues
+        doc_id = normalize_text(input_path.stem)
 
         # Write sentences file (one per document)
         sentences_file = sentences_dir / f"{doc_id}.json"
+        # Normalize text to handle any encoding issues
+        normalized_sentences = [normalize_text(s.text) for s in sentences]
         with open(sentences_file, "w", encoding="utf-8") as f:
             json.dump({
                 "doc_id": doc_id,
-                "sentences": [s.text for s in sentences]
+                "sentences": normalized_sentences
             }, f, ensure_ascii=False, indent=2)
 
         # Write boundary scores (indices only, no text duplication)

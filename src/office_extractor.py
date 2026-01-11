@@ -5,6 +5,44 @@ Extract text from Office documents (PPTX, DOCX).
 from pathlib import Path
 
 
+def normalize_text_encoding(text: str) -> str:
+    """
+    Normalize text by replacing problematic Windows-1252 characters
+    with their proper UTF-8 equivalents.
+
+    Args:
+        text: Text that may contain Windows-1252 characters.
+
+    Returns:
+        Text with normalized encoding.
+    """
+    # Common Windows-1252 to UTF-8 mappings
+    replacements = {
+        '\x96': '–',  # en-dash
+        '\x97': '—',  # em-dash
+        '\x91': ''',  # left single quote
+        '\x92': ''',  # right single quote
+        '\x93': '"',  # left double quote
+        '\x94': '"',  # right double quote
+        '\x85': '…',  # ellipsis
+        '\x95': '•',  # bullet
+        '\xa0': ' ',  # non-breaking space
+        '\xad': '-',  # soft hyphen
+    }
+
+    for old, new in replacements.items():
+        text = text.replace(old, new)
+
+    # Also try to encode/decode to clean up any remaining issues
+    try:
+        # Encode to UTF-8 with replacement for any remaining bad chars
+        text = text.encode('utf-8', errors='replace').decode('utf-8')
+    except Exception:
+        pass
+
+    return text
+
+
 def extract_pptx_to_text(pptx_path: Path) -> str:
     """
     Extract text from a PowerPoint file.
@@ -40,7 +78,8 @@ def extract_pptx_to_text(pptx_path: Path) -> str:
         if slide_content:
             slides_text.append("\n".join(slide_content))
 
-    return "\n\n".join(slides_text)
+    text = "\n\n".join(slides_text)
+    return normalize_text_encoding(text)
 
 
 def extract_docx_to_text(docx_path: Path) -> str:
@@ -73,4 +112,5 @@ def extract_docx_to_text(docx_path: Path) -> str:
             else:
                 paragraphs.append(text)
 
-    return "\n\n".join(paragraphs)
+    text = "\n\n".join(paragraphs)
+    return normalize_text_encoding(text)

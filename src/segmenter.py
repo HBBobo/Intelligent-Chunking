@@ -184,27 +184,26 @@ class SentenceSegmenter:
         text = None
         is_markdown = False
 
-        if suffix == ".pdf":
-            # Check for existing markdown first (skip OCR if already extracted)
-            existing_md = self._find_existing_markdown(file_path)
-            if existing_md:
-                import sys
-                print(f"Using cached markdown for {file_path.name}", file=sys.stderr)
-                text = existing_md
+        # Check for cached text first (saves expensive extraction/OCR)
+        existing_cached = self._find_existing_markdown(file_path)
+        if existing_cached:
+            import sys
+            print(f"Using cached markdown for {file_path.name}", file=sys.stderr)
+            text = existing_cached
+            is_markdown = self._is_markdown(text)
+        elif suffix == ".pdf":
+            # Try Mistral OCR first (better quality), fallback to PyMuPDF
+            try:
+                from .mistral_ocr import extract_pdf_to_markdown_mistral
+                text = extract_pdf_to_markdown_mistral(file_path)
                 is_markdown = True
-            else:
-                # Try Mistral OCR first (better quality), fallback to PyMuPDF
-                try:
-                    from .mistral_ocr import extract_pdf_to_markdown_mistral
-                    text = extract_pdf_to_markdown_mistral(file_path)
-                    is_markdown = True
-                except Exception as e:
-                    # Fallback to PyMuPDF if Mistral fails (API error, size limit, no key, etc.)
-                    import sys
-                    print(f"Mistral OCR failed for {file_path.name}: {e}", file=sys.stderr)
-                    print(f"Falling back to PyMuPDF...", file=sys.stderr)
-                    from .pdf_extractor import extract_pdf_to_text
-                    text = extract_pdf_to_text(file_path)
+            except Exception as e:
+                # Fallback to PyMuPDF if Mistral fails (API error, size limit, no key, etc.)
+                import sys
+                print(f"Mistral OCR failed for {file_path.name}: {e}", file=sys.stderr)
+                print(f"Falling back to PyMuPDF...", file=sys.stderr)
+                from .pdf_extractor import extract_pdf_to_text
+                text = extract_pdf_to_text(file_path)
         elif suffix == ".pptx":
             from .office_extractor import extract_pptx_to_text
             text = extract_pptx_to_text(file_path)
@@ -215,8 +214,8 @@ class SentenceSegmenter:
             text = file_path.read_text(encoding="utf-8")
             is_markdown = suffix == ".md"
 
-        # Save markdown if extracted from PDF or is markdown file
-        if save_markdown and is_markdown and text:
+        # Save extracted text to cache (for all file types except plain .txt/.md)
+        if save_markdown and text and not existing_cached and suffix in (".pdf", ".docx", ".pptx"):
             self._save_markdown(file_path, text)
 
         return self.segment(text)

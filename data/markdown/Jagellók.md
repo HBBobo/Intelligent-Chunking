@@ -1,0 +1,57 @@
+IV. A Jagellók kora
+
+1) Uralkodók
+
+II. Jagelló Ulászló (1490–1516) magyar és cseh király
+
+II. Jagelló Lajos (1516–1526) magyar és cseh király
+
+I. Habsburg Miksa (1486–1519) német király, német-római császár
+
+II. Bajezid török szultán (1481–1512)
+
+II. Szulejmán török szultán (1520–1566)
+
+2) Melyik évben történtek a következő katonai események?
+
+I. Miksa dunántúli hadjárata: 1490–1491
+
+Újlaki Lőrinc és szövetségesei elleni hadjárat: 1494–1495
+
+a Dózsa vezette lázadás: 1514
+
+Nándorfehérvár eleste: 1521
+
+Szávaszentdemeter/Nagyolaszi győzelem: 1523
+
+a mohácsi csata: 1526
+
+3) Milyen jelentősége van a következő évszámoknak?
+
+1491: Pozsonyban békét kötött Habsburg III. Frigyes császár, fia, I. Miksa német király és II. Ulászló magyar király, amely lezárta az 1480-tól zajló osztrák–magyar háborúkat. Miksa és Ulászló visszaadták az egymástól elfoglalt területeket, ismét Habsburg uralom alá kerültek a Mátyás hadjáratai előtt az osztrák kézen lévő birtokok, Ulászló vállalta 100 000 forint hadikárpótlás megfizetését, valamint Ulászlóra és utódaira is kiterjesztették az 1463-as bécsújhelyi béke magyar trónöröklésre vonatkozó passzusait.
+
+1494: Lőcsén, a Jagelló testvérek találkozót tartottak, amelyen II. Ulászló és öccse, János Albert lengyel király rendezték az előző években a magyar trónharcok során keletkezett konfliktusukat. János Albert ugyanis még hercegként apjuk, IV. Kázmér király támogatásával harcba szállt testvére ellen a magyar trónért, azonban Szapolyai István csapatai győzelmet arattak e lengyelek fölött (1492).
+
+1498: Ulászló III. dekrétumának kibocsájtása, amelyben megújította az 1222-es aranybullát, név szerint felsorolta a bandériumállításra kötelezett bárókat és egyházi intézményeket. A bárók és a megyék a királyi adó felét a maguk számára szedhették be, amelyből 36 jobbágyporta után egy nehézfegyverzetű lovast, Alsó-Magyarországon pedig 25 telkenként egy huszárt kellett felszerelni.
+
+1515: megerősítették az 1507-ben megkötött Jagelló–Habsburg kettős házassági szerződést. Ennek értelmében II. Ulászló fia, az időközben (1508) királlyá koronázott II. Lajos király feleségül veszi I. Miksa unokáját, Habsburg Máriát, míg a császár másik unokája, Habsburg Ferdinánd feleségül veszi Ulászló leányát, Jagelló Annát. Az eljegyzésekre Bécsben, a Stephansdomban sor is került. Anna és Ferdinánd házasságkötésére 1521 májusában, míg Lajos és Mária esküvőjére 1522 januárjában került sor.
+
+4) Fogalmak
+
+rákosi végzés: 1505 őszén a Rákos mezején tartott országgyűlésen – amelyen Szapolyai János 2000 lovas kíséretében jelent meg – a résztvevő bárók és főpapok kinyilvánították, hogy a királyi párt mindenben hűségesen támogatják. Majd pedig kijelentették az országgyűlésen megjelentek, hogy Ulászló fiúörökös nélküli halála esetén csak magyart emelnek trónra. Amennyiben a választás ellenére a trónt valaki mégis fegyverrel kívánná elfoglalni, az ellen a rendek harcba szállnak. Ulászló ezt a Habsburgok ellen irányuló „végzést” nem erősítette meg. A rákosi végzés szövegét Verbőci István, Szapolyai vajda ítélőmestere fogalmazta meg.
+
+hármaskönyv (tripartitum): a Verbőci István országbírói ítélőmester által, II. Ulászló kérésére összefoglalt magyar szokásjoggyűjtemény (1514). Ez a magyar nemesi jog első összefoglalója, amelyet ugyan nem emelkedett törvényerőre, azonban 1848-ig igazodási pontként, kézikönyvként szolgált. Verbőci saját költségén Bécsben nyomtatásban is megjelentette (1517).
+
+Dunai Tudós Társaság (Sodalitas Litteraria Danubiana): a 15–16. század fordulóján a Budán és Bécsben tevékenykedő humanisták köre, amelyet Conrad Celtes hívott életre, s amelynek első elnöke Kamarcai Vitéz János veszprémi püspök, a bécsi püspökség adminisztrátora volt. Tagjai közt magyar, osztrák, cseh és itáliai humanistákat egyaránt találunk.
+
+5) Személyek
+
+Corvin János (†1504): Hunyadi Mátyás és Barbara Edelpöck osztrák polgárlány házasságon kívül született gyermeke. Neve, a Hunyadiak címerállatának, a fekete hollónak a latin corvus nevéből származik, amely a humanista Petrus Ransanus által megalkotott Corvinus legenda alapján keletkezett. Apja eredetileg egyházi pályára szánta. Mivel Mátyás és Aragóniai Beatrix házassága gyermektelen volt, apja az 1480-as évek derekától őt kívánta utódjaként a magyar trónra segíteni. A liptói hercegei és a hunyadi grófi címmel megfelelő presztízst biztosított neki, a hatalmas Hunyadi vagyon öröklése mellett számos további birtokadományt juttatott számára, amelyek birtokában Mátyás halálakor ő lett a trón egyik várományosa. Bár többen – így pl. Ernuszt Zsigmond pécsi püspök, Újlaki Lőrinc boszniai herceg – is támogatták, 1490. júliusában döntő vereséget szenvedett a Tolna megyei csontmezei csatában. Ezt követően Habsburg Miksa támogatója lett, majd II. Ulászló hűségére tért. 1495-ben az uralkodó dalmát–horvát–szlavón bánná nevezte ki. 1496-ban apósával, Frangepán Bernáttal királyellenes összeesküvést szőtt – sikertelenül. Az uralkodó leváltotta a báni méltóságról, s majd csak 1498-ban kapta az vissza immár örökös címként. Ezt követően haláláig Lojális volt a magyar uralkodóhoz, az oszmánok elleni harcokból kivette részét. Két gyermeke – Kristóf és Erzsébet – született, azonban nem sokkal apjuk halála után elhunytak, velük halt ki a Hunyadi család.
+
+Bakóc Tamás (†1521): Szatmár megyei Erdőd mezővárosból származott jobbágy családból. Nagybátyja, Bálint titeli prépost taníttatta és szerzett a család számára nemesi címet (1459). Krakkóban, Bolognában és Ferrarában tanult, kánon- és római jogi doktorátust szerzett. Hazatérését követően a királyi kancellárián kapott jegyzői állást, majd Mátyás király titkára lett. Mátyás halálát követően hivatali pályája meredeken ívelt fel: II. Ulászló híveként királyi titkos (1490), majd fő- és titkos kancellár (1491). Haláláig az egyik legbefolyásosabb személy a magyar királyi udvarban. Egyházi pályafutása is páratlan: titeli prépost (1480), majd győri (1486), egri (1493) püspök, esztergomi érsek (1497), bíboros (1500), konstantinápolyi pátriárka (1507), több szavazatot kapott az 1513-as pápaválasztáson (konklávén). 1513-ban pápai legátusi megbízást kapott. Humanista műveltségű főpap, mecénás, unokaöccsei pályafutását támogatta, családjának óriási vagyont szerzett.
+
+Szatmári György (†1524): Kassai polgárcsalád szülötte, Krakkóban, majd Bolognában járt egyetemre. Bakóc támogatásával került a királyi udvarba, ahol kancelláriai jegyző, majd királyi titkár (1495), titkos (1503–1521), végül főkancellár lett. Bakóc mellett a Jagelló-kor meghatározó politikusa, megkerülhetetlen szereplője a magyar diplomáciának. Hivatali karrierjével párhuzamosan az egyházi pályafutása is szépen ívelt felfelé. Kisebb javadalmakat követően veszprémi (1499), váradi (1501), majd pécsi (1505) püspökké nevezte ki az uralkodó. Bakóc halálát követően az esztergomi érseki méltóságra emelkedett. A művelt főpap mecénási tevékenysége is jelentős, Pécsett a székesegyházban a nevét viselő pasztofóriumot ő készíttette, a Tettyén nyári püspöki palotát építtetett (tettyei romok). Szintén Pécsett humanista kört hozott létre, amelynek tagja volt.
+
+Újlaki Lőrinc (†1524): Miklós boszniai király fiaként hercegi címet viselt. Mátyás uralkodása idején – a rövid ideig tartó macsói bánságán kívül – nem viselt méltóságot, a király mellett harcolt Sziléziában és Bécs elfoglalásakor (1485). Mátyás halálát követően Korvin Jánost támogatta, majd a csontmezei vereséget (1490) követően Habsburg Miksa pártjára állt. II. Ulászló ellenzékének egyik vezéralakja volt, az uralkodó több hónapos belháborúban kényszerítette térdre szövetségeseivel együtt (1494/1495). A király több birtokát ideiglenesen elkobozta, majd csak 1498-ban rehabilitálta. Ekkortól az ország harmadik legnagyobb birtokosaként a Jagellókat támogatta. A török elleni harcokban csapatai folyamatosan részt vettek, diplomáciai küldetéseket is teljesített, Jagelló Anna hercegnő egyik keresztapja volt, az ország legfontosabb döntéselőkészítő szervének, a királyi tanácsnak a tagja volt, rövid ideig a nándorfehérvári bánság élén is állt (1510–1513). II. Lajos kiskorúsága idején a 16 tagú kormányzótanács tagja, majd hivatali pályafutását az országbírói méltóságban fejezte be (1518).
+
+Szapolyai János (†1540): Szapolyai István nádor fia, 1510 és 1526 között erdélyi vajda. A belpolitika egyik fontos szereplője, aki komoly hatalmi ambíciókkal rendelkezett. Megkérte a Jagelló Anna kezét, azonban a királyi pár e szándékát elutasította. Erre a rákosi országgyűlésen (1505) megjelent nemesek, bárók és főurak úgy foglaltak állást, hogy amennyiben II. Ulászló fiúörökös nélkül halna meg, magyar embert választanak királlyá. Mindez természetesen Szapolyai érdekét szolgálta volna. Részt vett több oszmánellenes összecsapásban: 1512-ben Szerbiába, 1514 tavaszán Bulgáriába, 1522-ben pedig Havasalföldre és Bulgáriába vezetett egy-egy katonai expedíciót. 1514-ben tevékeny részt vett a Dózsa György vezette lázadás leverésében. A mohácsi csatában nem vett részt, seregei élén Erdélyből indulva Szegedig jutott az összecsapás kezdetére. II. Lajos halálát követően királlyá választották.

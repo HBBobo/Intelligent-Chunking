@@ -2,6 +2,8 @@
 Evaluation metrics for boundary scoring model.
 """
 
+from dataclasses import dataclass
+
 import numpy as np
 import torch
 import torch.nn.functional as F
@@ -9,6 +11,45 @@ from scipy.stats import pearsonr, spearmanr
 from scipy.spatial.distance import jensenshannon
 from sklearn.metrics import mean_squared_error, mean_absolute_error
 from torch.utils.data import DataLoader
+
+
+@dataclass
+class ChunkingParams:
+    """Parameters for tunable DP chunking algorithm."""
+    target_chunk_size: int = 10
+    target_coherency: float = 0.6
+    min_chunk_size: int = 2
+    max_chunk_size: int = 30
+    size_weight: float = 0.1
+    internal_weight: float = 0.5
+
+
+CHUNKING_PRESETS = {
+    "sections": ChunkingParams(
+        target_chunk_size=25,
+        target_coherency=0.9,
+        min_chunk_size=5,
+        max_chunk_size=50
+    ),
+    "balanced": ChunkingParams(
+        target_chunk_size=10,
+        target_coherency=0.6,
+        min_chunk_size=3,
+        max_chunk_size=20
+    ),
+    "fine": ChunkingParams(
+        target_chunk_size=4,
+        target_coherency=0.3,
+        min_chunk_size=2,
+        max_chunk_size=8
+    ),
+    "rag": ChunkingParams(
+        target_chunk_size=8,
+        target_coherency=0.65,
+        min_chunk_size=3,
+        max_chunk_size=15
+    )
+}
 
 
 def evaluate(
@@ -131,9 +172,10 @@ def dp_chunk_document(
     min_chunk_size: int = 2
 ) -> list[tuple[int, int]]:
     """
-    Dynamic programming to find optimal chunk boundaries.
+    Dynamic programming to find optimal chunk boundaries (legacy version).
 
     Uses predicted scores as boundary costs (higher score = better split point).
+    For more control, use dp_chunk_tunable() instead.
 
     Args:
         sentences: List of sentences.
@@ -177,6 +219,120 @@ def dp_chunk_document(
         i = j
 
     return list(reversed(chunks))
+
+
+def dp_chunk_tunable(
+    sentences: list[str],
+    scores: list[float],
+    params: ChunkingParams = None,
+    preset: str = None
+) -> list[tuple[int, int]]:
+    """
+    Tunable DP chunking with coherency and size parameters.
+
+    Cost function components:
+    1. Split cost: Quadratic penalty for splitting at low-score boundaries
+    2. Size cost: Penalty for deviating from target chunk size
+    3. Internal cost: Penalty for high-score boundaries inside chunks
+
+    Args:
+        sentences: List of sentences.
+        scores: Boundary scores (len = len(sentences) - 1).
+        params: ChunkingParams instance. If None, uses preset or defaults.
+        preset: Preset name ("sections", "balanced", "fine", "rag").
+                Ignored if params is provided.
+
+    Returns:
+        List of (start_idx, end_idx) tuples for each chunk.
+
+    Examples:
+        # Use preset
+        chunks = dp_chunk_tunable(sents, scores, preset="rag")
+
+        # Custom params for large section-based chunks
+        chunks = dp_chunk_tunable(sents, scores, ChunkingParams(
+            target_chunk_size=20,
+            target_coherency=0.9
+        ))
+    """
+    # Resolve parameters
+    if params is None:
+        if preset and preset in CHUNKING_PRESETS:
+            params = CHUNKING_PRESETS[preset]
+        else:
+            params = ChunkingParams()  # defaults
+
+    n = len(sentences)
+
+    if n <= params.min_chunk_size:
+        return [(0, n)]
+
+    threshold = 6 * params.target_coherency
+
+    # dp[i] = (min_cost, prev_idx) to chunk sentences[0:i]
+    dp = [(float('inf'), -1)] * (n + 1)
+    dp[0] = (0.0, -1)
+
+    for i in range(params.min_chunk_size, n + 1):
+        for j in range(max(0, i - params.max_chunk_size),
+                       i - params.min_chunk_size + 1):
+            chunk_size = i - j
+
+            # 1. Split cost (quadratic penalty for low-score boundaries)
+            if i < n:
+                score = scores[i - 1]
+                if score >= threshold:
+                    split_cost = 0  # Free split at good boundaries
+                else:
+                    split_cost = (threshold - score) ** 2
+            else:
+                split_cost = 0  # End of document
+
+            # 2. Size cost (penalty for deviating from target)
+            size_diff = abs(chunk_size - params.target_chunk_size)
+            size_cost = params.size_weight * (size_diff ** 2)
+
+            # 3. Internal coherence cost (penalty for missed split points)
+            internal_cost = 0
+            if params.internal_weight > 0:
+                for k in range(j, i - 1):
+                    if k < len(scores):
+                        excess = max(0, scores[k] - threshold)
+                        internal_cost += params.internal_weight * excess
+
+            total_cost = dp[j][0] + split_cost + size_cost + internal_cost
+
+            if total_cost < dp[i][0]:
+                dp[i] = (total_cost, j)
+
+    # Backtrack to get chunks
+    chunks = []
+    i = n
+    while i > 0:
+        j = dp[i][1]
+        chunks.append((j, i))
+        i = j
+
+    return list(reversed(chunks))
+
+
+def chunk_document(
+    sentences: list[str],
+    scores: list[float],
+    preset: str = "balanced"
+) -> list[tuple[int, int]]:
+    """
+    Convenience function to chunk with a preset configuration.
+
+    Args:
+        sentences: List of sentences.
+        scores: Boundary scores.
+        preset: One of "sections", "balanced", "fine", "rag".
+
+    Returns:
+        List of (start_idx, end_idx) tuples.
+    """
+    return dp_chunk_tunable(sentences, scores, preset=preset)
 
 
 def format_chunks_for_display(
