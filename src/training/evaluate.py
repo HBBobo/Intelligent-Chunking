@@ -4,6 +4,7 @@ Evaluation metrics for boundary scoring model.
 
 import numpy as np
 import torch
+import torch.nn.functional as F
 from scipy.stats import pearsonr, spearmanr
 from scipy.spatial.distance import jensenshannon
 from sklearn.metrics import mean_squared_error, mean_absolute_error
@@ -13,15 +14,17 @@ from torch.utils.data import DataLoader
 def evaluate(
     model: torch.nn.Module,
     loader: DataLoader,
-    device: torch.device
+    device: torch.device,
+    num_classes: int = 7
 ) -> dict:
     """
     Evaluate model on a dataset.
 
     Args:
-        model: The boundary scoring model.
+        model: The boundary scoring model (outputs logits for 7 classes).
         loader: DataLoader for evaluation data.
         device: Device to run on.
+        num_classes: Number of output classes (default 7 for scores 0-6).
 
     Returns:
         Dictionary with evaluation metrics.
@@ -36,14 +39,17 @@ def evaluate(
             attention_mask = batch["attention_mask"].to(device)
             scores = batch["score"].numpy()
 
-            pred = model(input_ids, attention_mask)
-            pred = pred.cpu().numpy()
+            # Get logits and convert to expected value (soft prediction)
+            logits = model(input_ids, attention_mask)
+            probs = F.softmax(logits, dim=-1)
+            classes = torch.arange(num_classes, device=device).float()
+            pred = (probs * classes).sum(dim=-1).cpu().numpy()
 
             preds.extend(pred)
             targets.extend(scores)
 
-    preds = np.array(preds).clip(0, 6)
-    targets = np.array(targets)
+    preds = np.array(preds)  # Already in [0, 6] range from expected value
+    targets = np.array(targets).astype(float)
 
     # 1. Score correlation vs teacher (Pearson and Spearman)
     pearson_corr = pearsonr(preds, targets)[0]

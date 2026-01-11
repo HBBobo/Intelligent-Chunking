@@ -4,6 +4,7 @@ Boundary scoring model architecture.
 
 import torch
 import torch.nn as nn
+import torch.nn.functional as F
 from transformers import AutoModel
 
 
@@ -11,26 +12,30 @@ class BoundaryScorer(nn.Module):
     """
     Transformer-based boundary scoring model.
 
-    Takes sentence context around a boundary and predicts a score (0-6).
+    Takes sentence context around a boundary and predicts a score class (0-6).
+    Uses classification instead of regression for better handling of discrete scores.
     """
 
     def __init__(
         self,
         model_name: str = "xlm-roberta-base",
-        freeze_layers: int = 0,
-        dropout: float = 0.1
+        freeze_layers: int = 9,
+        dropout: float = 0.3,
+        num_classes: int = 7
     ):
         """
         Initialize the model.
 
         Args:
             model_name: HuggingFace model name.
-            freeze_layers: Number of encoder layers to freeze (0 = none).
-            dropout: Dropout rate for regression head.
+            freeze_layers: Number of encoder layers to freeze (default 9 of 12).
+            dropout: Dropout rate for classification head.
+            num_classes: Number of output classes (default 7 for scores 0-6).
         """
         super().__init__()
 
         self.encoder = AutoModel.from_pretrained(model_name)
+        self.num_classes = num_classes
         hidden_size = self.encoder.config.hidden_size  # 768 for base models
 
         # Optionally freeze early layers
@@ -44,12 +49,12 @@ class BoundaryScorer(nn.Module):
                 for param in layer.parameters():
                     param.requires_grad = False
 
-        # Regression head
+        # Classification head (7 classes for scores 0-6)
         self.head = nn.Sequential(
             nn.Linear(hidden_size, 256),
             nn.ReLU(),
             nn.Dropout(dropout),
-            nn.Linear(256, 1)
+            nn.Linear(256, num_classes)
         )
 
     def forward(
@@ -65,7 +70,7 @@ class BoundaryScorer(nn.Module):
             attention_mask: Attention mask [batch_size, seq_len].
 
         Returns:
-            Predicted scores [batch_size] (unbounded, clamp at inference).
+            Logits [batch_size, num_classes].
         """
         outputs = self.encoder(
             input_ids=input_ids,
@@ -75,10 +80,10 @@ class BoundaryScorer(nn.Module):
         # Use CLS token representation
         cls_token = outputs.last_hidden_state[:, 0, :]
 
-        # Predict score
-        score = self.head(cls_token).squeeze(-1)
+        # Get logits for each class
+        logits = self.head(cls_token)
 
-        return score
+        return logits
 
     def predict(
         self,
@@ -86,15 +91,39 @@ class BoundaryScorer(nn.Module):
         attention_mask: torch.Tensor
     ) -> torch.Tensor:
         """
-        Predict scores with clamping to valid range.
+        Predict class labels (argmax).
 
         Args:
             input_ids: Token IDs.
             attention_mask: Attention mask.
 
         Returns:
-            Predicted scores clamped to [0, 6].
+            Predicted class indices [batch_size].
         """
         with torch.no_grad():
-            score = self.forward(input_ids, attention_mask)
-            return score.clamp(0, 6)
+            logits = self.forward(input_ids, attention_mask)
+            return logits.argmax(dim=-1)
+
+    def predict_expected(
+        self,
+        input_ids: torch.Tensor,
+        attention_mask: torch.Tensor
+    ) -> torch.Tensor:
+        """
+        Predict expected value (soft prediction using class probabilities).
+
+        This gives smoother predictions than argmax by computing:
+        E[score] = sum(prob_i * i) for i in 0..6
+
+        Args:
+            input_ids: Token IDs.
+            attention_mask: Attention mask.
+
+        Returns:
+            Expected scores [batch_size] in range [0, 6].
+        """
+        with torch.no_grad():
+            logits = self.forward(input_ids, attention_mask)
+            probs = F.softmax(logits, dim=-1)
+            classes = torch.arange(self.num_classes, device=logits.device).float()
+            return (probs * classes).sum(dim=-1)

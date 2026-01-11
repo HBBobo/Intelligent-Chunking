@@ -57,7 +57,7 @@ def train(
         num_training_steps=total_steps
     )
 
-    criterion = nn.SmoothL1Loss()
+    criterion = nn.CrossEntropyLoss()  # Classification loss for 7 classes
 
     history = {
         "train_loss": [],

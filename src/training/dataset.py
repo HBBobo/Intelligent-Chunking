@@ -89,7 +89,7 @@ class BoundaryDataset(Dataset):
         return {
             "input_ids": encoding["input_ids"].squeeze(0),
             "attention_mask": encoding["attention_mask"].squeeze(0),
-            "score": torch.tensor(b["score"], dtype=torch.float),
+            "score": torch.tensor(b["score"], dtype=torch.long),  # Integer class for CrossEntropyLoss
             "doc_id": b["doc_id"],
             "boundary_idx": b["boundary_idx"]
         }
