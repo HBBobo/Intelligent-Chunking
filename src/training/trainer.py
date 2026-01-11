@@ -30,6 +30,7 @@ class FocalLoss(nn.Module):
         gamma: Focusing parameter. Higher gamma = more focus on hard examples.
                gamma=0 is equivalent to CrossEntropyLoss.
                gamma=2 is typical for moderate class imbalance.
+        label_smoothing: Label smoothing factor (0.0-1.0). Prevents overconfidence.
         reduction: 'mean', 'sum', or 'none'.
     """
 
@@ -37,11 +38,13 @@ class FocalLoss(nn.Module):
         self,
         alpha: torch.Tensor = None,
         gamma: float = 2.0,
+        label_smoothing: float = 0.0,
         reduction: str = 'mean'
     ):
         super().__init__()
         self.alpha = alpha
         self.gamma = gamma
+        self.label_smoothing = label_smoothing
         self.reduction = reduction
 
     def forward(self, logits: torch.Tensor, targets: torch.Tensor) -> torch.Tensor:
@@ -53,8 +56,16 @@ class FocalLoss(nn.Module):
         Returns:
             Focal loss value.
         """
-        ce_loss = nn.functional.cross_entropy(logits, targets, reduction='none')
-        pt = torch.exp(-ce_loss)  # p_t = probability of correct class
+        # Apply label smoothing to cross entropy
+        ce_loss = nn.functional.cross_entropy(
+            logits, targets,
+            reduction='none',
+            label_smoothing=self.label_smoothing
+        )
+
+        # For focal weighting, use unsmoothed probabilities
+        probs = torch.softmax(logits, dim=-1)
+        pt = probs.gather(1, targets.unsqueeze(1)).squeeze(1)  # p_t = probability of correct class
 
         focal_weight = (1 - pt) ** self.gamma
 
