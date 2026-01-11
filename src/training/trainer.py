@@ -2,6 +2,10 @@
 Training loop for boundary scoring model.
 """
 
+import json
+from pathlib import Path
+from collections import Counter
+
 import torch
 import torch.nn as nn
 from torch.optim import AdamW
@@ -10,6 +14,33 @@ from transformers import get_linear_schedule_with_warmup
 from tqdm.auto import tqdm
 
 from .evaluate import evaluate
+
+
+def compute_class_weights(boundaries_path: Path, num_classes: int = 7) -> torch.Tensor:
+    """
+    Compute inverse frequency class weights for handling imbalanced data.
+
+    Args:
+        boundaries_path: Path to all_training_data.jsonl file.
+        num_classes: Number of score classes (default 7 for 0-6).
+
+    Returns:
+        Tensor of class weights [num_classes].
+    """
+    counts = Counter()
+    with open(boundaries_path, "r", encoding="utf-8") as f:
+        for line in f:
+            boundary = json.loads(line)
+            counts[boundary["score"]] += 1
+
+    total = sum(counts.values())
+    weights = []
+    for i in range(num_classes):
+        count = counts.get(i, 1)  # Avoid division by zero
+        # Inverse frequency weighting
+        weights.append(total / (num_classes * count))
+
+    return torch.tensor(weights, dtype=torch.float32)
 
 
 def train(
@@ -21,7 +52,8 @@ def train(
     lr: float = 2e-5,
     weight_decay: float = 0.01,
     warmup_ratio: float = 0.1,
-    patience: int = 2
+    patience: int = 2,
+    class_weights: torch.Tensor = None
 ) -> dict:
     """
     Train the boundary scoring model.
@@ -36,6 +68,7 @@ def train(
         weight_decay: Weight decay for AdamW.
         warmup_ratio: Fraction of steps for warmup.
         patience: Early stopping patience (epochs without improvement).
+        class_weights: Optional tensor of class weights for imbalanced data.
 
     Returns:
         Dictionary with training history.
@@ -57,7 +90,13 @@ def train(
         num_training_steps=total_steps
     )
 
-    criterion = nn.CrossEntropyLoss()  # Classification loss for 7 classes
+    # Use weighted loss if class_weights provided
+    if class_weights is not None:
+        class_weights = class_weights.to(device)
+        criterion = nn.CrossEntropyLoss(weight=class_weights)
+        print(f"Using weighted CrossEntropyLoss with weights: {class_weights.tolist()}")
+    else:
+        criterion = nn.CrossEntropyLoss()
 
     history = {
         "train_loss": [],

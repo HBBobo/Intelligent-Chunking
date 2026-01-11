@@ -1,6 +1,8 @@
 # Training data generation dependencies
 python-dotenv>=1.0.0
 google-generativeai>=0.8.0
+mistralai>=1.0.0
+mistune>=3.0.0
 spacy>=3.7.0
 tenacity>=8.2.0
 tqdm>=4.66.0

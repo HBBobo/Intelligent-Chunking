@@ -1,0 +1,448 @@
+![img-0.jpeg](img-0.jpeg)
+
+4.8.1.9. LÁTÁS
+
+Készítette Vízkievicz András
+
+![img-1.jpeg](img-1.jpeg)
+
+![img-2.jpeg](img-2.jpeg)
+
+![img-3.jpeg](img-3.jpeg)
+
+4.8.1.9. Látás
+
+A fejezet a követelményrendszer 4.8.1.9. pontja alapján készült.
+
+A látás szervrendszerének részei:
+
+- Járulékos szervek
+- Védőberendezések (szemöldök, szemhéj, kötőhártya, szempilla)
+- Könnyrendszer (könnymirigy és könnyelvezető készülék)
+- Szemmozgató izmok
+- Szemgolyó
+- Szemideg és látópálya
+- Látókéreg
+
+## A szem járulékos szervei
+
+## A szem védőkészüléke
+
+- A szemhéj feladata a
+- a szemgolyó mechanikai és kiszáradás elleni védelme és a könny szétoszlatása.
+- A kötőhártya vékony védőréteg, amely a szemhéjak belső felszínét, és az ínhártya elülső részét borítja (szaruhártyára nem megy rá).
+
+## Könnyrendszer
+
+A könny enyhén sós folyadék, amelyet a szemüreg külső, felső sarkában található könnymirigyek folyamatosan termelnek,
+
+- immunoglobulinokat tartalmaz, baktériumölő hatása van,
+- szaruhártya megfelelő nedvességét biztosítja.
+- A belső szemzugban lévő könnytóba,
+- onnan a könnyzacskóba,
+- majd egy vezetéken, a könnycsatornán át az alsó orrjáratba jut.
+
+![img-4.jpeg](img-4.jpeg)
+
+![img-5.jpeg](img-5.jpeg)
+
+Készítette Vizkievejű indítás
+
+![img-6.jpeg](img-6.jpeg)
+
+![img-7.jpeg](img-7.jpeg)
+
+![img-8.jpeg](img-8.jpeg)
+
+![img-9.jpeg](img-9.jpeg)
+
+## A szem mozgató készüléke
+
+- A szemmozgató izmokat 3 pár harántcsíkolt izomköteg alkotja, 4 egyenes, 2 ferde.
+- A két szem mozgása mindig összerendezett (gyárilag).
+- A szemgödör falán erednek és az ínhártyába sugározva tapadnak.
+
+## Szemgolyó
+
+- Majdnem gomb alakú páros test, a csontos szemgödörben, zsíros kötőszövettel körülvéve található.
+- Szerkezetileg 3 rétegű hólyagszem.
+
+## 1. Külső réteg
+
+### 2 része van:
+
+a) hátsó 4/5 része a fehér ínhártya. Az ínhártyát főleg kollagén rostok építik fel, ez képezi a szemfehérjét, feladata a mechanikai védelem.
+b) Elülső 1/5 része az átlátszó szaruhártya, óraüvegszerűen domborodik elő. Szaruhártyán keresztül jutnak a fény sugarak a szem belsejébe. Nagyon érzékeny a kiszáradásra, sok érző idegvégződése van, ereket nem tartalmaz.
+
+![img-10.jpeg](img-10.jpeg)
+
+![img-11.jpeg](img-11.jpeg)
+
+## 2. Középső réteg
+
+### 3 része van.
+
+a) Hátsó 2/3-a a tulajdonképpeni érhártya, melyben dús érhálózat található és tápláló szerepe van. Az ereken kívül nagy mennyiségű pigmentet is tartalmaz.
+b) Elülső középső része a sugártest, ami a szem alkalmazkodásának – közellátás – aktív szerve, a benne levő gyűrű alakú simaizomszövetnek – sugárizom – köszönhetően.
+
+- Sugártesthez rögzül lencsefüggesztő rostokkal a szemlencse.
+- Sugártest termeli a csarnokvizet.
+
+c) Elülső része a szivárványhártya (írisz).
+
+- Középrészén kerek nyílás van, ez a pupilla.
+- Írisz pigmenttartalma adja a szem színét.
+- Benne körkörös pupillaszűkítő (paraszimpatikus) és -tágító simaizom található,
+- szabályozza a szembe jutó fény mennyiségét.
+
+## 3. Retina-ideghártya (legbelső burok)
+
+- Idegi eredetű, különféle idegsejteket tartalmaz.
+- Hátsó, nagyobb része fényérzékeny.
+- Elülső része a sugártest, ill. az írisz hátsó felszínét borítja, nem fényérzékeny (két összefekvő köbhámrétegre redukálódott).
+- A hátsó retina szövettanilag 10 rétegből áll, benne helyezkednek el a fényérzékelő receptorok, a csapok és a pálcikák.
+- A csapok színes látás, a nappali látás, az éleslátás,
+- a pálcikák gyenge fényben a szürkületi látás receptorai.
+
+![img-12.jpeg](img-12.jpeg)
+
+A retina fontosabb 4 rétege, sorrendben az érhártya felől:
+
+1. Pigmenthám réteg, amely a beeső fényt elnyelve, meggátolja annak visszaverődését (ezért sötét a pupilla).
+2. Csapok és pálcikák rétege, az ideghártya külső részén, az érhártya felé helyezkedik el.
+
+- A csapok (cones) a szem optikai tengelyének végében nagy tömegben helyezkednek el, itt van a sárgafolt, ami az éleslátás helye (a sárgafoltban – a látógödörben – csak csapok vannak).
+- A sárgafolt körül, ill. a retina széli részén, perifériásan pedig több a pálcika.
+
+![img-13.jpeg](img-13.jpeg)
+
+3. Bipoláris érzősejtek, melyek a receptoroktól átveszik az ingerületet és továbbítják a dúcsejteknek.
+4. Ganglion – dúcsejtek – sejtek rétege. A ganglion sejtek axonjai kilépve a szemgolyóból a látóideget alkotják. A látóideg rostjai a szemgolyót a vakfolt területén hagyják el, itt nincsenek receptorok.
+
+![img-14.jpeg](img-14.jpeg)
+
+## Pálcikák
+
+- 130 millió pálcika van az egész retinában a sárgafoltot kivéve.
+- 5-8 pálcika kapcsolódik egy bipoláris idegsejthez.
+- Jó perifériális látást biztosítanak.
+
+- Nagyon érzékenyek, már egyetlen foton becsapódásakor ingerületbe jönnek,
+- gyenge fényben a szürkületi látásért felelősek (ekkor nem érzékelünk színeket).
+
+![img-15.jpeg](img-15.jpeg)
+
+## Csapok
+
+- 7 millió csap van 🔄 csak.
+- Főképpen a sárgafolt közepén a látógödörben találhatók.
+- 1 csap 1 idegsejthez kapcsolódik, ami biztosítja a látásélesség felbontóképességet. Két tárgypon tot csak akkor lehet megkülönböztetett különböző csapra esnek.
+- Gyenge perifériális látást biztosítanak.
+- A nappali látásért, az éleslátásért és a színérzékelésért felelősek.
+
+![img-16.jpeg](img-16.jpeg)
+
+- Kevesbé érzékenyek, mint a pálcikák, ingerküszöbük kb. 100 foton.
+
+# Színlátás
+
+- 3 különböző abszorpciójú csapsejt van:
+- L (long), hosszú hullámhosszon érzékeny (vörös),
+- M (medium), közepes hullámhosszon érzékeny (zöld),
+- S (short), rövid hullámhosszon érzékeny (kék).
+- Adott hullámhosszúságú fény eltérő mértékben ingerli a háromféle fotoreceptort, így az adott hullámhosszhoz tartozó szín érzete ennek megfelelően keverődik ki (színkeverés) (lásd a jegyzet végén a feladatot).
+
+![img-17.jpeg](img-17.jpeg)
+absorption Spectra of Human Visual Pigments
+
+![img-18.jpeg](img-18.jpeg)
+
+# A pálcikák fényelektromos működése
+
+- A pálcikák fényérzékeny vegyülete a rodopszin.
+- A rodopszin két részből áll:
+- opszin nevű fehérjéből és
+- a karotinoidok közé tartozó A-vitamin származék cisz-retinalból, amelynek konjugált kettős kötésrendszere – ami könnyen gerjesztődik – képes a bejutó fény abszorpciójára.
+
+# Sötétben
+
+- A sejtekben igen aktív a guanilát-cikláz enzim, mely GTP-ből egy másodlagos hírvivőt, cGMP-t állít elő nagy mennyiségben.
+- A cGMP a sejthártya Na⁺- és Ca²⁺-csatornáit folyamatosan nyitva tartja, aminek köszönhetően folyamatos a Na⁺ és a Ca²⁺ beáramlás a sejtbe, ezért a pálcikasejt membránpotenciálja – 40 mV, a sejt részlegesen depolarizált állapotban van (sötétáram).
+- A depolarizáció miatt a pálcikák gátló glutamát átvivőanyag leadása folyamatos.
+
+![img-19.jpeg](img-19.jpeg)
+
+![img-20.jpeg](img-20.jpeg)
+
+# Megvilágításkor
+
+- Az elnyelődött foton energiája arra fordítódik, hogy a cisz-retinalból transz-retinal képződjön, ami leválik az opszinról.
+- Ennek következtében a rodopszin egy G-fehérjével (transzducinnal) reagál, ami GTP kötés mellett aktíválja a cGMP-t bontó enzimet, ezért lecsökken a cGMP sejten belüli koncentrációja.
+- Ennek hatására nátrium-csatornák a sejt membránjában bezáródnak.
+- A csatornák bezáródása hiperpolarizációt eredményez (fény-elektromos átalakulás), amely a gátló glutamát neurotranszmitter leadását szorítja vissza.
+
+Ez a glutamát mivel gátló neurotranszmitter, ezért csökkent koncentrációja a szinapszisokban stimuláló hatású („gátlás gátlása”).
+- A bipoláris neuronok aktíválódnak.
+
+- A transz-retinál tehát leválik az opszinról, a receptorok leadják a sejten kívüli térbe, ahol az visszaalakul cisz-retinállá, majd azt a sejtek visszaveszik, ezután a rodopszin regenerálódik.
+- A csapokban jodopszin található, amelyben a retinal mellett a csapsejt színérzékenységének megfelelően 3 féle opszin fehérje valamelyike található.
+
+**Adaptációnak** nevezzük a szemnek a fényviszonyokhoz való alkalmazkodását.
+
+Sötétadaptáció: ha erős fényből sötétbe lépünk hirtelen nem látunk semmit, sötétben, csak kb. 15-20 perc után növekszik szemünk érzékenysége a gyengébb fényvel szemben. Ennek oka, hogy a gyenge fényre érzékeny pálcikák rodopszinja erős fényben lebomlik, és ennek újratermelődéséhez hosszabb idő szükséges, ehhez kell a sötétben eltöltött kb. ¼ óra.
+
+# Látópálya
+
+1. neuron - csap vagy pálcika.
+2. neuron - a bipoláris sejt.
+3. neuron - a ganglionsejt.
+
+- Ganglionsejtek nyúlványa a látóideg.
+- Látóideg-kereszteződés az agy alapján található,
+- attól fogva már a rostok a látópályához tartoznak.
+
+4. neuron - a talamuszban van, ahol a látópálya rostjai átkapcsolnak.
+5. neuron - a primer látókéreg neuronja, amely a nyakszirti lebenyben van.
+
+A retina pontszerűen vetül a látókéregben.
+
+Az elsődleges látókéreg a nyakszirtlebenyen helyezkedik el, itt alakul ki a fényérzet. A másodlagos látóközpontokhoz kapcsolhatók az észlelési folyamatok, itt tudatosulnak, itt kapnak jelentést a különféle ingerek, pl. itt történik
+
+- az arcfelismerés,
+- a színeket, alakokat, formákat itt észleljük, ismerjük fel.
+- Sérülésekor a beteg lát, de a látottakat nem ismeri fel.
+- Ide tartozik az olvasás központ is, melynek sérülésekor a beteg látja, de nem ismeri fel az olvasott szavakat.
+
+# A látóidegek félig kereszteződnek.
+
+- Az orr felőli retinafélből származó rostok kereszteződnek, a halánték felőli részéből nem,
+- ezért a jobb látótér képe a bal féltekébe kerül és fordítva.
+
+Mint a fenti ábrán látható a látóideg, ill. a látópálya különböző helyen történő sérülései különféle látótérkiesésekkel járnak.
+
+A látópálya oldalágakat küld a középagyba, ahol az akkomodáció, a pupillareflex és a szemhéjzárási reflex központjai találhatók. Az innen kiinduló rostok a szivárványhártya és a sugártest simaizmait, ill. a szemhéjakat mozgató izmokat idegzik be.
+
+Pupillareflex
+
+![img-21.jpeg](img-21.jpeg)
+
+![img-22.jpeg](img-22.jpeg)
+
+![img-23.jpeg](img-23.jpeg)
+
+Az írisz élettani feladata az, hogy szabályozza a szembe jutó fény mennyiségét, védve ezzel a retinát. A pupilla erős fényre beszűkül, félhomályban tágul. A reflex kiváltása során a vizsgált egyén mindkét szemét letakarjuk, majd néhány másodperc várakozás után váltakozva vesszük le kezünket a szemekről, és figyeljük a fényt kapott oldal pupillájának szűkületét.
+
+## Szemhéjzárási reflex
+
+Ha valamilyen nagyobb tárgy hirtelen megjelenik a látótérben, vagy ha erős fényel világítjuk meg a szemet ill., ha valamilyen mechanikai hatás éri a szaruhártyát a szemhéjak reflexesen bezáródnak.
+
+A redukált szem
+
+## A látás, az akkomodáció
+
+A szem több törőfelülettel rendelkező összetett optikai rendszer. Az optikai képalkotás szempontjából azonban jól helyettesíthető a sokkal egyszerűbb, ún. „redukált" szemmel. A redukált szem egyetlen törőfelülettel rendelkező homogén test. A redukált szem segítségével az ábrán látható módon a képalkotás nagyon leegyszerűsödik. Ennek megfelelően a sárgafolton kicsinyített, fordított, valódi kép keletkezik, melyet az agy fordítja vissza.
+
+![img-24.jpeg](img-24.jpeg)
+
+A kis domborulatú egyszerű lencsék képalkotását a leképezési törvény írja le:
+
+- $f = a$ lencse fókusztávolsága (Fókusztávolságnak nevezzük a fókusz és a lencse fősík távolságát. Fókusz az a pont, amelybe a gyűjtőlencse az optikai tengellyel párhuzamos fény sugarakat összegyűjti.),
+- $t =$ az élesen látott tárgy távolsága,
+- $k =$ a keletkezett kép távolsága a lencse fősíkjától.
+
+![img-25.jpeg](img-25.jpeg)
+
+![img-26.jpeg](img-26.jpeg)
+
+A gerincesek szeme kétféle módon alkalmazkodik a csökkenő tárgytávolsághoz, ha távoli tárgy közeledik (azaz, ha t csökken).
+
+- A fókusztávolság csökkentésével (pl. emlősök a lencse domborulatának növelésével)
+- vagy a képtávolság növelésével (a halak lencséje merev, alakja nem változtatható).
+
+A szem fókusztávolságának a megváltozása a lencse domborulatának megváltoztatásával válik lehetővé, aminek következtében tehát változik a lencse fénytörőképessége.
+
+A szemlencse fénytörőképességét dioptriában adják meg. Dioptria = a lencse méterben kifejezett fókusztávolságának reciprok értéke. $D = 1/f$
+
+- Szaruhártya-levegő fénytörése állandó (a szaruhártya alakja nem változtatható).
+- A lencse alakja, s így fénytörése tehát változtatható, ez az akkomodáció alapja.
+
+Számítsuk ki, hány dioptriásnak adódik a szem lencserendszere, ha „végtelenre" (igen távoli tárgyakra) nézünk! A vizsgált személyben a lencserendszertől a sárgafoltig a távolság 24 mm.
+
+- $D = 1/f = 1/k + 1/t$,
+- mivel t igen nagy, 1/t értéke elhanyagolható, így
+
+$\mathrm{D} = 1 / \mathrm{k} = 1 / 0,024 \mathrm{~m} = \underline{41,7}$
+
+Közelre nézéskor a lencse domborúbbá válik, fénytörése nő. Hány dioptriásra nő a törőképessége, ha egy tőlünk 25 cm-re levő szöveget olvasunk?
+
+$\mathrm{D} = 1 / 0,024 + 1 / 0,25 = 41,7 + 4 = \underline{45,7}$  A törőképesség 45,7 dioptriásra nőtt.
+
+Hány dioptriás szemüveget használjon egy 25 cm-re levő szöveg nézéséhez az előző feladatban szereplő ember, ha idős korára távollátó lett: a távoli tárgyakat élesen látja, de szemlencséjének domborúsága már nem változtatható?
+
+D szemüveg $= 45,7 - 41,7 = 4$ dioptriás szemüveget.
+
+Ha a fény két eltérő optikai sűrűségű közeg határára érkezik, akkor egy része visszaverődik, másik része pedig belép az új közegbe. Az új közegben haladó fény sugár általában megtörik. A fénytörés oka az, hogy a két közegben eltérő a fény terjedési sebessége.
+
+## Legnagyobb mértékben a levegő-szaruhártya határán törik meg a fény.
+
+## Legnagyobb fénytörés az alábbi helyeken történik:
+
+- Levegő → szaruhártya.
+- Csarnokvíz → lencse elülső felszíne.
+- Lencse hátulsó felszíne → üvegtest.
+
+## A szem fénytörő közegei
+
+### 1. Szemlencse
+
+![img-27.jpeg](img-27.jpeg)
+
+Rugalmas, áttetsző test, idősebb korban veszít rugalmasságából, közellátáshoz segédlencse – szemüveg – válik szükségessé (időskori távollátás). A lencsefüggesztő rostok útján körkörösen rögzül a sugártesthez. A lencse domborúságának változását, éleslátásra való beállítását a sugártest biztosítja, ez az akkomodáció.
+
+A szem nyugalomban – a sugártest lapos, izmai elernyedt állapotban vannak – a végtelenre van állítva, a távoli tárgyakat látjuk élesen.
+
+Az akkomodáció az 5 m-nél közelebb levő tárgy nézése esetén szükséges. A közeli tárgyakról szétartó fény sugarak érik el a szemet, ezért, hogy a kép a retinára vetüljön, össze kell őket gyűjteni, ehhez viszont a lencse domborúságának és a fénytörésének meg kell nőnie. Ekkor:
+
+- A sugártest izmai összehúzódnak, aminek következtében bedomborodik a hátulsó szemcsarnokba,
+- a lencsefüggesztő rostok ellazulnak,
+- a lencse rugalmassága miatt domborodik, fénytörése nő, fókusztávolság csökken,
+- pupilla szűkül.
+- Paraszimpatikus reakció.
+
+![img-28.jpeg](img-28.jpeg)
+ACCOMMODATION IN THE NORMAL EYE
+
+![img-29.jpeg](img-29.jpeg)
+
+![img-30.jpeg](img-30.jpeg)
+
+Az akkomodáció központjai a középagyban találhatók. Reflexív:
+fény – retina – látóideg – látópálya – talamusz – középagy – vegetatív mozgató dúc – sugártest.
+
+## 2. Szemcsarnokok
+
+- Csarnokvízzel kitöltött terek.
+- Az elülső szemcsarnok a szaruhártya és az szivárványhártya közötti terület.
+- A hátsó szemcsarnok az írisz hátsó felszíne és a lencse, ill. lencsefüggesztő készülék közötti terület.
+- Sugártest termeli a csarnokvizet, ez a pupillán keresztül kerül az elülső csarnokba, ahonnan felszívódik. A csarnokvíz a szemnyomás fenntartásában és a szem elülső érmentes részeinek – pl. szemlencse, szaruhártya – táplálásában vesz részt.
+
+![img-31.jpeg](img-31.jpeg)
+
+## 3. Üvegtest
+
+Az üvegtest a szemgolyónak a szemlencse mögötti részét kitöltő, kocsonyaszerű, átlátszó állománya (98%-a víz). A szemgolyó alakjának állandóságát biztosítja, benne finom fehérjehálózat található. Elveszett üvegtest állományt, ellentétben a csarnokvízzel, a szervezet nem tudja pótolni.
+
+![img-32.jpeg](img-32.jpeg)
+
+## Távolság észlelés
+
+### Monokuláris
+
+- Relatív nagyság, ami távolabb van az kisebb.
+- Takarás.
+- Relatív magassági helyzet, ami távolabb van az alacsonyabb.
+- Perspektíva.
+- Ami közelebb van, az gyorsabb.
+- Részletgazdagság, ami közelebb van az részletgazdagabb.
+
+![img-33.jpeg](img-33.jpeg)
+
+### Binokuláris
+
+- Binokuláris eltérés: a két szem kissé eltérő nézőpontjából adódóan ugyanannak a tárgynak a retinaképe a két szemben enyhén eltér. Minél közelebb van a tárgy annál nagyobb az eltérés. Ebből az eltérésből következtet az agy a tárgytávolságra. A jelenség az alapja a mélységészlelésnek, azaz a térálatának is.
+- Konvergencia
+
+A konvergencia (összetartás) a két szemünk látótengelye által bezárt szöggel jellemezhető. Ha a vizsgált tárgy távolabb van tőlünk, ez a szög kicsi, közelre nézéskor a két
+
+![img-34.jpeg](img-34.jpeg)
+
+![img-35.jpeg](img-35.jpeg)
+
+szem által bezárt szög nő. A konvergenciaszög nagyságából a látórendszerünk következtet a tárgy távolságára.
+
+## Térlátás
+
+A háromdimenziójú tárgyaknak a jobb és a bal oldali képe kissé eltér egymástól. Amennyiben egy tárgy, amit nézünk, a két szám látóterének átfedési tartományában található, a két retinán két különböző szögből két kissé különböző kép keletkezik a tárgyról. A két képet az agy egyetlen, térhatású képpé egyesíti.
+
+![img-36.jpeg](img-36.jpeg)
+
+## A szem fénytörésének hibái
+
+### Távollátás (hypermetropia)
+
+Éles kép csak a távoli tárgyakról alakul ki. A közeli tárgyakról a kép az ideghártya mögött keletkezik. Oka:
+
+- Normálisnál rövidebb a szemtengely,
+- csökken a szemlencse rugalmassága.
+- Korrekció gyűjtőlencsével történik.
+
+### Rövidlátás (myopia)
+
+![img-37.jpeg](img-37.jpeg)
+
+![img-38.jpeg](img-38.jpeg)
+
+Éles kép csak a közeli képekről alakul ki. A távoli tárgyakról a kép az ideghártya előtt keletkezik. Oka:
+
+- Hosszabb a szem tengelye, ill.
+- erősebb a szem fénytörése.
+- Javítása homorú – negatív – lencsével történik.
+
+![img-39.jpeg](img-39.jpeg)
+
+![img-40.jpeg](img-40.jpeg)
+
+## Egyéb rendellenességek
+
+### Zöldhályog (glaukóma)
+
+A zöldhályog kialakulásának során a csarnokvíz termelődése és elfolyása közötti egyensúly felborul, a szemnyomás megemelkedik, ez pedig a szaruhártya vizenyőjét és a retina vérellátási zavarát okozza. A vérellátási zavar következtében az ideghártya és a látóideg idegsejtjei elpusztulnak. A folyamattal visszafordíthatatlan látásromlás alakul ki, az időben felismert és kezelt betegség esetén ez a romlás megállítható.
+
+![img-41.jpeg](img-41.jpeg)
+
+### Szürkehályog
+
+A szürkehályog a szemlencse maradandó elhomályosulása, mely jellemzően idősebb korban alakul ki. Előfordulhat sérülésből eredő, veleszületett, fizikai vagy kémiai behatás eredményeként is. Műtét nélkül vaksághoz vezet. A tünetek első megjelenése olyan, mintha homályos, piszkos ablakon néznénk keresztül.
+
+![img-42.jpeg](img-42.jpeg)
+
+„Gyermekkorban a szemlencse állománya lágy, majd serdülőkortól a közepén lévő rostok tömörülni, keményedni kezdenek. Ezzel a folyamattal a lencse alkalmazkodó képessége csökken, aggastyán korra egész tömegében megkeményedik. A szemlencse öregedési folyamataért az alfa-krisztallin nevű dajkafehérje
+
+10
+
+(stresszfehérje) felelős. Ennek aktivitása szükséges, hogy a lencse állománya áttetsző maradjon. Fiatal szervezet lencséjében bőségesen van alfa-krisztallin, mely megakadályozza a fehérje-rostok aggregációját (összecsapódását). Ezek a fehérjeaggregátumok ugyanis a beeső fény egy részét „szórják”, ami a lencse elhomályosodásához vezet.”
+
+A szürkehályog kialakulását megelőzni nem lehet, gyógyszerekkel nem befolyásolható. Egyedüli eredményes gyógymódja, az elszürkült szemlencse műtéti eltávolítása és egy műlencsével történő helyettesítése.
+
+## Kötőhártya-gyulladás (coniunctivitis)
+
+A kötőhártya különböző okok miatt kiváltott gyulladása. Előidézői:
+
+- vírusok, baktériumok,
+- allergia,
+- szél, por, füst és más légszennyeződések.
+
+![img-43.jpeg](img-43.jpeg)
+Kötőhártya gyulladás
+
+## Színtévesztés, színvakság
+
+A színtévesztő ideghártyájában az egyik csap nem működik megfelelően. Valamely színtartományban nem kellően érzékeny, vagy a színtartomány eltolódik valamelyik másik csap színtartománya felé. Leggyakoribb a zöld és a vörös receptorok hibája, a vörös csapocska színtartománya a zöld felé tolódik.
+
+A színvak ember ideghártyájából egyszerűen hiányzik vagy nem működik valamelyik csapsejt típus.
+
+![img-44.jpeg](img-44.jpeg)
+
+## Vakfolt vizsgálata
+
+A vakfoltot az alábbi egyszerű kísérlettel lehet demonstrálni.
+
+Bal szemünket letakarjuk és jobb szemünkkel a pontra koncentrálunk, az ábrát közelítve/távolítva lesz egy pont, amikor a kereszt képe eltűnik, mert a vakfoltra vetül.
+
+![img-45.jpeg](img-45.jpeg)
+
+A vakfolt a retinának az a területe, ahol a látóideg elhagyja a szemet. Nevét onnan kapta, hogy ezen a területen nincsenek receptorok. Mikor a pont képe a sárgafoltra esik – éleslátás –, a kereszt képe a retina más területein képződik le. Van egy olyan távolság, ahol a kereszt képe a vakfoltra kerül. Ilyenkor, ha egyik szemünk be van csukva, a kereszt képe eltűnik.
+
+Mind a két szem nyitvatartása esetén, a jelenség nem tapasztalható, mivel egyrészt a két szem látóterének jelentős része átfedődik, így az agy az adott látótér vak részét a másik szem segítségével mindig látja, másrészt agyunk a látótér vak részét kiegészíti annak környezete alapján.
+
+12

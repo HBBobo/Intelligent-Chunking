@@ -7,7 +7,7 @@ Score the semantic boundary strength between each adjacent sentence pair.
 ### Score 0 - Strong continuity (atomic unit)
 Sentences complete each other's thought. One cannot stand alone.
 Example: "The model uses gradient descent." → "It updates weights iteratively." = 0
-Example: "[HEADER] Neural Networks." → "Neural networks are computational models." = 0
+Example: "Neural Networks." → "Neural networks are computational models." = 0 (heading + body)
 
 ### Score 1 - Very weak boundary (elaboration)
 Second sentence adds detail, explains, or continues the same idea.
@@ -25,12 +25,12 @@ IMPORTANT: A paragraph break alone is NOT enough for 3. Use 1-2 if still elabora
 ### Score 4 - Strong boundary (new subtopic begins)
 A new subtopic or conceptual block starts. A reader would expect a heading here.
 Example: "...so that concludes gradient descent." → "Now consider regularization techniques." = 4
-Example: "The model learns decision boundaries." → "[HEADER] Unsupervised Learning." = 4
+Example: "The model learns decision boundaries." → "Unsupervised Learning." = 4 (new section)
 
 ### Score 5 - Very strong boundary (major topic change)
 Transition between major topics (e.g., supervised→unsupervised, methods→ethics, body→conclusion).
 Example: "Reinforcement learning has shown great promise." → "However, ethical concerns remain." = 5
-Example: "CNNs achieved remarkable success." → "[HEADER] Conclusion." = 5
+Example: "CNNs achieved remarkable success." → "Conclusion." = 5 (major section)
 
 ### Score 6 - Hard boundary (document/chapter level)
 Only for document start, chapter breaks, or the FIRST section header.
@@ -64,8 +64,8 @@ If you're assigning 3 to more than 40% of boundaries, reconsider.
 - New learning paradigm (supervised→unsupervised→RL) = 5
 - New model family (CNNs→RNNs→Transformers) = 4-5
 - Transition to ethics, limitations, or conclusion = 5
-- [HEADER] → body text = 0 (header and its content form a unit)
-- body text → [HEADER] = 4-5 (entering new section)
+- Heading → body text = 0 (header and its content form a unit)
+- body text → new heading = 4-5 (entering new section)
 
 ## Sentences:
 {numbered_sentences}

@@ -6,7 +6,7 @@
 .nul
 
 # Data
-data/raw/
+/data/raw/
 
 # Python
 __pycache__/
