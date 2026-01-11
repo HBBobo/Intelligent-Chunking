@@ -5,6 +5,9 @@
 .env
 .nul
 
+# Data
+data/raw/
+
 # Python
 __pycache__/
 *.py[cod]
@@ -31,9 +34,6 @@ build/
 *.pth
 *.bin
 models/
-
-# Data
-data/raw/
 
 # OS
 .DS_Store
