@@ -57,7 +57,7 @@ def train(
         num_training_steps=total_steps
     )
 
-    criterion = nn.MSELoss()
+    criterion = nn.SmoothL1Loss()
 
     history = {
         "train_loss": [],
