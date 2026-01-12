@@ -16,6 +16,109 @@ from tqdm.auto import tqdm
 from .evaluate import evaluate
 
 
+class CORNLoss(nn.Module):
+    """
+    CORN (Conditional Ordinal Regression Network) Loss.
+
+    Converts K-class ordinal regression into K-1 binary classification tasks.
+    For scores 0-6, we have 6 binary tasks: "Is score > k?" for k=0,1,2,3,4,5.
+
+    This respects ordinal structure: predicting 2 when true=3 is better than
+    predicting 0 when true=3 (unlike standard classification).
+
+    Reference: https://arxiv.org/abs/2111.08851
+    """
+
+    def __init__(self, num_classes: int = 7):
+        super().__init__()
+        self.num_classes = num_classes
+
+    def forward(self, logits: torch.Tensor, targets: torch.Tensor) -> torch.Tensor:
+        """
+        Args:
+            logits: [batch_size, num_classes-1] raw outputs for each threshold.
+            targets: [batch_size] integer class labels 0 to num_classes-1.
+
+        Returns:
+            CORN loss value.
+        """
+        batch_size = logits.size(0)
+        num_thresholds = self.num_classes - 1  # 6 for 7 classes
+
+        # Create binary targets for each threshold
+        # For target=3: binary_targets = [1, 1, 1, 0, 0, 0] (score > 0,1,2 but not > 3,4,5)
+        thresholds = torch.arange(num_thresholds, device=logits.device).unsqueeze(0)
+        targets_expanded = targets.unsqueeze(1)
+        binary_targets = (targets_expanded > thresholds).float()
+
+        # Binary cross entropy for each threshold
+        loss = nn.functional.binary_cross_entropy_with_logits(
+            logits, binary_targets, reduction='mean'
+        )
+
+        return loss
+
+
+def corn_predict(logits: torch.Tensor) -> torch.Tensor:
+    """
+    Convert CORN logits to predicted class labels.
+
+    Args:
+        logits: [batch_size, num_classes-1] threshold logits.
+
+    Returns:
+        [batch_size] predicted class labels.
+    """
+    probs = torch.sigmoid(logits)
+    # Predicted class = number of thresholds exceeded
+    # If probs = [0.9, 0.8, 0.6, 0.3, 0.1, 0.05], we predict class 3
+    # (exceeded thresholds 0, 1, 2 but not 3, 4, 5)
+    predicted = (probs > 0.5).sum(dim=1)
+    return predicted
+
+
+def corn_predict_proba(logits: torch.Tensor) -> torch.Tensor:
+    """
+    Convert CORN logits to class probabilities.
+
+    Args:
+        logits: [batch_size, num_classes-1] threshold logits.
+
+    Returns:
+        [batch_size, num_classes] class probabilities.
+    """
+    probs = torch.sigmoid(logits)
+    num_classes = logits.size(1) + 1
+    batch_size = logits.size(0)
+
+    # P(Y=k) = P(Y>k-1) - P(Y>k)
+    # Add boundaries: P(Y>-1) = 1, P(Y>K-1) = 0
+    probs_extended = torch.cat([
+        torch.ones(batch_size, 1, device=logits.device),
+        probs,
+        torch.zeros(batch_size, 1, device=logits.device)
+    ], dim=1)
+
+    class_probs = probs_extended[:, :-1] - probs_extended[:, 1:]
+    return class_probs.clamp(min=0)  # Ensure non-negative
+
+
+def corn_expected_value(logits: torch.Tensor) -> torch.Tensor:
+    """
+    Convert CORN logits to expected value (soft prediction).
+
+    Args:
+        logits: [batch_size, num_classes-1] threshold logits.
+
+    Returns:
+        [batch_size] expected values.
+    """
+    class_probs = corn_predict_proba(logits)
+    num_classes = class_probs.size(1)
+    classes = torch.arange(num_classes, device=logits.device).float()
+    return (class_probs * classes).sum(dim=1)
+
+
 class FocalLoss(nn.Module):
     """
     Focal Loss for handling class imbalance and hard examples.
