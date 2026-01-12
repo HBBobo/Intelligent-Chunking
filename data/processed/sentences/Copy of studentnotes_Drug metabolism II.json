@@ -1,0 +1,25 @@
+{
+  "doc_id": "Copy of studentnotes_Drug metabolism II",
+  "sentences": [
+    "open.michigan",
+    "Author(s): Aken Desai, Michael Mathis, 2008",
+    "License: Unless otherwise noted, this material is made available under the terms of the Creative Commons Attribution – Share Alike 3.0 License: http://creativecommons.org/licenses/by-sa/3.0/",
+    "We have reviewed this material in accordance with U.S. Copyright Law and have tried to maximize your ability to use, share, and adapt it.",
+    "Copyright holders of content included in this material should contact open.michigan@umich.edu with any questions, corrections, or clarification regarding the use of content.",
+    "For more information about how to cite these materials visit http://open.umich.edu/education/about/terms-of-use.",
+    "Student works are presented as is and may be an interpretation of faculty members' lectures or assignments.",
+    "These student works are not a product of faculty members.",
+    "Faculty do not guarantee the accuracy of student work nor endorse them in any way.",
+    "Any medical information in this material is intended to inform and educate and is not a tool for self-diagnosis or a replacement for medical evaluation, advice, diagnosis or treatment by a healthcare professional.",
+    "Please speak to your physician if you have questions about your medical condition.",
+    "Viewer discretion is advised: Some medical content is graphic and may not be suitable for all viewers.",
+    "MUNIVERSITY OF MICHIGAN",
+    "CC BY SA",
+    "Drug Metabolism Part II",
+    "Wednesday, January 23, 2008 10:00 AM",
+    "[NUMBERED_ITEM] Define Phase II enzymes. What are the reactions catalyzed by these enzymes? a. Drug + Cofactor --&gt; Conjugated Drug i. Glucurondiation: UDP-Glucuronosyl transferase ii. Glutathione conjugation: Glutathione S-transferase iii. Sulfation: Sulfotransferase iv. Acetylation: N-Acetyltransferase v. Methylation: no enzyme named vi. Other",
+    "[NUMBERED_ITEM] What are the cofactors needed for these enzymes? a. UDP-Glucouronosyl transferase: UDPGA b. Glutathione conjugation: glutathione, Acetyl-CoA c. Sulfotransferase: 3-Phosphoadenosine-4-phosphosulfate (PAPS) d. Acetylation: Acetyl-CoA e. Methylation: SAM f. Other",
+    "[NUMBERED_ITEM] Recognize functional groups on drugs that can be conjugated Phase II enzymes. Determine possible products. a. Glucuronidation i. R-OH + UDPGA --&gt; Glucuronide-OR + UDP ii. R-COOH + UDPGA --&gt; Glucuronide-OC(O)R + UDP iii. R-NH2 + UDPGA --&gt; Glucuronide-NHR + UDP iv. R-SH + UDPGA --&gt; Glucuronide-OR + UDP v. Mutations in enzyme cause Crigler-Najjar and Gilbert's b/c bilirubin can't be conjugated and excreted in urine b. Glutathione conjugation i. RX + HS-Glutathione --&gt; R-S-Glutathione + HX ii. Gamma-Glutamyltranspeptidase: R-S-Glutathione --&gt; R-S-Cysteine-Glycine + Glu iii. Aminopeptidase M: R-S-Cysteine-Glycine --&gt; RS-Cysteine + Gly iv. N-Acetyltransferase: RS-Cysteine + Acetyl-CoA --&gt; mercapturic acid v. Beta lyase: RS-Cysteine --&gt; R-SH vi. Thermodynamically favored so can happen w/o first enzyme, just slower vii. Protective mechanism against epoxides c. Sulfation i. R-OH + PAPS --&gt; R-O-SO3 + PAP ii. High affinity, low capacity iii. Can convert certain drugs to carcinogenics d. Acetylation i. Requires Acteyl-CoA ii. -NH2 --&gt; NHCOCH3 e. Methylation i. Common but minor, doesn't always make it more polar ii. Requires SAM iii. O-Methylation: -OH --&gt; -OCH3 iv. N-Methylation: -NHR --&gt; -N(CH3)R v. S-Methylation: -SH --&gt; -SCH3 f. Other",
+    "Pharmacology Page 4"
+  ]
+}

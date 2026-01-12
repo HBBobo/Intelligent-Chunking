@@ -6,8 +6,11 @@ Score the semantic boundary strength between each adjacent sentence pair.
 
 ### Score 0 - Strong continuity (atomic unit)
 Sentences complete each other's thought. One cannot stand alone.
+IMPORTANT: If two "sentences" are actually ONE sentence incorrectly split, score = 0.
 Example: "The model uses gradient descent." → "It updates weights iteratively." = 0
 Example: "Neural Networks." → "Neural networks are computational models." = 0 (heading + body)
+Example: "...testük felépítéséhez, ill." → "a környezetből veszik fel" = 0 (broken sentence at abbreviation)
+Example: "The data includes names," → "addresses, and phone numbers." = 0 (broken at comma)
 
 ### Score 1 - Very weak boundary (elaboration)
 Second sentence adds detail, explains, or continues the same idea.
@@ -55,6 +58,8 @@ If you're assigning 3 to more than 40% of boundaries, reconsider.
 2. THEN: Score all boundaries, ensuring top boundaries keep their high scores
 
 ### Low scores (0-2):
+- Broken sentences (split at comma, abbreviation like "ill.", "pl.", "etc.") = 0
+- Sentence ending mid-phrase or starting with lowercase = 0
 - Pronoun references ("It", "They", "This") = 0-1
 - "For example", "Consider", "This means", "In other words" = 1
 - Listing items, examples, or properties = 1-2
@@ -76,7 +81,14 @@ You may use .5 scores (e.g., 2.5, 3.5) ONLY when a boundary genuinely falls betw
 - Use 3.5 when there's a clear shift but not quite a new subtopic (4)
 Do NOT overuse half-scores. Most boundaries should be whole numbers.
 
-## Task:
-Output a JSON array of exactly {n_boundaries} numbers (0-6, half-points allowed).
-Use the FULL range. Do NOT collapse everything to 3.
-Output ONLY the JSON array, no explanation.
+## Output Format (CRITICAL):
+Return a JSON array of EXACTLY {n_boundaries} scores.
+Each score corresponds to the boundary AFTER that sentence number.
+- Score at index 0 = boundary between sentence 1 and 2
+- Score at index 1 = boundary between sentence 2 and 3
+- And so on...
+
+Example for 5 sentences (4 boundaries):
+[2, 0, 4, 1]
+
+Output ONLY the JSON array of numbers. No explanation, no objects.

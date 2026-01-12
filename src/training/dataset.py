@@ -86,10 +86,15 @@ class BoundaryDataset(Dataset):
             return_tensors="pt"
         )
 
+        # Round score to nearest int (handles ensemble averaging half-points like 0.5, 1.5)
+        score = int(round(b["score"]))
+        # Clamp to valid range [0, 6]
+        score = max(0, min(6, score))
+
         return {
             "input_ids": encoding["input_ids"].squeeze(0),
             "attention_mask": encoding["attention_mask"].squeeze(0),
-            "score": torch.tensor(b["score"], dtype=torch.long),  # Integer class for CrossEntropyLoss
+            "score": torch.tensor(score, dtype=torch.long),  # Integer class for CrossEntropyLoss
             "doc_id": b["doc_id"],
             "boundary_idx": b["boundary_idx"]
         }

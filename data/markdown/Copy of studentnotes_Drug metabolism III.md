@@ -1,0 +1,77 @@
+open.michigan
+
+Author(s): Aken Desai, Michael Mathis, 2008
+
+License: Unless otherwise noted, this material is made available under the terms of the Creative Commons Attribution – Share Alike 3.0
+License: http://creativecommons.org/licenses/by-sa/3.0/
+
+We have reviewed this material in accordance with U.S. Copyright Law and have tried to maximize your ability to use, share, and adapt it.
+
+Copyright holders of content included in this material should contact open.michigan@umich.edu with any questions, corrections, or clarification regarding the use of content.
+
+For more information about how to cite these materials visit http://open.umich.edu/education/about/terms-of-use.
+
+Student works are presented as is and may be an interpretation of faculty members' lectures or assignments. These student works are not a product of faculty members. Faculty do not guarantee the accuracy of student work nor endorse them in any way.
+
+Any medical information in this material is intended to inform and educate and is not a tool for self-diagnosis or a replacement for medical evaluation, advice, diagnosis or treatment by a healthcare professional. Please speak to your physician if you have questions about your medical condition.
+
+Viewer discretion is advised: Some medical content is graphic and may not be suitable for all viewers.
+
+MUNIVERSITY OF MICHIGAN
+
+CC BY SA
+
+Drug Metabolism Part III
+
+Thursday, January 24, 2008
+10:00 AM
+
+1. Describe the factors that can affect the metabolism of drugs.
+a. Availability of cofactors
+b. Competitive reactions
+c. Species differences
+d. Sex differences
+e. Age - metabolic activity peaks at puberty
+f. Nutrition - ascorbate (grapefruit juice), cofactors
+g. Pharmacogenetics
+i. Lack of CYP2D6 prevents codeine being converted to morphine (inefficacious)
+ii. Halothane
+1) Inhaled anaesthetic, smells good, rarely used in US
+2) Reductive dehalogenation
+a) Converted to 2-chloro-1,1,1-trifluoroethane or 2-chloro-1,1-difluoroethylene
+b) Lipid peroxidation --&gt; binds to proteins--&gt;hepatotoxicity
+3) Oxidative dehalogenation by P450 --&gt; trifluoroacetylchloride
+a) Trifluoroacetylchloride binds to proteins that are recognized by immune system
+b) Results in immune hepatitis that results from antibodies attacking liver
+4) Enflurane, isoflurane not nearly as toxic or reactive w/ antibodies
+h. Other xenobiotics: Seldane (terfernadine)
+i. Seldane is an new generation H1 blocker
+ii. It is metabolized by CYP3A and further oxidation to the active form (which is Allegra)
+iii. However, when taking certain antibiotics (ketoconazole, clairthromycin, erythromicin, etc.) it has been known to cause QT prolongation and in rare cases serious CV events
+iv. CYP3A is inhibited by the antibiotics leaving terfenadine in the system, which is cardiotoxic
+
+2. Describe the factors that regulate cytochrome P450 metabolism.
+
+3. What are the inducers and inhibitors of CYP2E1?
+a. Dietary inhibitors: ethanol, diallyl sulfide --&gt; immediate effect while present
+b. Dietary suppressors: diallyl sulfide, phenethyl, isothiocyanate
+c. Dietary inducers: lipid/carbs, fasting, ethanol --&gt; take time b/c they induce transcription
+d. Tylenol (acetaminophen) + Alcohol = bad
+i. @ low dose - sulfation
+ii. @ high dose - glucuronidation
+iii. If you take alcohol night b4, CYP2E1 levels elevate due to increased transcription
+iv. CYP2E1 creates reactive intermediates that can be conjugated w/ glutathione, but this becomes easily overwhelmed
+v. The reactive intermediate then binds to protein in the liver --&gt; hepatotoxicity
+vi. Can administer N-acetyl-L-cysteine (glutathione mimic) to try to save from liver toxicity
+
+4. Describe how metabolism can alter the excretion of compounds.
+
+5. Describe how metabolism can alter the toxicity of compounds.
+a. HIV Protease Inhibitors
+i. One drug requires much lower dose (100 mg/once a day), has a longer half life, given once a day but it irreversibly inhibits P450 --&gt; never brought to market b/c of problems it caused
+ii. Indinavir requires much higher doses (800 mg/dose, three/day)
+1) Higher cost of production
+2) Harder to administer accurately
+3) But because not as toxic, ended up being brought to market
+
+Pharmacology Page 5

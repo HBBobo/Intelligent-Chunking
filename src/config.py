@@ -9,10 +9,18 @@ from dotenv import load_dotenv
 # Load environment variables
 load_dotenv()
 
-# API Configuration
+# API Configuration - Gemini
 GEMINI_API_KEY = os.getenv("GOOGLE_API_KEY") or os.getenv("GEMINI_API_KEY")
 GEMINI_MODEL = "gemini-2.0-flash"
 GEMINI_TEMPERATURE = 0.0
+
+# API Configuration - Claude (optional, enables ensemble mode)
+CLAUDE_API_KEY = os.getenv("CLAUDE_API_KEY") or os.getenv("ANTHROPIC_API_KEY")
+CLAUDE_MODEL = os.getenv("CLAUDE_MODEL", "claude-3-5-haiku-latest")
+
+# Ensemble settings
+USE_ENSEMBLE = os.getenv("USE_ENSEMBLE", "true").lower() == "true"
+DISAGREEMENT_THRESHOLD = float(os.getenv("DISAGREEMENT_THRESHOLD", "2.0"))
 
 # Window parameters
 DEFAULT_WINDOW_SIZE = 100  # sentences per window
@@ -20,7 +28,8 @@ DEFAULT_OVERLAP = 20       # overlap sentences between windows
 DEFAULT_CONTEXT_SIZE = 3   # sentences before/after for training context
 
 # Concurrency settings
-DEFAULT_CONCURRENCY = 5    # max parallel API calls
+DEFAULT_CONCURRENCY = 10   # max parallel API calls (Gemini)
+CLAUDE_CONCURRENCY = 3     # lower for Claude rate limits
 MAX_RETRIES = 3            # retry attempts for failed API calls
 
 # Paths

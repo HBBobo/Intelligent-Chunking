@@ -47,6 +47,10 @@ from .config import (
     DEFAULT_WINDOW_SIZE,
     DEFAULT_OVERLAP,
     DEFAULT_CONCURRENCY,
+    CLAUDE_CONCURRENCY,
+    CLAUDE_API_KEY,
+    USE_ENSEMBLE,
+    DISAGREEMENT_THRESHOLD,
 )
 from .segmenter import Sentence
 from .segmenter import SentenceSegmenter
@@ -76,8 +80,30 @@ class Pipeline:
         self.segmenter = SentenceSegmenter()
         self.window_manager = WindowManager(window_size, overlap)
         self.client = GeminiClient(concurrency)
-        self.labeler = BoundaryLabeler(self.client)
         self.reconciler = ScoreReconciler(strategy="max")
+
+        # Use ensemble labeler if Claude API key is available and ensemble mode is enabled
+        self.use_ensemble = False
+        if USE_ENSEMBLE and CLAUDE_API_KEY:
+            try:
+                from .claude_client import ClaudeClient
+                from .ensemble_labeler import EnsembleLabeler
+                self.claude_client = ClaudeClient(CLAUDE_CONCURRENCY)
+                self.labeler = EnsembleLabeler(
+                    self.client,
+                    self.claude_client,
+                    disagreement_threshold=DISAGREEMENT_THRESHOLD
+                )
+                self.use_ensemble = True
+                safe_print("Ensemble mode enabled (Gemini + Claude)")
+            except Exception as e:
+                safe_print(f"Warning: Could not initialize ensemble mode: {e}")
+                safe_print("Falling back to Gemini-only mode")
+                self.labeler = BoundaryLabeler(self.client)
+        else:
+            self.labeler = BoundaryLabeler(self.client)
+            if USE_ENSEMBLE and not CLAUDE_API_KEY:
+                safe_print("Note: Ensemble mode requested but CLAUDE_API_KEY not set. Using Gemini only.")
 
     async def process_document(
         self,
@@ -126,11 +152,43 @@ class Pipeline:
 
         return sentences, reconciled
 
+    def _get_unique_doc_id(self, file_path: Path, input_dir: Path) -> str:
+        """
+        Generate unique doc_id, handling duplicates in subfolders.
+
+        If file is in a subfolder, prefixes with parent folder names to ensure uniqueness.
+        E.g., biology/chapter1/intro.pdf -> biology_chapter1_intro
+
+        Args:
+            file_path: Path to the file.
+            input_dir: Base input directory.
+
+        Returns:
+            Unique document ID string.
+        """
+        base_name = normalize_text(file_path.stem)
+
+        # Get relative path from input_dir
+        try:
+            rel_path = file_path.relative_to(input_dir)
+        except ValueError:
+            # file_path is not under input_dir, just use stem
+            return base_name
+
+        # If file is in a subfolder, prefix with parent folder names
+        if len(rel_path.parts) > 1:
+            # e.g., "biology/chapter1/intro.pdf" -> "biology_chapter1_intro"
+            prefix = "_".join(rel_path.parts[:-1])
+            return f"{prefix}_{base_name}"
+
+        return base_name
+
     async def process_directory(
         self,
         input_dir: Path,
         output_path: Path,
-        file_extensions: tuple[str, ...] = (".txt", ".md", ".pdf", ".pptx", ".docx")
+        file_extensions: tuple[str, ...] = (".txt", ".md", ".pdf", ".pptx", ".docx"),
+        recursive: bool = True
     ) -> int:
         """
         Process all documents in a directory with scalable output format.
@@ -139,20 +197,41 @@ class Pipeline:
             input_dir: Directory containing input files (.txt, .md, .pdf, .pptx, .docx).
             output_path: Path to output JSONL file.
             file_extensions: File extensions to process.
+            recursive: If True, search subfolders recursively. Default True.
 
         Returns:
             Total number of boundaries labeled.
         """
-        # Find all supported files
+        # Find all supported files (recursive or non-recursive)
         files = []
         for ext in file_extensions:
-            files.extend(input_dir.glob(f"*{ext}"))
+            if recursive:
+                files.extend(input_dir.rglob(f"*{ext}"))  # Recursive
+            else:
+                files.extend(input_dir.glob(f"*{ext}"))   # Non-recursive
+
+        # Sort and deduplicate for consistent ordering
+        files = sorted(set(files))
 
         if not files:
             safe_print(f"No files with extensions {file_extensions} found in {input_dir}")
             return 0
 
         safe_print(f"Found {len(files)} files to process")
+
+        # Show folder breakdown when recursive
+        if recursive and len(files) > 1:
+            folders = set()
+            for f in files:
+                try:
+                    rel = f.relative_to(input_dir).parent
+                    folders.add(str(rel) if str(rel) != "." else "(root)")
+                except ValueError:
+                    pass
+            if len(folders) > 1:
+                folder_list = sorted(folders)[:5]
+                more = f"... and {len(folders) - 5} more" if len(folders) > 5 else ""
+                safe_print(f"  From {len(folders)} folder(s): {folder_list} {more}")
 
         # Calculate total windows for progress tracking
         total_windows = 0
@@ -172,14 +251,15 @@ class Pipeline:
         safe_print(f"Total windows to process: {total_windows}")
 
         # Process all files and collect results with sentences
-        all_results: list[tuple[str, list[Sentence], list[BoundaryScore]]] = []
+        # Tuple: (doc_id, file_path, sentences, boundaries)
+        all_results: list[tuple[str, Path, list[Sentence], list]] = []
 
         with tqdm(total=total_windows, desc="Processing windows") as pbar:
             for file_path in files:
                 sentences, boundaries = await self.process_document(file_path, pbar)
-                # Normalize doc_id to handle any filename encoding issues
-                doc_id = normalize_text(file_path.stem)
-                all_results.append((doc_id, sentences, boundaries))
+                # Use unique doc_id that handles subfolders
+                doc_id = self._get_unique_doc_id(file_path, input_dir)
+                all_results.append((doc_id, file_path, sentences, boundaries))
 
         # Create output directories
         output_path.parent.mkdir(parents=True, exist_ok=True)
@@ -190,7 +270,7 @@ class Pipeline:
         total_sentences = 0
 
         # Write sentences files (one per document)
-        for doc_id, sentences, _ in all_results:
+        for doc_id, file_path, sentences, _ in all_results:
             sentences_file = sentences_dir / f"{doc_id}.json"
             # Normalize text to handle any encoding issues
             normalized_sentences = [normalize_text(s.text) for s in sentences]
@@ -201,22 +281,36 @@ class Pipeline:
                 }, f, ensure_ascii=False, indent=2)
             total_sentences += len(sentences)
 
-        # Write boundary scores (indices only, no text duplication)
+        # Write boundary scores (with ensemble metadata if available)
+        flagged_count = 0
         with open(output_path, "w", encoding="utf-8") as f:
-            for doc_id, sentences, boundaries in all_results:
+            for doc_id, file_path, sentences, boundaries in all_results:
                 for boundary in boundaries:
                     record = {
-                        "doc_id": boundary.doc_id,
+                        "doc_id": doc_id,  # Use our unique doc_id
                         "boundary_idx": boundary.boundary_idx,
                         "sentence_idx_before": boundary.boundary_idx,
                         "sentence_idx_after": boundary.boundary_idx + 1,
                         "score": boundary.score
                     }
+                    # Add ensemble metadata if available (EnsembleScore has these attrs)
+                    if hasattr(boundary, 'gemini_score'):
+                        record["gemini_score"] = boundary.gemini_score
+                    if hasattr(boundary, 'claude_score'):
+                        record["claude_score"] = boundary.claude_score
+                    if hasattr(boundary, 'disagreement'):
+                        record["disagreement"] = boundary.disagreement
+                    if hasattr(boundary, 'flagged'):
+                        record["flagged"] = boundary.flagged
+                        if boundary.flagged:
+                            flagged_count += 1
                     f.write(json.dumps(record, ensure_ascii=False) + "\n")
                     total_boundaries += 1
 
         safe_print(f"Wrote {total_sentences} sentences to {sentences_dir}/")
         safe_print(f"Wrote {total_boundaries} boundaries to {output_path}")
+        if self.use_ensemble and flagged_count > 0:
+            safe_print(f"  ({flagged_count} boundaries flagged for disagreement > {DISAGREEMENT_THRESHOLD})")
 
         return total_boundaries
 

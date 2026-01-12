@@ -122,7 +122,7 @@ class GeminiClient:
                 if all(self._is_valid_score(s) for s in scores):
                     return scores
                 else:
-                    safe_print(f"Warning: Scores out of range or invalid: {scores}")
+                    safe_print(f"Warning: Scores out of range or invalid")
                     return None
 
             return None
@@ -143,25 +143,34 @@ class GeminiClient:
         """
         text = text.strip()
 
-        # Try direct parsing first
-        try:
-            result = json.loads(text)
-            if isinstance(result, list):
-                return [float(x) for x in result]
-        except (json.JSONDecodeError, ValueError):
-            pass
-
-        # Try to find JSON array in text
+        # Find JSON array in text
         start = text.find('[')
         end = text.rfind(']')
 
-        if start != -1 and end != -1 and end > start:
-            try:
-                array_text = text[start:end + 1]
-                result = json.loads(array_text)
-                if isinstance(result, list):
-                    return [float(x) for x in result]
-            except (json.JSONDecodeError, ValueError):
-                pass
+        if start == -1 or end == -1 or end <= start:
+            return None
 
-        return None
+        try:
+            array_text = text[start:end + 1]
+            result = json.loads(array_text)
+
+            if not isinstance(result, list):
+                return None
+
+            # Handle both simple arrays and object arrays
+            scores = []
+            for item in result:
+                if isinstance(item, dict):
+                    # Object format: {"i": 0, "s": 2.0, ...}
+                    score = item.get('s', item.get('score'))
+                    if score is not None:
+                        scores.append(float(score))
+                else:
+                    # Simple number
+                    scores.append(float(item))
+
+            return scores if scores else None
+
+        except (json.JSONDecodeError, ValueError, TypeError) as e:
+            safe_print(f"Warning: Failed to parse JSON array: {e}")
+            return None

@@ -3,7 +3,6 @@ Prompt construction and response parsing for boundary labeling.
 """
 
 import sys
-from pathlib import Path
 
 from .config import PROMPT_TEMPLATE_PATH
 from .window import Window
@@ -97,29 +96,22 @@ class BoundaryLabeler:
                        f"of document '{window.doc_id}'")
             return None
 
-        # Handle off-by-one errors (common LLM mistake)
-        if len(scores) == expected_count + 1:
-            safe_print(f"Note: Got {len(scores)} scores, expected {expected_count}. Truncating.")
-            scores = scores[:expected_count]
-        elif len(scores) == expected_count - 1:
-            # One fewer than expected - pad with 1.0 (safe continuation default)
-            safe_print(f"Note: Got {len(scores)} scores, expected {expected_count}. Padding with 1.")
-            scores = scores + [1.0]
-        elif len(scores) != expected_count:
-            safe_print(f"Warning: Expected {expected_count} scores but got {len(scores)} "
+        # Validate score array length
+        if len(scores) != expected_count:
+            safe_print(f"Warning: Got {len(scores)} scores, expected {expected_count} "
                        f"for window {window.window_id} of document '{window.doc_id}'")
             return None
 
         # Build result tuples
         results = []
-        for i, score in enumerate(scores):
+        for i in range(expected_count):
             boundary_idx = window.start_idx + i
             sent_before = window.sentences[i].text
             sent_after = window.sentences[i + 1].text
 
             results.append((
                 boundary_idx,
-                score,
+                scores[i],
                 sent_before,
                 sent_after,
                 window.doc_id

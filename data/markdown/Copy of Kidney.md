@@ -1,0 +1,330 @@
+CHAPTER 25
+
+The Urinary System
+
+![img-0.jpeg](img-0.jpeg)
+Figure 25.1 Sewage Treatment Plant (credit: "thekirbster"/flickr.com)
+
+# CHAPTER OBJECTIVES
+
+After studying this chapter, you will be able to:
+
+- Describe the composition of urine
+- Label structures of the urinary system
+- Characterize the roles of each of the parts of the urinary system
+- Illustrate the macroscopic and microscopic structures of the kidney
+- Trace the flow of blood through the kidney
+- Outline how blood is filtered in the kidney nephron
+- Provide symptoms of kidney failure
+- List some of the solutes filtered, secreted, and reabsorbed in different parts of the nephron
+- Describe the role of a portal system in the kidney
+- Explain how urine osmolarity is hormonally regulated
+- Describe the regulation of major ions by the kidney
+- Summarize the role of the kidneys in maintaining acid-base balance
+
+INTRODUCTION The urinary system has roles you may be well aware of: cleansing the blood and ridding the body of wastes probably come to mind. However, there are additional, equally important functions played by the system. Take for example, regulation of pH, a function shared with the lungs and the buffers in the blood. Additionally, the regulation of blood pressure is a role shared with the heart and blood vessels. What about regulating the concentration of solutes in the blood? Did you know that the kidney is important in determining the concentration of red blood cells? Eighty-five percent of the erythropoietin (EPO) produced to stimulate red blood cell production is produced in the kidneys. The kidneys also perform the final synthesis step of vitamin D production, converting calcidiol to calcitriol, the active form of vitamin D.
+
+If the kidneys fail, these functions are compromised or lost altogether, with devastating effects on homeostasis. The affected individual might experience weakness, lethargy, shortness of breath, anemia, widespread edema (swelling), metabolic acidosis, rising potassium levels, heart arrhythmias, and more. Each of these functions is vital to your well-being and survival. The urinary system, controlled by the nervous system, also stores urine until a
+
+25 • The Urinary System
+
+convenient time for disposal and then provides the anatomical structures to transport this waste liquid to the outside of the body. Failure of nervous control or the anatomical structures leading to a loss of control of urination results in a condition called incontinence.
+
+This chapter will help you to understand the anatomy of the urinary system and how it enables the physiologic functions critical to homeostasis. It is best to think of the kidney as a regulator of plasma makeup rather than simply a urine producer. As you read each section, ask yourself this question: "What happens if this does not work?" This question will help you to understand how the urinary system maintains homeostasis and affects all the other systems of the body and the quality of one's life.
+
+## INTERACTIVE LINK
+
+Watch this video (http://openstax.org/l/urineintro) from the Howard Hughes Medical Institute for an introduction to the urinary system.
+
+## 25.1 Physical Characteristics of Urine
+
+### LEARNING OBJECTIVES
+
+By the end of this section, you will be able to:
+
+- Compare and contrast blood plasma, glomerular filtrate, and urine characteristics
+- Describe the characteristics of a normal urine sample, including normal range of pH, osmolarity, and volume
+
+The urinary system's ability to filter the blood resides in about 2 to 3 million tufts of specialized capillaries—the glomeruli—distributed more or less equally between the two kidneys. Because the glomeruli filter the blood based mostly on particle size, large elements like blood cells, platelets, antibodies, and albumen are excluded. The glomerulus is the first part of the nephron, which then continues as a highly specialized tubular structure responsible for creating the final urine composition. All other solutes, such as ions, amino acids, vitamins, and wastes, are filtered to create a filtrate composition very similar to plasma. The glomeruli create about 200 liters (189 quarts) of this filtrate every day, yet you excrete less than two liters of waste you call urine.
+
+Characteristics of the urine change, depending on influences such as water intake, exercise, environmental temperature, nutrient intake, and other factors (Table 25.1). Some of the characteristics such as color and odor are rough descriptors of your state of hydration. For example, if you exercise or work outside, and sweat a great deal, your urine will turn darker and produce a slight odor, even if you drink plenty of water. Athletes are often advised to consume water until their urine is clear. This is good advice; however, it takes time for the kidneys to process body fluids and store it in the bladder. Another way of looking at this is that the quality of the urine produced is an average over the time it takes to make that urine. Producing clear urine may take only a few minutes if you are drinking a lot of water or several hours if you are working outside and not drinking much.
+
+Normal Urine Characteristics
+
+|  Characteristic | Normal values  |
+| --- | --- |
+|  Color | Pale yellow to deep amber  |
+|  Odor | Odorless  |
+|  Volume | 750–2000 mL/24 hour  |
+|  pH | 4.5–8.0  |
+|  Specific gravity | 1.003–1.032  |
+
+TABLE 25.1
+
+Access for free at openstax.org
+
+25.3 • Gross Anatomy of the Kidney
+
+![img-1.jpeg](img-1.jpeg)
+FIGURE 25.6 Ureter Peristaltic contractions help to move urine through the lumen with contributions from fluid pressure and gravity. LM × 128. (Micrograph provided by the Regents of the University of Michigan Medical School © 2012)
+
+# 25.3 Gross Anatomy of the Kidney
+
+# LEARNING OBJECTIVES
+
+By the end of this section, you will be able to:
+
+- Describe the external structure of the kidney, including its location, support structures, and covering
+- Identify the major internal divisions and structures of the kidney
+- Identify the major blood vessels associated with the kidney and trace the path of blood through the kidney
+- Compare and contrast the cortical and juxtamedullary nephrons
+- Name structures found in the cortex and medulla
+- Describe the physiological characteristics of the cortex and medulla
+
+The kidneys lie on either side of the spine in the retroperitoneal space between the parietal peritoneum and the posterior abdominal wall, well protected by muscle, fat, and ribs. They are roughly the size of your fist, and the male kidney is typically a bit larger than the female kidney. The kidneys are well vascularized, receiving about 25 percent of the cardiac output at rest.
+
+# INTERACTIVE LINK
+
+There have never been sufficient kidney donations to provide a kidney to each person needing one. Watch this video (http://openstax.org/l/TED) to learn about the TED (Technology, Entertainment, Design) Conference held in March 2011. In this video, Dr. Anthony Atala discusses a cutting-edge technique in which a new kidney is "printed." The successful utilization of this technology is still several years in the future, but imagine a time when you can print a replacement organ or tissue on demand.
+
+# External Anatomy
+
+The left kidney is located at about the T12 to L3 vertebrae, whereas the right is lower due to slight displacement by the liver. Upper portions of the kidneys are somewhat protected by the eleventh and twelfth ribs (Figure 25.7). Each kidney weighs about  $125 - 175\mathrm{g}$  in males and  $115 - 155\mathrm{g}$  in females. They are about  $11 - 14\mathrm{cm}$  in length,  $6\mathrm{cm}$  wide, and  $4\mathrm{cm}$  thick, and are directly covered by a fibrous capsule composed of dense, irregular connective tissue that helps to hold their shape and protect them. This capsule is covered by a shock-absorbing layer of adipose tissue
+
+25 • The Urinary System
+
+called the renal fat pad, which in turn is encompassed by a tough renal fascia. The fascia and, to a lesser extent, the overlying peritoneum serve to firmly anchor the kidneys to the posterior abdominal wall in a retroperitoneal position.
+
+![img-2.jpeg](img-2.jpeg)
+FIGURE 25.7 Kidneys The kidneys are slightly protected by the ribs and are surrounded by fat for protection (not shown).
+
+On the superior aspect of each kidney is the adrenal gland. The adrenal cortex directly influences renal function through the production of the hormone aldosterone to stimulate sodium reabsorption.
+
+## Internal Anatomy
+
+A frontal section through the kidney reveals an outer region called the renal cortex and an inner region called the medulla (Figure 25.8). The renal columns are connective tissue extensions that radiate downward from the cortex through the medulla to separate the most characteristic features of the medulla, the renal pyramids and renal papillae. The papillae are bundles of collecting ducts that transport urine made by nephrons to the calyces of the kidney for excretion. The renal columns also serve to divide the kidney into 6–8 lobes and provide a supportive framework for vessels that enter and exit the cortex. The pyramids and renal columns taken together constitute the kidney lobes.
+
+![img-3.jpeg](img-3.jpeg)
+FIGURE 25.8 Left Kidney
+
+Access for free at openstax.org
+
+25.3 • Gross Anatomy of the Kidney
+
+# Renal Hilum
+
+The renal hilum is the entry and exit site for structures servicing the kidneys: vessels, nerves, lymphatics, and ureters. The medial-facing hila are tucked into the sweeping convex outline of the cortex. Emerging from the hilum is the renal pelvis, which is formed from the major and minor calyxes in the kidney. The smooth muscle in the renal pelvis funnels urine via peristalsis into the ureter. The renal arteries form directly from the descending aorta, whereas the renal veins return cleansed blood directly to the inferior vena cava. The artery, vein, and renal pelvis are arranged in an anterior-to-posterior order.
+
+# Nephrons and Vessels
+
+The renal artery first divides into segmental arteries, followed by further branching to form interlobar arteries that pass through the renal columns to reach the cortex (Figure 25.9). The interlobar arteries, in turn, branch into arcuate arteries, cortical radiate arteries, and then into afferent arterioles. The afferent arterioles service about 1.3 million nephrons in each kidney.
+
+![img-4.jpeg](img-4.jpeg)
+FIGURE 25.9 Blood Flow in the Kidney
+
+Nephrons are the "functional units" of the kidney; they cleanse the blood and balance the constituents of the circulation. The afferent arterioles form a tuft of high-pressure capillaries about  $200\mu \mathrm{m}$  in diameter, the glomerulus. The rest of the nephron consists of a continuous sophisticated tubule whose proximal end surrounds the glomerulus in an intimate embrace—this is Bowman's capsule. The glomerulus and Bowman's capsule together form the renal corpuscle. As mentioned earlier, these glomerular capillaries filter the blood based on particle size. After passing through the renal corpuscle, the capillaries form a second arteriole, the efferent arteriole (Figure 25.10). These will next form a capillary network around the more distal portions of the nephron tubule, the peritubular capillaries and vasa recta, before returning to the venous system. As the glomerular filtrate progresses through the nephron, these capillary networks recover most of the solutes and water, and return them to the circulation. Since a capillary bed (the glomerulus) drains into a vessel that in turn forms a second capillary bed, the definition of a portal system is met. This is the only portal system in which an arteriole is found between the first and second capillary beds. (Portal systems also link the hypothalamus to the anterior pituitary, and the blood vessels of the digestive viscera to the liver.)
+
+25 • The Urinary System
+
+![img-5.jpeg](img-5.jpeg)
+FIGURE 25.10 Blood Flow in the Nephron The two capillary beds are clearly shown in this figure. The efferent arteriole is the connecting vessel between the glomerulus and the peritubular capillaries and vasa recta.
+
+# INTERACTIVE LINK
+
+Visit this link (http://openstax.org/l/bloodflow5) to view an interactive tutorial of the flow of blood through the kidney.
+
+# Cortex
+
+In a dissected kidney, it is easy to identify the cortex; it appears lighter in color compared to the rest of the kidney. All of the renal corpuscles as well as both the proximal convoluted tubules (PCTs) and distal convoluted tubules are found here. Some nephrons have a short loop of Henle that does not dip beyond the cortex. These nephrons are called cortical nephrons. About 15 percent of nephrons have long loops of Henle that extend deep into the medulla and are called juxtamedullary nephrons.
+
+Access for free at openstax.org
+
+## Microscopic Anatomy of the Kidney
+
+### Learning objectives
+
+By the end of this section, you will be able to:Distinguish the histological differences between the renal cortex and medullaDescribe the structure of the filtration membraneIdentify the major structures and subdivisions of the renal corpuscles, renal tubules, and renal capillariesDiscuss the function of the peritubular capillaries and vasa rectaIdentify the location of the juxtaglomerular apparatus and describe the cells that line itDescribe the histology of the proximal convoluted tubule, loop of Henle, distal convoluted tubule, and collecting ducts
+
+The renal structures that conduct the essential work of the kidney cannot be seen by the naked eye. Only a light or electron microscope can reveal these structures. Even then, serial sections and computer reconstruction are necessary to give us a comprehensive view of the functional anatomy of the nephron and its associated blood vessels.
+
+### Nephrons: The Functional Unit
+
+Nephrons take a simple filtrate of the blood and modify it into urine. Many changes take place in the different parts of the nephron before urine is created for disposal. The term forming urine will be used hereafter to describe the filtrate as it is modified into true urine. The principle task of the nephron population is to balance the plasma to homeostatic set points and excrete potential toxins in the urine. They do this by accomplishing three principle functions—filtration, reabsorption, and secretion. They also have additional secondary functions that exert control in three areas: blood pressure (via production of renin), red blood cell production (via the hormone EPO), and calcium absorption (via conversion of calcidiol into calcitriol, the active form of vitamin D).
+
+### Renal Corpuscle
+
+As discussed earlier, the renal corpuscle consists of a tuft of capillaries called the glomerulus that is largely surrounded by Bowman's (glomerular) capsule. The glomerulus is a high-pressure capillary bed between afferent and efferent arterioles. Bowman's capsule surrounds the glomerulus to form a lumen, and captures and directs this filtrate to the PCT. The outermost part of Bowman's capsule, the parietal layer, is a simple squamous epithelium. It transitions onto the glomerular capillaries in an intimate embrace to form the visceral layer of the capsule. Here, the cells are not squamous, but uniquely shaped cells (podocytes) extending finger-like arms (pedicels) to cover the glomerular capillaries (Figure 25.11). These projections interdigitate to form filtration slits, leaving small gaps between the digits to form a sieve. As blood passes through the glomerulus, 10 to 20 percent of the plasma filters between these sieve-like fingers to be captured by Bowman's capsule and funneled to the PCT. Where the fenestrae (windows) in the glomerular capillaries match the spaces between the podocyte “fingers,” the only thing separating the capillary lumen and the lumen of Bowman's capsule is their shared basement membrane (Figure 25.12). These three features comprise what is known as the filtration membrane. This membrane permits very rapid movement of filtrate from capillary to capsule though pores that are only 70 nm in diameter.
+
+25 • The Urinary System
+
+![img-6.jpeg](img-6.jpeg)
+(a)
+
+![img-7.jpeg](img-7.jpeg)
+(b)
+
+![img-8.jpeg](img-8.jpeg)
+FIGURE 25.11 Podocytes Podocytes interdigitate with structures called pedicels and filter substances in a way similar to fenestrations. In (a), the large cell body can be seen at the top right corner, with branches extending from the cell body. The smallest finger-like extensions are the pedicels. Pedicels on one podocyte always interdigitate with the pedicels of another podocyte. (b) This capillary has three podocytes wrapped around it.
+FIGURE 25.12 Fenestrated Capillary Fenestrations allow many substances to diffuse from the blood based primarily on size.
+
+The fenestrations prevent filtration of blood cells or large proteins, but allow most other constituents through. These substances cross readily if they are less than  $4\mathrm{nm}$  in size and most pass freely up to  $8\mathrm{nm}$  in size. An additional factor affecting the ability of substances to cross this barrier is their electric charge. The proteins associated with these pores are negatively charged, so they tend to repel negatively charged substances and allow positively charged substances to pass more readily. The basement membrane prevents filtration of medium-to-large proteins such as globulins. There are also mesangial cells in the filtration membrane that can contract to help regulate the rate of filtration of the glomerulus. Overall, filtration is regulated by fenestrations in capillary endothelial cells, podocytes with filtration slits, membrane charge, and the basement membrane between capillary cells. The result is the creation of a filtrate that does not contain cells or large proteins, and has a slight predominance of positively charged substances.
+
+Lying just outside Bowman's capsule and the glomerulus is the juxtaglomerular apparatus (JGA) (Figure 25.13). At the juncture where the afferent and efferent arterioles enter and leave Bowman's capsule, the initial part of the distal convoluted tubule (DCT) comes into direct contact with the arterioles. The wall of the DCT at that point forms a part of the JGA known as the macula densa. This cluster of cuboidal epithelial cells monitors the fluid composition of fluid flowing through the DCT. In response to the concentration of  $\mathrm{Na^{+}}$  in the fluid flowing past them, these cells release paracrine signals. They also have a single, nonmotile cilium that responds to the rate of fluid movement in the tubule. The paracrine signals released in response to changes in flow rate and  $\mathrm{Na^{+}}$  concentration are adenosine triphosphate (ATP) and adenosine.
+
+Access for free at openstax.org
+
+25.4 * Microscopic Anatomy of the Kidney
+
+![img-9.jpeg](img-9.jpeg)
+(a)
+FIGURE 25.13 Juxtaglomerular Apparatus and Glomerulus (a) The JGA allows specialized cells to monitor the composition of the fluid in the DCT and adjust the glomerular filtration rate. (b) This micrograph shows the glomerulus and surrounding structures. LM × 1540. (Micrograph provided by the Regents of University of Michigan Medical School © 2012)
+
+A second cell type in this apparatus is the juxtaglomerular cell. This is a modified, smooth muscle cell lining the afferent arteriole that can contract or relax in response to ATP or adenosine released by the macula densa. Such contraction and relaxation regulate blood flow to the glomerulus. If the osmolarity of the filtrate is too high (hyperosmotic), the juxtaglomerular cells will contract, decreasing the glomerular filtration rate (GFR) so less plasma is filtered, leading to less urine formation and greater retention of fluid. This will ultimately decrease blood osmolarity toward the physiologic norm. If the osmolarity of the filtrate is too low, the juxtaglomerular cells will relax, increasing the GFR and enhancing the loss of water to the urine, causing blood osmolarity to rise. In other words, when blood osmolarity goes up, filtration and urine formation decrease and water is retained. When blood osmolarity goes down, filtration and urine formation increase and water is lost by way of the urine. The net result of these opposing actions is to keep the rate of filtration relatively constant. A second function of the macula densa cells is to regulate renin release from the juxtaglomerular cells of the afferent arteriole (Figure 25.14). Active renin is a protein comprised of 304 amino acids that cleaves several amino acids from angiotensinogen to produce angiotensin I. Angiotensin I is not biologically active until converted to angiotensin II by angiotensin-converting enzyme (ACE) from the lungs. Angiotensin II is a systemic vasoconstrictor that helps to regulate blood pressure by increasing it. Angiotensin II also stimulates the release of the steroid hormone aldosterone from the adrenal cortex. Aldosterone stimulates  $\mathrm{Na^{+}}$  reabsorption by the kidney, which also results in water retention and increased blood pressure.
+
+25 • The Urinary System
+
+![img-10.jpeg](img-10.jpeg)
+FIGURE 25.14 Conversion of Angiotensin I to Angiotensin II The enzyme renin converts the pro-enzyme angiotensin I; the lung-derived enzyme ACE converts angiotensin I into active angiotensin II.
+
+## Proximal Convoluted Tubule (PCT)
+
+Filtered fluid collected by Bowman's capsule enters into the PCT. It is called convoluted due to its tortuous path. Simple cuboidal cells form this tubule with prominent microvilli on the luminal surface, forming a brush border. These microvilli create a large surface area to maximize the absorption and secretion of solutes (Na⁺, Cl⁻, glucose, etc.), the most essential function of this portion of the nephron. These cells actively transport ions across their membranes, so they possess a high concentration of mitochondria in order to produce sufficient ATP.
+
+## Loop of Henle
+
+The descending and ascending portions of the loop of Henle (sometimes referred to as the nephron loop) are, of course, just continuations of the same tubule. They run adjacent and parallel to each other after having made a hairpin turn at the deepest point of their descent. The descending loop of Henle consists of an initial short, thick portion and long, thin portion, whereas the ascending loop consists of an initial short, thin portion followed by a long, thick portion. The descending thick portion consists of simple cuboidal epithelium similar to that of the PCT. The descending and ascending thin portions consist of simple squamous epithelium. As you will see later, these are important differences, since different portions of the loop have different permeabilities for solutes and water. The ascending thick portion consists of simple cuboidal epithelium similar to the DCT.
+
+## Distal Convoluted Tubule (DCT)
+
+The DCT, like the PCT, is very tortuous and formed by simple cuboidal epithelium, but it is shorter than the PCT. These cells are not as active as those in the PCT; thus, there are fewer microvilli on the apical surface. However, these cells must also pump ions against their concentration gradient, so you will find of large numbers of mitochondria, although fewer than in the PCT.
+
+## Collecting Ducts
+
+The collecting ducts are continuous with the nephron but not technically part of it. In fact, each duct collects filtrate from several nephrons for final modification. Collecting ducts merge as they descend deeper in the medulla to form about 30 terminal ducts, which empty at a papilla. They are lined with simple squamous epithelium with receptors for ADH. When stimulated by ADH, these cells will insert aquaporin channel proteins into their membranes, which as their name suggests, allow water to pass from the duct lumen through the cells and into the interstitial spaces to be recovered by the vasa recta. This process allows for the recovery of large amounts of water from the filtrate back
+
+Access for free at openstax.org
+
+25.5
+\cdot
+Physiology of Urine Formation
+
+into the blood. In the absence of ADH, these channels are not inserted, resulting in the excretion of water in the form of dilute urine. Most, if not all, cells of the body contain aquaporin molecules, whose channels are so small that only water can pass. At least 10 types of aquaporins are known in humans, and six of those are found in the kidney. The function of all aquaporins is to allow the movement of water across the lipid-rich, hydrophobic cell membrane (Figure 25.15).
+
+![img-11.jpeg](img-11.jpeg)
+FIGURE 25.15 Aquaporin Water Channel Positive charges inside the channel prevent the leakage of electrolytes across the cell membrane, while allowing water to move due to osmosis.
+
+# 25.5 Physiology of Urine Formation
+
+# LEARNING OBJECTIVES
+
+By the end of this section, you will be able to:
+
+- Describe the hydrostatic and colloid osmotic forces that favor and oppose filtration
+- Describe glomerular filtration rate (GFR), state the average value of GFR, and explain how clearance rate can be used to measure GFR
+- Predict specific factors that will increase or decrease GFR
+- State the percent of the filtrate that is normally reabsorbed and explain why the process of reabsorption is so important
+- Calculate daily urine production
+- List common symptoms of kidney failure
+
+Having reviewed the anatomy and microanatomy of the urinary system, now is the time to focus on the physiology. You will discover that different parts of the nephron utilize specific processes to produce urine: filtration, reabsorption, and secretion. You will learn how each of these processes works and where they occur along the nephron and collecting ducts. The physiologic goal is to modify the composition of the plasma and, in doing so, produce the waste product urine.
+
+Failure of the renal anatomy and/or physiology can lead suddenly or gradually to renal failure. In this event, a number of symptoms, signs, or laboratory findings point to the diagnosis (Table 25.3).
+
+# Symptoms of Kidney Failure
+
+Weakness
+
+Lethargy
+
+Shortness of breath
+
+Widespread edema
+
+Anemia
+
+Metabolic acidosis
+
+Metabolic alkalosis
+
+Heart arrhythmias
+
+Uremia (high urea level in the blood)
+
+Loss of appetite
+
+TABLE 25.3
+
+25 • Critical Thinking Questions 1153
+
+23. Which of these is a vasoconstrictor?
+a. nitric oxide
+b. natriuretic hormone
+c. bradykinin
+d. angiotensin II
+
+24. What signal causes the heart to secrete atrial natriuretic hormone?
+a. increased blood pressure
+b. decreased blood pressure
+c. increased Na⁺ levels
+d. decreased Na⁺ levels
+
+25. Which of these beverages does not have a diuretic effect?
+a. tea
+b. coffee
+c. alcohol
+d. milk
+
+26. Progesterone can bind to receptors for which hormone that, when released, activates water retention?
+a. aldosterone
+b. ADH
+c. PTH
+d. ANH
+
+27. Renin is released in response to _______.
+a. increased blood pressure
+b. decreased blood pressure
+c. ACE
+d. diuretics
+
+28. Which step in vitamin D production does the kidney perform?
+a. converts cholecalciferol into calcidiol
+b. converts calcidiol into calcitriol
+c. stores vitamin D
+d. none of these
+
+29. Which hormone does the kidney produce that stimulates red blood cell production?
+a. thrombopoietin
+b. vitamin D
+c. EPO
+d. renin
+
+30. If there were no aquaporin channels in the collecting duct, _______.
+a. you would develop systemic edema
+b. you would retain excess Na⁺
+c. you would lose vitamins and electrolytes
+d. you would suffer severe dehydration
+
+# Critical Thinking Questions
+
+31. What is suggested by the presence of white blood cells found in the urine?
+32. Both diabetes mellitus and diabetes insipidus produce large urine volumes, but how would other characteristics of the urine differ between the two diseases?
+33. Why are people with female reproductive systems more likely to contract bladder infections than people with male reproductive systems?
+34. Describe how forceful urination is accomplished.
+35. What anatomical structures provide protection to the kidney?
+36. How does the renal portal system differ from the hypothalamo-hypophyseal and digestive portal systems?
+37. Name the structures found in the renal hilum.
+38. Which structures make up the renal corpuscle?
+39. What are the major structures comprising the filtration membrane?
+40. Give the formula for net filtration pressure.
+
+41. Name at least five symptoms of kidney failure.
+42. Which vessels and what part of the nephron are involved in countercurrent multiplication?
+43. Give the approximate osmolarity of fluid in the proximal convoluted tubule, deepest part of the loop of Henle, distal convoluted tubule, and the collecting ducts.
+44. Explain what happens to Na⁺ concentration in the nephron when GFR increases.
+45. If you want the kidney to excrete more Na⁺ in the urine, what do you want the blood flow to do?
+46. What organs produce which hormones or enzymes in the renin-angiotensin system?
+47. PTH affects absorption and reabsorption of what?
+48. Why is ADH also called vasopressin?
+49. How can glucose be a diuretic?
+50. How does lack of protein in the blood cause edema?
+51. Which three electrolytes are most closely regulated by the kidney?

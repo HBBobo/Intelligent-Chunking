@@ -1,0 +1,299 @@
+open.michigan
+
+Attribution: University of Michigan Medical School, Department of Microbiology and Immunology
+
+License: Unless otherwise noted, this material is made available under the terms of the Creative Commons Attribution–Noncommercial–Share Alike 3.0 License: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+We have reviewed this material in accordance with U.S. Copyright Law and have tried to maximize your ability to use, share, and adapt it. The citation key on the following slide provides information about how you may share and adapt this material.
+
+Copyright holders of content included in this material should contact open.michigan@umich.edu with any questions, corrections, or clarification regarding the use of content.
+
+For more information about how to cite these materials visit http://open.umich.edu/education/about/terms-of-use.
+
+Any medical information in this material is intended to inform and educate and is not a tool for self-diagnosis or a replacement for medical evaluation, advice, diagnosis or treatment by a healthcare professional. Please speak to your physician if you have questions about your medical condition.
+
+Viewer discretion is advised: Some medical content is graphic and may not be suitable for all viewers.
+
+MUNIVERSITY OF MICHIGAN
+
+CC BY NC SA
+
+# Citation Key
+
+for more information see: http://open.umich.edu/wiki/CitationPolicy
+
+## Use + Share + Adapt
+
+{ Content the copyright holder, author, or law permits you to use, share and adapt. }
+
+- **PD-GOV** Public Domain – Government: Works that are produced by the U.S. Government. (USC 17 § 105)
+- **PD-EXP** Public Domain – Expired: Works that are no longer protected due to an expired copyright term.
+- **PD-SELF** Public Domain – Self Dedicated: Works that a copyright holder has dedicated to the public domain.
+- **ZERO** Creative Commons – Zero Waiver
+- **BY** Creative Commons – Attribution License
+- **BY-SA** Creative Commons – Attribution Share Alike License
+- **BY-NC** Creative Commons – Attribution Noncommercial License
+- **BY-NC-SA** Creative Commons – Attribution Noncommercial Share Alike License
+- **GNU-FDL** GNU – Free Documentation License
+
+## Make Your Own Assessment
+
+{ Content Open.Michigan believes can be used, shared, and adapted because it is ineligible for copyright. }
+
+- **PD-INEL** Public Domain – Ineligible: Works that are ineligible for copyright protection in the U.S. (USC 17 § 102(b)) *laws in your jurisdiction may differ
+
+{ Content Open.Michigan has used under a Fair Use determination. }
+
+- **FAIR USE** Fair Use: Use of works that is determined to be Fair consistent with the U.S. Copyright Act. (USC 17 § 107) *laws in your jurisdiction may differ
+
+Our determination **DOES NOT** mean that all uses of this 3rd-party content are Fair Uses and we **DO NOT** guarantee that your use of the content is Fair.
+
+To use this content you should do your own independent analysis to determine whether or not your use will be Fair.
+
+# B Cell Differentiation
+
+# M1 – Immunology Sequence
+
+Winter 2009
+
+![img-0.jpeg](img-0.jpeg)
+
+University of Michigan Medical School
+
+1. B cell activation during antigen-driven B cell differentiation.
+2. What are the cellular and molecular interactions that lead to antigen-driven B cell differentiation?
+3. What is the mechanism of the heavy chain isotype switch?
+4. How can antibody variable region genes further diversify during antigen-driven B cell differentiation?
+
+# Antigen-Dependent B Cell Differentiation
+
+In secondary lymphoid tissues, antigens on pathogens select those rare B cell clones that bind the antigen on the pathogen and causes those B cells to become activated and divide.
+
+This is **clonal selection** of one in ten thousand or one in one hundred thousand B cell clones.
+
+# Pool of mature naïve lymphocytes
+
+![img-1.jpeg](img-1.jpeg)
+Foreign Antigen
+
+![img-2.jpeg](img-2.jpeg)
+
+![img-3.jpeg](img-3.jpeg)
+
+![img-4.jpeg](img-4.jpeg)
+
+![img-5.jpeg](img-5.jpeg)
+
+# Proliferation and differentiation of activated specific lymphocytes to form a clone of effector cells
+
+![img-6.jpeg](img-6.jpeg)
+
+![img-7.jpeg](img-7.jpeg)
+
+![img-8.jpeg](img-8.jpeg)
+
+![img-9.jpeg](img-9.jpeg)
+
+![img-10.jpeg](img-10.jpeg)
+
+PD-1NEL
+
+Regents of the University of Michigan
+
+IgM
+
+![img-11.jpeg](img-11.jpeg)
+
+© 1997 Current Biology Ltd. / Garland Publishing, Inc.
+
+PD-2NEL
+
+Janeway. Immunobiology: The Immune System in Health and Disease. Current Biology Ltd./Garland Publishing, Inc. 1997
+
+IgM and IgD on the surface of a mature B cell are associated with two chains, Igα and Igβ.
+
+Igα and Igβ are not clonally distributed, because they have exactly the same sequence in all B cells.
+
+One part of B cell activation involves phosphorylation of tyrosines on Igα and Igβ, and then activation of a series of signaling molecules (for example, btk).
+
+Cross-linking of immunoglobulin (IgM and IgD) receptors (by binding antigen on follicular dendritic cells or on a bacterial cell wall?) on the B cell surface is required for signal transduction and for B cell activation.
+
+Figure 7.1
+
+# B-cell receptors are activated by crosslinking with antigens
+
+## Bacterial cell
+
+![img-12.jpeg](img-12.jpeg)
+
+DO-THEL
+
+Garland Publishing, Inc. 2000
+
+© 2000 Garland Publishing/Elsevier Science
+
+Antigen-dependent B cell differentiation requires T cell help.
+
+B cell: T cell interaction occurs in germinal centers. These are areas of massive B cell proliferation in secondary lymphoid tissue. They arise from follicles, areas of clustered B cells.
+
+Brown stain is anti-IgD. The clear area is due to proliferation by antigen-responsive B cells that lack IgD. Brown cells are those the follicular B cells that are not participating in the immune response.
+
+![img-13.jpeg](img-13.jpeg)
+
+PD-ENEL
+
+Rockefeller University Press
+
+Differentiation to plasma and memory cells
+
+a. Cell division
+b. Morphological changes-- differentiation to plasma cells
+c. Secretion of antibodies
+d. Affinity maturation
+e. Switch to IgG, IgA, IgE
+
+Another outcome of antigen-dependent B cell differentiation is the generation of memory B cells. These are small lymphocytes which may have IgM, IgG, IgA, or IgE on their surface. Upon a second encounter with antigen, they are activated, proliferate, and differentiate to plasma cells much faster than naïve B cells.
+
+Some aspects of antigen-dependent B cell differentiation require T cell help, and all are enhanced by T cell help.
+
+# Stages in T cell help for B cells
+
+1. A naïve B cell takes up antigen via its immunoglobulin receptors.
+2. The antigen is broken down (processed) and returned to the cell surface, where antigenic fragments are bound to self proteins.
+3. The T cell recognizes the antigen:self protein complex, and begins to be activated.
+
+Figure 7.8
+
+Antigen binding to B-cell receptor delivers the first signal to the B cell
+
+![img-14.jpeg](img-14.jpeg)
+
+Heiper T$\mu$2 cell delivers the second signal via CD40 ligand and cytokines
+
+![img-15.jpeg](img-15.jpeg)
+
+B cell proliferates and differentiates into plasma cells
+
+![img-16.jpeg](img-16.jpeg)
+
+© 2000 Garland Publishing/Elsevier Science
+
+PD-2REL
+
+Garland Publishing, Inc. 2000
+
+4. T cell activation includes the upregulation of CD40 ligand, a cell surface protein which is not expressed on the surface of naïve T cells.
+
+5. The CD40 ligand on the T cell ligates the CD40 on the surface of the B cell, which leads to full B cell antigen-driven differentiation. This includes the heavy chain switch to IgG, IgA, or IgE.
+
+6. The cell surface protein B7 (CD80, CD86) is upregulated on the activated B cell and engages CD28 on the Th cell. CD28:B7 interaction is additionally important for full activation of both cells.
+
+B cell binds bacterial polysaccharide epitope linked to tetanus toxoid protein
+
+![img-17.jpeg](img-17.jpeg)
+
+Antigen is internalized and processed
+
+![img-18.jpeg](img-18.jpeg)
+
+Peptides from protein component are presented to the T cell
+
+![img-19.jpeg](img-19.jpeg)
+
+Activated B cell produces antibody to polysaccharide antigen on the surface of a bacterium
+
+![img-20.jpeg](img-20.jpeg)
+
+© 1997 Current Biology Ltd. / Garland Publishing, Inc.
+
+PD-INEL
+
+Janeway. Immunobiology: The Immune System in Health and Disease. Current Biology Ltd./Garland Publishing, Inc. 1997
+
+The antibody response to a small group of antigens is independent of T cells. These are antigens which extensively cross-link the immunoglobulin receptor on B cells. Proliferation is modest, and there is very little switching to non-IgM isotypes.
+
+![img-21.jpeg](img-21.jpeg)
+
+PG-INEL
+
+Janeway. Immunobiology: The Immune System in Health and Disease. Current Biology Ltd./Garland Publishing, Inc. 1997
+
+One of the results of antigen-driven B cell differentiation is secretion of antibodies. Even though mu on the B cell surface has the configuration of  $\mathsf{H}_2\mathsf{L}_2$ , secreted IgM has five  $\mathsf{H}_2\mathsf{L}_2$  components, a total of ten light chains and ten heavy chains and therefore can bind ten epitopes.
+
+Secreted IgA is composed of a dimer of two  $\mathsf{H}_2\mathsf{L}_2$  components.
+
+The heavy chain switch is a DNA deletion event.
+
+![img-0.jpeg](img-0.jpeg)
+
+PD-ENEL
+
+Janeway. Immunobiology: The Immune System in Health and Disease. Current Biology Ltd./Garland Publishing, Inc. 1997
+
+Like V(D)J recombination, the heavy chain switch is a deletion. Since DNA is lost, the heavy chain switch is not reversible. However, the deletion which mediates the heavy chain switch is different than VDJ recombination.
+
+A. Uses signals different than VDJ--Switch regions--which are 2-8 kb regions that lie about 2 kb 5’ of each heavy chain constant region gene (except Cδ). They are composed of simple sequences repeated many times in tandem.
+
+B. Different location--intron versus exon.
+
+C. During antigen driven differentiation
+
+One of the final stages of T cell activation is the secretion of various interleukins and other cytokines: IL-2, IL-4, IL-5, IL-6, IL-10, IL-13, and interferon-γ.
+
+By a partially understood mechanism, the nature of the antigenic stimulation directs Th cells to produce a specific set of interleukins, and thus direct the antibody response to specific isotypes. For example, IL-4 production by Th cells is critical to switch recombination to ε and expression of IgE by B cells.
+
+The induced isotypes should be best suited for the pathogen (antigen) which induced them.
+
+![img-1.jpeg](img-1.jpeg)
+
+![img-2.jpeg](img-2.jpeg)
+
+![img-3.jpeg](img-3.jpeg)
+
+PD-INEL
+
+Janeway. Immunobiology: The Immune System in Health and Disease. Current Biology Ltd./Garland Publishing, Inc. 1997
+
+Somatic hypermutation during antigen-driven B cell differentiation.
+
+1. Rearranged V(D)J genes only
+2. During antigen-driven differentiation
+3. 0.01-0.1% per nucleotide per division
+4. Single nucleotide changes, not at the VDJ junction.
+
+![img-4.jpeg](img-4.jpeg)
+
+PG-396L W. Dunnick
+
+5. Since somatic hypermutation is random, it increases diversity and affinity, but at a significant cost.
+
+A somatic mutation can be silent, and not change the ability of the immunoglobulin receptor to bind antigen. A B cell with this unchanged receptor continues to participate in the immune response.
+
+A somatic mutation can introduce a stop codon, or change an invariant residue, or otherwise disrupt the immunoglobulin receptor. A B cell with a disrupted immunoglobulin gene will no longer participate in the immune response and die.
+
+A rare somatic mutation can introduce a change in an amino acid that improves binding to the antigen. The B cell with an improved immunoglobulin receptor binds antigen better, divides more, and undergoes more somatic mutation. It will tend to dominate the immune response, compared to its sister B cells clones, in the same germinal center.
+
+# Summary
+
+1. B cell activation during antigen driven differentiation is initiated by clustering of the immunoglobulin receptor complex.
+2. This activation results in massive proliferation of a B cell clone, new gene expression, and differentiation to plasma and memory cells.
+3. Antigen-dependent B cell differentiation occurs in germinal centers and requires T cell help.
+
+4. T cell help involves several T cell:B cell interactions.
+5. The heavy chain switch is mediated by a DNA deletion.
+6. Somatic hypermutation of variable region genes occurs during antigen-driven differentiation and results in affinity maturation.
+
+# Additional Source Information
+
+for more information see: http://open.umich.edu/wiki/CitationPolicy
+
+Slide 6: Regents of the University of Michigan
+Slide 7: Janeway. Immunobiology: The Immune System in Health and Disease. Current Biology Ltd./Garland Publishing, Inc. 1997
+Slide 10: Garland Publishing, Inc. 2000
+Slide 12: Rockefeller University Press
+Slide 16: Garland Publishing, Inc. 2000
+Slide 18: Janeway. Immunobiology: The Immune System in Health and Disease. Current Biology Ltd./Garland Publishing, Inc. 1997
+Slide 19: Janeway. Immunobiology: The Immune System in Health and Disease. Current Biology Ltd./Garland Publishing, Inc. 1997
+Slide 21: Janeway. Immunobiology: The Immune System in Health and Disease. Current Biology Ltd./Garland Publishing, Inc. 1997
+Slide 25: Janeway. Immunobiology: The Immune System in Health and Disease. Current Biology Ltd./Garland Publishing, Inc. 1997
+Slide 27: Wesley Dunnick

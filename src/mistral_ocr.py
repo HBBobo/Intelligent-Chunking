@@ -23,7 +23,7 @@ load_dotenv()
 MAX_PAGES_PER_CHUNK = 20
 
 # Maximum concurrent OCR API calls
-MAX_OCR_CONCURRENCY = 5
+MAX_OCR_CONCURRENCY = 10
 
 
 def safe_print(msg: str) -> None:

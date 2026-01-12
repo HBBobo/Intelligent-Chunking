@@ -1,0 +1,86 @@
+open.michigan
+
+Author(s): Aken Desai, Michael Mathis, 2008
+
+License: Unless otherwise noted, this material is made available under the terms of the Creative Commons Attribution – Share Alike 3.0
+License: http://creativecommons.org/licenses/by-sa/3.0/
+
+We have reviewed this material in accordance with U.S. Copyright Law and have tried to maximize your ability to use, share, and adapt it.
+
+Copyright holders of content included in this material should contact open.michigan@umich.edu with any questions, corrections, or clarification regarding the use of content.
+
+For more information about how to cite these materials visit http://open.umich.edu/education/about/terms-of-use.
+
+Student works are presented as is and may be an interpretation of faculty members' lectures or assignments. These student works are not a product of faculty members. Faculty do not guarantee the accuracy of student work nor endorse them in any way.
+
+Any medical information in this material is intended to inform and educate and is not a tool for self-diagnosis or a replacement for medical evaluation, advice, diagnosis or treatment by a healthcare professional. Please speak to your physician if you have questions about your medical condition.
+
+Viewer discretion is advised: Some medical content is graphic and may not be suitable for all viewers.
+
+MUNIVERSITY OF MICHIGAN
+
+CC BY SA
+
+# Pancreas
+
+Friday, January 11, 2008
+11:00 AM
+
+1. Lists the major contents of pancreatic secretions.
+a. Enzymes
+b. Bicarbonate rich fluid
+c. Ions (Na+, Cl-, HCO3-)
+i. At low secretory rate, Cl-
+ii. At high rate, HCO3-
+
+2. Describes the mechanisms by which chyme is neutralized in the duodenum.
+a. Bicarbonate from CO2 or Na+/HCO3- cotransporter into duct cell
+b. Cells transport HCO3- into lumen and H+ to the blood
+c. Na+/H+ exchanger also sends H+ out to blood
+d. Secretin can cause H+ ATPase to be implanted in membrane
+e. CFTR ion channel (Cl-/HCO3- out) or Cl-/HCO3- exchanger sends HCO3- into lumen
+f. CFTR channel activated by cAMP produced in response to secretin bound to basolateral membrane (adenylyl cyclase)
+
+3. Describes the mechanism by which pancreatic zymogens are activated in the small intestine.
+a. Synthesis on polysomes and transfer to RER
+b. Protein modification in RER
+c. Transfer to Golgi complex
+d. Modification and sorting in Golgi and condensation in vacuoles
+e. Vacuoles condense to form zymogen granules
+f. Regulated exocytosis or constitutive secretion
+g. In small intestine, proenzymes are cleaved by trypsin to be activated
+i. Enterokinase and trypsin responsible for activation of trypsinogen --&gt; trypsin
+ii. Most pancreatic enzymes are proenzymes w/ exception of amylase, lipases
+iii. Multiple forms of enzymes relates to specificity
+
+4. States the stimuli that release secretin.: low pH
+
+5. States the stimuli that release CCK.
+a. Fat
+b. Peptides and AA
+
+6. States the effects of secretin and CCK on pancreatic secretion.
+a. Secretin acts on duct cells to release HCO3-
+b. CCK acts on acinar cells to increase enzyme secretion
+c. CCK has potentiating effect on duct cells
+d. CCK can also excite vagal afferents to neurally stimulate acinar cells (important in humans)
+
+7. Identifies the intracellular mediators of secretin and CCK action.
+a. Secretin acts on adenylyl cyclase --&gt; PKA activation
+b. CCK acts on PLC --&gt; IP3 + DAG
+c. IP3 stimulates release of Ca2+ from intracellular stores and Ca2+ influx
+i. Calmodulin activated PP, PK
+ii. Ca2+ activated PK-C
+d. DAG activates PKC
+
+8. Describes the role of CFTR in pancreatic ductular secretion.
+a. See 2e and f
+
+9. States the significance of the potentiating interaction of CCK and secretin on pancreatic secretions.
+a. See 6
+
+10. States the effects of the autonomic nerves to the pancreas on pancreatic secretion.
+a. Vagal efferents release ACh to both acianar and duct cells
+b. ACh acts to activate PLC cascade
+
+Physiology Page 14

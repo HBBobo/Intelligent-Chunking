@@ -1,0 +1,298 @@
+Harvard-MIT Division of Health Sciences and Technology
+HST.151: Principles of Pharmacology
+Instructor: Dr. Carl Rosow
+
+HST-151
+
+1
+
+# Autonomic Pharmacology
+
+Reading: Chapters 6-10 in Katzung are quite good; those in Goodman and Gilman are based on the same fundamental outline.
+
+## Overview
+
+As you will see throughout the course, the autonomic nervous system (ANS) is a very important topic for two reasons: First, manipulation of ANS function is the basis for treating a great deal of cardiovascular, pulmonary, gastrointestinal and renal disease; second, there is hardly a drug worth mentioning without some major autonomic side effects (cf. antihistamines). You have already heard something about the ANS and its wiring diagram in the lecture by Dr. Strichartz on cholinergic receptors, and it is certainly not my intent to reproduce these pictures or the various diagrams in your text. I hope to give you a slightly different presentation which highlights the important points in this rather long textbook assignment.
+
+You have already heard about nicotinic cholinergic receptors and the somatic nervous system (SNS) control of voluntary striated muscle. The ANS, simply put, controls everything else: smooth muscle, cardiac muscle, glands, and other involuntary functions. We usually think about the ANS as a motor system -- although it does have sensory nerves, there is nothing particularly distinctive about them.
+
+## Anatomy
+
+The sympathetic division of the ANS is called THORACOLUMBAR, but it has input from higher brain centers like hypothalamus, limbic cortex, etc. The preganglionic sympathetic nerves have cell bodies in the intermediolateral column of the spinal cord from about T1 to L3. The efferent fibers exit with the ventral roots of the spinal nerves and then leave in a white ramus which leads to a GANGLION (i.e., a collection of cell bodies of postganglionic neurons). The preganglionic nerves may stimulate several postganglionic nerves which rejoin the spinal nerve by way of a grey ramus. The ganglia are located in several places:
+
+1. Paravertebral: 22 pairs located on either side of the vertebral column. The uppermost ganglia are fused to form the superior and middle cervical ganglia and the stellate ganglion, which is located at about C6. The preganglionic neuron may travel up or down several dermatomal levels before synapsing with one or more postganglionic neurons.
+
+HST-151
+
+2. **Prevertebral**: The celiac, superior mesenteric and inferior mesenteric ganglia. Sometimes called collateral ganglia.
+3. **Adrenal Medulla**: This is also derived from neural crest tissue and functions in much the same way as a ganglion, although the output is circulating epinephrine and norepinephrine.
+
+The parasympathetic or CRANIOSACRAL division has its origin in the nuclei of cranial nerves III, VII, IX, and X as well as the S2-4 nerve roots. The preganglionic fibers travel almost to the end-organ before synapsing in the ganglion:
+
+1. III goes from the Edinger Westphal nucleus to the ciliary ganglion, and the postganglionic nerves continue to the eye.
+2. VII innervates the pterygopalatine and submandibular ganglia which control lacrimal and salivary glands, respectively.
+3. IX innervates the otic ganglion which controls the parotid
+4. X innervates the heart, lung, GI tract, and other splanchnic viscera. The postganglionic cell bodies are contained in specialized tissue within the heart (e.g. AV nodal tissue), GI tract (e.g. Auerbach's plexus).
+5. S2-4 preganglionic nerves originate in the sacral parasympathetic nucleus and leave the cord by way of the pelvic splanchnic and pudendal nerves. They innervate the distal GI tract, bladder, and genitalia.
+
+We will not specifically discuss the enteric nervous system – often treated as a third division of the ANS. It consists of complex networks of interconnected ganglia and nerve fibers, largely contained with the myenteric (Auerbach's) and submucosal (Meissner's) plexuses. This system exerts local control over GI secretion, motility, blood vessel tone,, and fluid transport. It is subject to control by sympathetic, parasympathetic, and CNS iinputs.
+
+If we look at the sympathetic and parasympathetic divisions schematically, it is easy to see how the sympathetic division is suited to "flight or fright" responses. The stimulation of one preganglionic neuron can lead to widespread activation of postganglionic neurons and to the liberation of stress hormones like epinephrine. The parasympathetic division is often called a "vegetative" system, and it is well suited to controlling discrete parts of the body.
+
+# Sympathetic
+
+![img-0.jpeg](img-0.jpeg)
+
+HST-151
+
+![img-1.jpeg](img-1.jpeg)
+
+![img-2.jpeg](img-2.jpeg)
+
+There are some differences between the somatic and autonomic systems that are worth remembering.
+
+## AUTONOMIC
+
+Synapses in periphery
+
+Nerve plexuses
+
+Organs, glands, sm. muscle have activity without nerves
+
+Symp and Parasymp afferent and
+efferent nerves overlap in terminal
+retinaculum
+
+Sm. muscle has protoplasmic bridges, so stimulating one can depolarize 100 others.
+
+## SOMATIC
+
+Synapses in CNS
+
+No plexuses
+
+Skeletal muscle atrophies without nerve
+
+Nerves end in discrete motor end plates on muscle fibers
+
+Muscle fiber depolarized discretely
+
+## Cholinergic neurotransmission
+
+Fig 6-3 and 6-4 in Katzung schematize the cholinergic and adrenergic nerve terminals. Cholinergic receptors are generally categorized as follows:
+
+Nicotinic
+motor end plate
+autonomic ganglia
+
+Muscarinic
+autonomic ganglia
+parasympathetic postganglionic
+
+HST-151
+
+All nicotinic receptors are, by definition, stimulated by the alkaloid nicotine. We know that the two types of nicotinic receptor differ because they are differentially affected by various agonists and antagonists
+
+|   | Agonists | Antagonists  |
+| --- | --- | --- |
+|  Motor End Plate | phenyltrimethylammonium (PTMA) | decamethonium bungarotoxin  |
+|  Ganglion | dimethylphenylpiperazinium (DMPP) | hexamethonium  |
+
+Muscarinic receptors are those stimulated by the alkaloid muscarine, which comes from the mushroom Amanita muscaria. At this writing there are 5 postulated subtypes of muscarinic receptors (see table) although not much is known about the last two.
+
+Muscarinic Receptor Subtypes
+
+|   | M1 | M2 | M3 | M4 | M5  |
+| --- | --- | --- | --- | --- | --- |
+|  Antagonists |  |  |  |  |   |
+|  atropine | + | + | + | + | +  |
+|  pirenzipine | M1>M3>>M2 |  |  |  |   |
+|  AFDX-116 |  | M2>M1>>M3 |  |  |   |
+|  4-DAMP |  |  | M3>>M1>M2 |  |   |
+|  Location | Neural | Heart Sm. Musc. Neural | Endocrine Sm Musc. Neural | Striatum |   |
+|  Amino Acids | 460 | 466 | 589/590 | 478/479 | 531/532  |
+
+HST-151
+
+# Cholinergic Signal Transduction
+
+The nicotinic response of skeletal muscle has been discussed in detail. ACh causes depolarization by a sudden increase in  $\mathrm{Na^{+}}$  conductance. Repolarization depends upon the outward flow of  $\mathrm{K^{+}}$ .
+
+The transduction of muscarinic responses depends upon the tissue. For example ACh causes hyperpolarization of cardiac conducting tissue by increasing  $\mathrm{K}^+$  conductance (M2). In G.I. smooth muscle it causes partial depolarization by increasing  $\mathrm{Na}^+$  and  $\mathrm{Ca}^{2+}$  conductance (M3).
+
+Muscarinic Responses
+
+|  Receptor | M2 | M1 + M3  |
+| --- | --- | --- |
+|  G-Protein | Gk, Gi | Gq, Gs  |
+|  Second Messenger | ↓cAMP ↑arachidonic acid | ↑cAMP ↑DAG ↑IP3  |
+|  Ionic Conductance | ↑K+, ↓Ca2+ (heart) ↓K+ (sm. muscle) | ↓K+, ↑Na+ ↑or ↓Ca2+  |
+|  Responses | hyperpolarization (heart) depolarization (sm. muscle) presynaptic inhibition | myosin phosphorylation depolarization hyperpolarization presynaptic inhibition glandular secretion  |
+
+HST-151
+
+Ganglionic transmission is a very complex system (cf. Strichartz lecture). An initial nicotinic effect leads to an increase in  $\mathrm{Na^{+}}$  conductance and a fast excitatory post-synaptic potential (EPSP). This is modulated by a muscarinic (M1) slow EPSP, and an inhibitory postsynaptic potential (IPSP) which may be muscarinic (M2) or may involve adrenergic transmission from a SIF (small, intensely fluorescent) interneuron.
+
+![img-3.jpeg](img-3.jpeg)
+(see Katzung, p.87)
+
+![img-4.jpeg](img-4.jpeg)
+
+# Adrenergic Neurotransmission
+
+Neurotransmission from almost all sympathetic postganglionic nerves is adrenergic, that is, it involves noradrenaline (NE, norepinephrine, levarterenol). Adrenergic receptors were first divided into  $\alpha$  and  $\beta$  by Ahlquist in 1948. The pattern of responses he defined was based on the relative potencies of agonists:
+
+$\alpha$  -- epinephrine  $&gt;$  norepinephrine  $&gt;$  phenylephrine  $&gt;&gt;$  isoproterenol
+
+$\beta$  -- isoproterenol  $&gt;$  epinephrine  $\geq$  norepinephrine  $&gt;&gt;$  phenylephrine
+
+More subtle potency differences and selective antagonists allowed us to subtype these receptors.
+
+HST-151
+
+![img-5.jpeg](img-5.jpeg)
+
+![img-6.jpeg](img-6.jpeg)
+
+![img-7.jpeg](img-7.jpeg)
+
+HST-151
+
+Selective Adrenergic Agonists and Antagonists
+
+|  Receptor Subtype | Selective Agonist | Selective Antagonist  |
+| --- | --- | --- |
+|  α-1 | methoxamine | prazosin  |
+|  α-2 | clonidine
+dexmedetomidine | yohimbine
+idazoxan
+atipamezole  |
+|  β-1 | dobutamine | metoprolol  |
+|  β-2 | albuterol
+terbutaline | butoxamine  |
+
+Subtypes of α receptors (α1a, α1b, α1d; α2a, α2b, α2c) have been cloned and localized in different tissues, but their physiologic functions are not known. A β-3 response has been described which mediates lipolysis in adipocytes. There are no truly selective agonists/antagonists for the β-3 receptor, and the response is not blocked by most β antagonists. The selectivity of the drugs in the table is only relative.
+
+Signal transduction of adrenergic receptors has been studied extensively. The α-2 and β receptors depend on G-protein mediated inhibition or activation of adenylyl cyclase, while α-1 works by activating phospholipases to hydrolyze phosphoinositides.
+
+|  Receptor | G Proteins | Effector Mechanisms  |
+| --- | --- | --- |
+|  α1 | Gq, GiGo | ↑Phospholipase C,D,A2  |
+|  α2 | Gi, Go | ↓ cAMP.  |
+|  β1 | Gs | ↑ cAMP, ↑ L-type Ca Channels  |
+|  β2 | Gs | ↑ cAMP  |
+|  β3 | Gs | ↑ cAMP  |
+
+How can we use drugs to promote or inhibit cholinergic or noradrenergic neurotransmission? I recommend that each of you draw a schematic of the two types of nerve terminals (cf Katzung 6-3 and 6-4) and try to incorporate the information from Table 6-5. We'll go through this briefly in class. In both cases, there are toxins or approved/experimental drugs which can affect
+
+1. the synthesis, transport or storage of transmitter
+2. the release of transmitter
+
+HST-151
+10
+
+3. the effect of transmitter at receptor sites
+4. the inactivation or metabolism of transmitter
+
+[It is also possible to modify sympathetic neurotransmission at the level of signal transduction--Can you think of an example?]
+
+It is important to realize that the responses to most autonomic drugs are not static over time. The magnitude of the response depends enormously on baseline tone, and responses may change with repeated drug administration or alterations in patient physiology. When a drug loses its effect we say that the patient becomes **tolerant** -- i.e. the same dose produces less effect (or it takes a lot more to produce the same effect). This phenomenon is best described in the case of adrenergic drugs:
+
+- "**Tachyphylaxis**" Certain drugs like ephedrine act by releasing intraneuronal stores of preformed norepinephrine. After repeated dosing, the supply of neurotransmitter may be temporarily exhausted.
+- **Receptor Down Regulation** This may be a decrease in the number of available receptors or a decrease in ligand affinity for the receptor. A good example is the decrease in β1 receptors in the myocardium of patients with congestive failure.
+- **Desensitization** Reversible uncoupling of receptor occupancy and cellular response by receptor phosphorylation and internalization. This is best worked out for the β adrenergic receptor and nicely described in Katzung pp. 22ff.
+
+## Effects on End-Organs
+
+Table 6-3 in Katzung (or Table 5-1 in G &amp; G) lists the effects of stimulating α and β or muscarinic cholinergic receptors. In most cases you will notice that parasympathetic stimulation produces effects which promote normal "vegetative" functions like urination, defecation, production of saliva, accommodation of the eye for near vision, etc. Sympathetic activation does those things deemed necessary for "fight or flight" like increasing cardiac output, increasing metabolic rate, relaxing the ciliary muscle for distance vision, etc. Often the two systems function in opposition, but this is not always the case. In the case of blood vessels, the predominant tone is α-adrenergic, and there is relatively little β or muscarinic tone. [Why does this make sense?]
+
+In a healthy, young individual at rest the predominant tone in most tissues is parasympathetic: for example, there is predominant vagal tone in the heart, peristalsis in the GI and GU tract, and the pupils are small. In a subject under physical stress (or a critically ill patient) there may be maximal sympathetic tone. This is important for two reasons:
+
+HST-151
+11
+
+1. A drug which acts by blocking any autonomic activity will have much more effect if there is a great deal of activity to begin with.
+2. It follows that a drug which blocks ganglionic transmission (i.e., both sympathetic and parasympathetic function) will have its greatest effect on the system which predominates. [So, are the predominant effects of ganglionic blockers sympatholytic or parasympatholytic? What are they used for?]
+
+## Clinical Applications of the Various Drug Classes
+
+## Cholinergic Agonists
+
+As Dr. Strichartz has mentioned, the use of these agents is rather limited, in part because they have such widespread effects.
+
+Nicotinic agonists occupy a small but important place in therapeutics and toxicology. We cannot use acetylcholine itself effectively [why?].
+
+Nicotine and succinylcholine are the two most commonly used nicotinic "agonists," but paradoxically both of these drugs cause such persistent membrane depolarization that they inactivate Na channels and block neuromuscular transmission (cf. Dr. Strichartz comments on "depolarizing" muscle relaxants). Nicotine is used as an insecticide and self-administered (in low doses) by those who smoke and those who are trying to quit. Succinylcholine is used clinically to produce neuromuscular blockade.
+
+The most common "agonists" are those that act indirectly by inhibiting acetylcholinesterase (ChE). The reversible inhibitors like neostigmine and pyridostigmine are used by anesthesiologists to reverse the effects of nicotinic antagonists like curare. They are also given to patients who suffer from myasthenia gravis and have circulating antibody to their own nicotinic receptors. In both cases, the drugs are working by increasing the concentration of acetylcholine available at the motor end-plate. Centrally acting ChE inhibitors are also being used in Alzheimer's dementia.
+
+The irreversible ChE inhibitors like the organophosphates permanently inactivate the enzyme. These drugs were presented in Case Discussion 1 --they are used as insecticides and as "nerve gases." One of them, echothiophate, is used clinically to produce long-lasting miosis (pupil constriction) for refractory glaucoma.
+
+Muscarinic agonists like methacholine, pilocarpine, bethanecol and carbachol are used to produce miosis (in cases of glaucoma or eye
+
+HST-151
+12
+
+surgery) and to increase the activity of GI and GU smooth muscle. The latter effects are sometimes useful in cases of diabetic gastroparesis or bladder dysfunction.
+
+## Cholinergic Antagonists
+
+Nicotinic Antagonists like d-tubocurarine (curare) and pancuronium are used to produce muscle relaxation for surgery and sometimes to facilitate ventilation in critically ill patients. These so-called "non-depolarizing" relaxants act as competitive antagonists at the nicotinic receptor. The selectivity of these older relaxants is not very good: curare is a weak ganglionic blocker, and pancuronium can produce substantial muscarinic block. [What will their side effects be, when used for muscle relaxation?]
+
+Botulinum toxin is a bacterial toxin which blocks acetylcholine release by binding to docking proteins and inhibiting exocytosis. It is now used in some focal dystonias, movement disorders and strabismus (crossed eyes). The drug is given by direct injection into the muscle and produces partial denervation for 3-5 months.
+
+Muscarinic antagonists are still fairly widely used. The prototypes are the belladonna alkaloids, atropine and scopolamine. There are also a fairly large number of synthetic atropine-like drugs. These are all competitive, reversible antagonists which produce mydriasis (pupil dilation), dry mouth, tachycardia, sedation, and decreased tone of bronchial, GI and GU smooth muscle. Logically enough, they are used to treat bradycardia, diarrhea and bladder spasms. Atropinics are also used as sedatives, to dilate the pupils, to reduce secretions, and to produce bronchodilation. Frequently, atropine is used to counteract the muscarinic effects of drugs like the ChE inhibitors.
+
+It is very important to remember that many useful drugs from completely different categories have pronounced anticholinergic side-effects-- examples of these include antihistamines (Benadryl), tricyclic antidepressants (Elavil), phenothiazines (Mellaril). All of these drugs can produce sedation, rapid heartbeat, constipation and urinary retention.
+
+## Adrenergic Agonists
+
+This class includes the endogenous agonists norepinephrine (NE), epinephrine (E), and dopamine (DA). These drugs are not terribly selective for the various receptors, and their relative $\alpha$ vs $\beta$ (or $\delta$, in the
+
+HST-151
+
+case of DA) activity depends a great deal on the dose administered. Most of the agonists act directly at pre- or postsynaptic receptors, but a few (ephedrine, amphetamine, tyramine) act by releasing NE from terminals.
+
+Please review Table 9-4 and Figure 9-6 in Katzung which describe the different cardiovascular responses to phenylephrine, isoproterenol, and epinephrine (an α, β, and mixed sympathomimetic drug, respectively). Epinephrine (in low doses) and isoproterenol stimulate β1 and β2 receptors to increase heart rate and contractility but decrease peripheral vascular resistance. Norepinephrine has very little effect on vascular β2 receptors, so it produces peripheral constriction (G &amp; G p. 205):
+
+α-1 agonists like phenylephrine are primarily used for their effects on vascular tone. By local vasoconstriction they can act as nasal decongestants and retard the absorption of other drugs like local anesthetics. Of course, they are used to treat hypotension or shock, especially when there is inappropriate vasodilation (e.g. gram-negative sepsis). These drugs are also used frequently as mydriatics
+
+α-2 agonists. Clonidine, methyldopa, guanfacine, and guanabenz reduce blood pressure through a central reduction in sympathetic tone. All are used for the outpatient treatment of hypertension. Stimulation of postsynaptic α-2 receptors can initially cause vasoconstriction and increase peripheral resistance. The antihypertensive effects of clonidine and other imidazolines are thought to be mediated, in part, by non-adrenergic "imidazoline" receptors (cf. Katzung, p. 159). Clonidine and dexmedetomidine are also used in man for their sedative and analgesic properties.
+
+β-1 agonists like dobutamine or non-selective β agonists like isoproterenol are used to increase myocardial contractility, and sometimes to increase heart rate or automaticity. The fact that these agents may actually decrease afterload is an advantage in patients with congestive failure; the propensity of β agonists to cause tachyarrhythmias is not.
+
+β-2 agonists like albuterol, metaproterenol or terbutaline are extremely useful for their bronchodilator properties. Asthmatics commonly take them by inhalation. β-2 agonists can also stabilize mast cell membranes and abort acute hypersensitivity reactions like anaphylaxis. The drug of choice for this indication is epinephrine. β-2 agonists can relax uterine smooth muscle, and drugs like ritodrine are sometimes used to delay premature labor.
+
+HST-151
+14
+
+# Adrenergic Antagonists
+
+$\alpha$-1 antagonists like prazosin are used for the outpatient treatment of hypertension. The older non-selective a blockers like phentolamine were much more likely to cause tachycardia [why?]. Phenoxybenzamine, a non-competitive $\alpha$ blocker, has been used for the therapy of pheochromocytoma.
+
+$\alpha$-2 antagonists like atipamezole are not marketed, but have been tested in man. Theoretically, they could be useful to reverse the effects of drugs like clonidine and dexmedetomidine.
+
+$\beta$ antagonists like propranolol, nadolol, and timolol are non-selective drugs which are widely used. Metoprolol, esmolol and atenolol are relatively selective for $\beta$-1 receptors. [What is the theoretical advantage of this?] Labetalol has both $\alpha$ and $\beta$ antagonist activity. These drugs are of major importance for the treatment of hypertension, ischemic heart disease, obstructive cardiomyopathy, and tachyarrhythmias. They may increase survival after myocardial infarction. Propranolol has also been used to treat thyroid storm. Unlike some $\beta$ blockers, propranolol has substantial CNS activity and has proven useful for migraine headache and benign essential tremor. [How might the metabolic effects of $\beta$-blockers pose a problem?]
+
+Miscellaneous sympathoplegic drugs. These drugs are older treatments for hypertension and have largely been superceded by drugs like angiotensin converting enzyme inhibitors, calcium channel blockers, as well as $\alpha$ and $\beta$ blockers. Reserpine, which depletes nerve terminals of NE, is described (Katzung, p.163) as an acceptable treatment for hypertension. In my opinion, the drug is of mainly historical interest. Guanethidine, prevents the release of NE -- another kind of chemical sympathectomy. Its side effects, especially postural hypotension and diarrhea, can be severe, so it has traditionally been reserved for cases of hypertension refractory to other treatments. Metyrosine ($\alpha$-methyl p-tyrosine) inhibits tyrosine hydroxylase, the rate limiting step in the biosynthesis of catecholamines. It has had some use in the adjunctive treatment of pheochromocytoma.
+
+HST-151
+15
+
+## Questions to be covered in Autonomic Nervous System lectures
+
+1. What are the important differences between the somatic and autonomic nervous systems?
+2. How is the anatomy of the sympathetic/parasympathetic system suited to its physiologic role?
+3. How can we distinguish nicotinic receptors at the motor end-plate from those in autonomic ganglia?
+4. What is the basis for subtyping $\alpha$ and $\beta$ adrenergic receptors? What are the supposed advantages of therapeutic agents which are specific for one subtype of receptor?
+5. By what mechanisms may drugs modify adrenergic and cholinergic transmisssion?
+
+## Problem Set -- Autonomic Nervous System
+
+Pindolol is a partial agonist at $\beta$ receptors. How can it act as an antagonist? What is the putative advantage of this drug?
+
+What are the possible reasons for the development of tolerance to a $\beta$ agonist drug (in general terms, please)? If we suspect that there has been receptor down-regulation, how might we investigate it? How could we determine whether there are fewer receptors or the receptor has decreased affinity for the agonist? Hint: See Scatchard Plot in notes by Dr. Strichartz.
+
+We have accepted the fact that NE and ACh are neurotransmitters for postganglionic sympathetic and parasympathetic neurons, respectively. What kind of evidence was necessary to come to this conclusion?
+
+A patient receiving the MAO inhibitor, pargyline, can have a hypertensive crisis after eating cheese or drinking Chianti, yet this drug was originally marketed to lower blood pressure. How can we explain these apparently opposite effects?

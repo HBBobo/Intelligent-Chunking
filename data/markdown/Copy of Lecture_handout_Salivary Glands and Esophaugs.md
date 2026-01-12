@@ -1,0 +1,187 @@
+open.michigan
+
+Author: John Williams, M.D., Ph.D., 2009
+
+License: Unless otherwise noted, this material is made available under the terms of the Creative Commons Attribution-Non-commercial-Share Alike 3.0 License: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+We have reviewed this material in accordance with U.S. Copyright Law and have tried to maximize your ability to use, share, and adapt it. The citation key on the following slide provides information about how you may share and adapt this material.
+
+Copyright holders of content included in this material should contact open.michigan@umich.edu with any questions, corrections, or clarification regarding the use of content.
+
+For more information about how to cite these materials visit http://open.umich.edu/education/about/terms-of-use.
+
+Any medical information in this material is intended to inform and educate and is not a tool for self-diagnosis or a replacement for medical evaluation, advice, diagnosis or treatment by a healthcare professional. Please speak to your physician if you have questions about your medical condition.
+
+Viewer discretion is advised: Some medical content is graphic and may not be suitable for all viewers.
+
+MUNIVERSITY OF MICHIGAN
+
+CC BY NC SA
+
+# Citation Key
+
+for more information see: http://open.umich.edu/wiki/CitationPolicy
+
+## Use + Share + Adapt
+
+{ Content the copyright holder, author, or law permits you to use, share and adapt. }
+
+- **PD-GOV** Public Domain – Government: Works that are produced by the U.S. Government. (USC 17 § 105)
+- **PD-EXP** Public Domain – Expired: Works that are no longer protected due to an expired copyright term.
+- **PD-SELF** Public Domain – Self Dedicated: Works that a copyright holder has dedicated to the public domain.
+- **ZERO** Creative Commons – Zero Waiver
+- **BY** Creative Commons – Attribution License
+- **BY-SA** Creative Commons – Attribution Share Alike License
+- **BY-NC** Creative Commons – Attribution Noncommercial License
+- **BY-NC-SA** Creative Commons – Attribution Noncommercial Share Alike License
+- **GNU-FDL** GNU – Free Documentation License
+
+## Make Your Own Assessment
+
+{ Content Open.Michigan believes can be used, shared, and adapted because it is ineligible for copyright. }
+
+- **PD-THEL** Public Domain – Ineligible: Works that are ineligible for copyright protection in the U.S. (USC 17 § 102(b)) *laws in your jurisdiction may differ
+
+{ Content Open.Michigan has used under a Fair Use determination. }
+
+- **FAIR USE** Fair Use: Use of works that is determined to be Fair consistent with the U.S. Copyright Act. (USC 17 § 107) *laws in your jurisdiction may differ
+
+Our determination **DOES NOT** mean that all uses of this 3rd-party content are Fair Uses and we **DO NOT** guarantee that your use of the content is Fair.
+
+To use this content you should do your own independent analysis to determine whether or not your use will be Fair.
+
+M1 - GI Sequence
+
+Salivary Glands and Esophagus
+
+John Williams, M.D., Ph.D.
+
+Winter, 2009
+
+M
+University of Michigan Medical School
+
+# SALIVARY GLANDS
+
+Saliva is produced by a collection of three major (parotid, submandibular and lingual) and a number of minor (lingual, buccal) glands. Glands are acinar-ductular in structure. Acinar cells are histologically classified as serous or mucous. Serous cells secrete a watery fluid containing soluble proteins such as salivary amylase (parotid). Mucous cells secrete viscous fluid containing mucus. Acinar cells are surrounded by contractile myoepithelial cells. Ducts from acini to mouth include intercalated ducts, striated ducts and main duct. Cells in striated ducts are specialized for ion transport and modify the acinar secretions.
+
+![img-0.jpeg](img-0.jpeg)
+Fig. 2-3 Granger, D, et al. Clinical Gastrointestinal Physiology. W.B. Saunders, Philadelphia, PA; 1985:35. Modified from Berne, RM, Levy, MN. Physiology. C.V. Mosby St. Louis; 1983: 770.
+
+# Contents of Saliva
+
+$\mathrm{H}_2\mathrm{O}$
+
+Ions  $(\mathrm{HCO}_3^-)$
+
+Enzymes
+
+Amylase
+
+Antibacterial Compounds
+
+Lysozyme
+
+Lactoferrin
+
+IGA
+
+Mucus
+
+# Function of Saliva
+
+1. Lubrication of food - mucins
+2. Partial digestion of polysaccharides - amylase
+3. Moisten mouth and wash away dissolved food (necessary for taste)
+4. Mild antibacterial - lysozyme, lactoferrin
+5. Neutralize acids in food and regurgitated stomach acid
+6. Maintenance of teeth -  $\mathrm{Ca^{2+}}$ , fluoride
+
+The functions of saliva can be divided into those concerned with lubrication, digestion and protection. Salivary amylase like pancreatic amylase, cleaves internal  $\alpha$ -1, 4 bonds in starch and can break down up to  $50\%$  of starch before being inactivated by gastric acid; however, normal digestion occurs in its absence and in the intestine it normally makes up only  $10\%$  of amylase. The absence of saliva is termed xerostomia (dry mouth). It can be caused by drug side effects, head and neck radiation therapy or systemic disease such as Sjögrens syndrome. The absence of saliva leads to infections, tooth decay and severe discomfort.
+
+![img-1.jpeg](img-1.jpeg)
+
+![img-2.jpeg](img-2.jpeg)
+
+Salivary secretion is primarily controlled by the autonomic nervous system and is the only area of the GI tract not regulated by GI hormones. Parasympathetic innervation, the predominant control begins in the Salivatory Nuclei of the medulla and is carried in the V, VII and IX cranial nerves. The salivatory nucleus is stimulated by taste, smell and chewing and is inhibited by sleep, fatigue and fear.
+
+Because ACh is the major transmitter, anticholinergic drugs induce dry mouth. Sympathetic innervation reaches glands through the superior cervical ganglia and acts on glandular  $\beta$ -adrenergic receptors. Aldosterone modifies the ionic composition of saliva by decreasing  $\mathrm{Na^{+}}$  but doesn't regulate flow.
+
+# Fluid flow Model for Production of Saliva
+
+![img-3.jpeg](img-3.jpeg)
+DO-3WEL Source Undetermined
+
+Because of the high rate of fluid secretion, salivary glands have a high resting blood flow which is further increased upon secretion by parasympathetic innervation of blood vessels and by release of the local mediator Kallikrein which leads to production of the vasodilator, bradykinin.
+
+The fluid secreted by acinar cells is plasma like in its composition of  $\mathrm{Na^{+}}$ ,  $\mathrm{K^{+}}$ ,  $\mathrm{Cl^{-}}$  and  $\mathrm{HCO_3^-}$ . As fluid passes down the ducts  $\mathrm{Na^{+}}$  and  $\mathrm{Cl^{-}}$  are reabsorbed and  $\mathrm{K^{+}}$  secreted as a result of the activity of the abundant  $\mathrm{Na^{+} - K^{+}}$  ATPase present in duct cells. A Cl  $-\mathrm{HCO_3}$  exchanger present in the apical membrane of duct cells is responsible for the alkalinization of saliva. As the duct cells are relatively impermeable to water, saliva becomes hypotonic, particularly at low flow rates. With stimulation the higher rate of flow means less time for ductular modulation and ion concentrations become more plasma-like but still with elevated  $\mathrm{K^{+}}$  and  $\mathrm{HCO_3^-}$  Aldosterone stimulates  $\mathrm{Na^{+} - K^{+}}$  exchange in the ducts.
+
+# CHEWING AND SWALLOWING
+
+![img-4.jpeg](img-4.jpeg)
+Fig. 3 Johnson, Leonard, Essential Medical Physiology. Raven Press, New York, NY, 1992: 463.
+
+Chewing is under voluntary neuromuscular control and is controlled by the swallowing center in the brainstem. Swallowing begins as a voluntary action but proceeds reflexively through nerves from medullary centers to the pharyngeal muscles. In A) the tongue is shown pushing the soft palate up to seal off the nasal pharynx. In B) the tongue pushes food backward and in C) the superior pharyngeal muscles contract above the bolus forcing it down into the pharyngeal channel. Distal pharyngeal muscles relax and the upper esophageal sphincter opens. At the same time the glottis moves up and the epiglottis closes off the trachea to prevent food from entering the airways. With passage of food in D) the pharyngeal muscles relax and return to resting position.
+
+![img-5.jpeg](img-5.jpeg)
+ESOPHAGUS
+Fig. 3 J. Johnson, Leonard, Essential Medical Physiology. Raven Press, New York, NY, 1992: 463.
+
+The sole purpose of the esophagus is to convey food from the pharynx to the stomach. It is a muscular tube about  $25\mathrm{cm}$  long with a sphincter at each end. The upper sphincter is anatomical while the lower is functional. Swallowing is followed by a wave of primary peristalsis which moves at  $2 - 4\mathrm{cm} / \mathrm{sec}$ . When the wave reaches the LES, the LES relaxes to let food enter the stomach. Secondary peristaltic waves can be initiated by distension in the absence of swallowing. Esophageal peristalsis can occur in the absence of connections to the CNS and is mediated by the enteric nervous system.
+
+# Esophageal Pressures Measured by a Catheter
+
+![img-6.jpeg](img-6.jpeg)
+Reference is atmospheric pressure (0).
+
+# Pressure Changes During a Primary Peristaltic Wave
+
+![img-7.jpeg](img-7.jpeg)
+Fig. 3-3 Johnson, L. Gastrointestinal Physiology,  $7^{\text{th}}$  ed. Mosby Elsevier, Philadelphia, PA; 2007: 26.
+
+Between swallows the pressure at the upper and lower esophageal sphincter is positive due to intrinsic muscular tone. Pressure in the esophagus reflects intrathoracic or intra-abdominal pressure, hence negative and positive, respectively, while pressure in the fundus is due to intraabdominal pressure plus tonic contraction of fundic smooth muscle. Upon swallowing the UES relaxes and then contracts and this contraction is followed by peristaltic contraction of the body of the esophagus. The LES and fundus relax before the peristaltic contraction arrives to allow passage into the stomach. This relaxation of the gastric fundus is known as "receptive relaxation."
+
+Page 36
+# Neural Innervation of the Esophagus
+
+![img-8.jpeg](img-8.jpeg)
+Fig. 3-4 Johnson, L. Gastrointestinal Physiology,  $6^{\text{th}}$  ed. Mosby Elsevier, St. Louis, MO; 2001: 32.
+
+The body of the esophagus receives efferent innervation through the vagus nerve. Visceral somatic fibers directly innervate the striated muscle of the upper one-third of the esophagus. In the lower portion that is made up of smooth muscle, vagal preganglionic fibers synapse on ganglion cells which then innervate smooth muscle cells. The neural circuitry mediates the peristaltic wave with contraction behind and relaxation in front of the bolus of food.
+
+Page 37
+# Regulation of the Lower Esophageal Sphincter
+
+1. LES contraction regulated by intrinsic properties of smooth muscle, nerves and hormones
+2. Basal tone is myogenic but increased by ACh and Gastrin
+3. Transient relaxation mediated by inhibitory neurons that use VIP or NO as a neurotransmitter
+4. Sphincter tone lacking in newborns and decreased during pregnancy
+
+# Abnormalities of LES
+
+1. Failure of LES to function as a sphincter leads to reflux esophagitis, "heartburn."
+2. GERD - Gastroesophageal Reflux Disease
+3. Failure of LES to relax results in achalasia. Over time leads to dilation of the esophagus.
+
+# Additional Source Information
+
+for more information see: http://open.umich.edu/wiki/CitationPolicy
+
+Slide 4 – Fig. 2-3 Granger, D, et al. Clinical Gastrointestinal Physiology. W.B. Saunders, Philadelphia, PA; 1985:35.
+Modified from Berne, RM, Levy, MN. Physiology. C.V. Mosby St. Louis; 1983: 770.
+
+Slide 5 – (Left) John Williams
+
+Slide 5 – (Right) John Williams
+
+Slide 6 – John Williams
+
+Slide 7 – (Left) Fig. 3 Johnson, Leonard, Essential Medical Physiology. Raven Press, New York, NY, 1992: 463.
+
+Slide 7 – (Right) Jim Sherman
+
+Slide 8 – (Left) Jim Sherman
+
+Slide 8 – (Right) Fig. 3-3 Johnson, L. Gastrointestinal Physiology, 7th ed. Mosby Elsevier, Philadelphia, PA; 2007: 26.
+
+Slide 9 – Fig. 3-4 Johnson, L. Gastrointestinal Physiology, 6th ed. Mosby Elsevier, St. Louis, MO; 2001: 32.

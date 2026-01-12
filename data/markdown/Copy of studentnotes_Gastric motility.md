@@ -1,0 +1,75 @@
+open.michigan
+
+Author(s): Aken Desai, Michael Mathis, 2008
+
+License: Unless otherwise noted, this material is made available under the terms of the Creative Commons Attribution – Share Alike 3.0
+License: http://creativecommons.org/licenses/by-sa/3.0/
+
+We have reviewed this material in accordance with U.S. Copyright Law and have tried to maximize your ability to use, share, and adapt it.
+
+Copyright holders of content included in this material should contact open.michigan@umich.edu with any questions, corrections, or clarification regarding the use of content.
+
+For more information about how to cite these materials visit http://open.umich.edu/education/about/terms-of-use.
+
+Student works are presented as is and may be an interpretation of faculty members' lectures or assignments. These student works are not a product of faculty members. Faculty do not guarantee the accuracy of student work nor endorse them in any way.
+
+Any medical information in this material is intended to inform and educate and is not a tool for self-diagnosis or a replacement for medical evaluation, advice, diagnosis or treatment by a healthcare professional. Please speak to your physician if you have questions about your medical condition.
+
+Viewer discretion is advised: Some medical content is graphic and may not be suitable for all viewers.
+
+MUNIVERSITY OF MICHIGAN
+
+CC BY SA
+
+# Gastric Motility
+
+Friday, January 11, 2008
+11:00 AM
+
+18. States the effects of acid, fat and solutions of high osmolarity in the duodenum on gastric secretion and how these effects are mediated.
+
+See intestinal phase acid secretion notes...luminal stimuli cause inhibition of gastric secretion
+
+19. Defines receptive relaxation of the stomach and states mechanism.
+
+a. Resting pressure within fundus is slightly below atmospheric
+b. Fundus further relaxes with swallowing
+c. Food passes into stomach and fundic pressure returns to initial levels
+d. Relaxation is mediated by vagal inhibitory fibers
+
+20. Describes the origin and progression of peristaltic waves across the body and antrum of the stomach.
+
+a. Pacemaker cells in midportion of greater curvature initiate peristalsis
+b. Basal electrical rhythm of 3 times/minute propagating towards pylorus
+c. Contraction by action potentials when smooth muscle cell depolarizes below threshold
+d. AP causes Ca2+ influx (smooth muscle)
+e. AP and contraction increased by vagal and gastrin stimulation, decreased by vagotomy or sympathetic stimulation
+
+21. Describes the effects of peristalsis on the mixing and propulsion of stomach contents.
+
+a. Stomach mixes contents and pushes them toward pylorus
+b. Contents get grinded in antrum
+c. If too large to pass through pylorus (&gt;1mm) get pushed back into body (retropulsion)
+
+22. Compares the peristaltic activity of an empty and full stomach.
+
+a. Empty stomach does not normally have peristaltic contraction
+b. Contraction is brought about by presence of full stomach
+
+23. Describes the effect of particle size on the rate of exiting through the pylorus.
+
+a. Max particle size is 1mm
+b. Large particles take longer to exit because they must be ground up
+c. Particles that can't be ground up do not exit
+
+24. States the duodenal stimuli that alter the rate of gastric emptying.
+
+a. FA, acidity, osmolarity, volume, AA
+b. Dudoenum releases CCK
+c. CCK inhibits stomach emptying
+
+25. Predicts the effects of meal content (osmolarity, fat content, etc.) and volume on the rate of gastric emptying.
+
+a. See 23
+
+Physiology Page 13

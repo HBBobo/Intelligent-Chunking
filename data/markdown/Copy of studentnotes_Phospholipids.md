@@ -1,0 +1,140 @@
+open.michigan
+
+Author(s): Aken Desai, Michael Mathis, 2008
+
+License: Unless otherwise noted, this material is made available under the terms of the Creative Commons Attribution – Share Alike 3.0
+License: http://creativecommons.org/licenses/by-sa/3.0/
+
+We have reviewed this material in accordance with U.S. Copyright Law and have tried to maximize your ability to use, share, and adapt it.
+
+Copyright holders of content included in this material should contact open.michigan@umich.edu with any questions, corrections, or clarification regarding the use of content.
+
+For more information about how to cite these materials visit http://open.umich.edu/education/about/terms-of-use.
+
+Student works are presented as is and may be an interpretation of faculty members' lectures or assignments. These student works are not a product of faculty members. Faculty do not guarantee the accuracy of student work nor endorse them in any way.
+
+Any medical information in this material is intended to inform and educate and is not a tool for self-diagnosis or a replacement for medical evaluation, advice, diagnosis or treatment by a healthcare professional. Please speak to your physician if you have questions about your medical condition.
+
+Viewer discretion is advised: Some medical content is graphic and may not be suitable for all viewers.
+
+MUNIVERSITY OF MICHIGAN
+
+CC BY SA
+
+# Phospholipids
+
+Wednesday, January 16, 2008
+
+10:00 AM
+
+23. How is choline incorporated into phosphatidylcholine?
+
+a. Choline kinase: Choline + ATP --&gt; Phosphocholine + ADP
+b. CTP-Choline Cytidylyl Transferase: Phosphocholine + CTP --&gt; CDP-Choline + Ppi
+
+i. Rate limiting
+ii. Point of regulation
+
+c. CDP-Choline + 1,2 DAG --&gt; Phosphatidylcholine
+
+24. What is the immediate precursor for diacylglycerol?
+
+a. Phosphatidic acid
+b. See 18 for synthesis of phosphitidate
+
+25. How is phosphatidic acid synthesized from dihydroxyacetone-P and fatty acids?
+
+a. G3P + 2 FA-CoA --&gt; phosphatidic acid
+b. See 18c for G3P sources
+
+26. What is the methylation pathway? What phospholipids is synthesized by this pathway?
+
+a. Phosphatidylethanolamine + 3 adoMet --&gt; Phosphatidylcholine + 3 adoHomocysteine
+b. adoMet is from S-adenosyl methionine
+
+27. How is phosphatidylethanolamine synthesized from diacylglycerol and from phosphatidylserine?
+
+a. From DAG
+
+i. CDP-Ethanolamine Pathway
+ii. Similar to CDP-Choline pathway
+
+b. Phosphatidylserine
+
+i. PS Decarboxylase
+ii. Phosphatidylserine --&gt; CO2 + Phosphatidylserine
+
+28. How is phosphatidylserine synthesized?
+
+a. From phosphatidylethanolamine
+b. Phosphatidylethanolamine:serine transferase: Phosphatidylethanolamine + Ser --&gt; Phosphatidylserine + Ethanolamine
+c. W/ PS decarboxylase, forms cycle that can change charge distribution on plasma membranes (ethanolamine is positive, serine is negative)
+
+29. How are phosphatidylinositol and phosphatidyl glycerol synthesized?
+
+a. From Phosphatidic Acid + CTP --&gt; CDP-DAG + Ppi
+b. CDP-DAG + G3P --&gt; CMP + Phosphatidylglycerol-P --&gt; Phosphatidylglycerol + Pi
+c. CDP-DAG + Inositol --&gt; CMP + Phosphatidylinositol
+
+i. Phosphatidylinositol is a major molecule in signal transduction
+ii. Phosphatidylcholine and phosphatidylethanolamine are the major constituents of plasma membranes
+
+30. What are the actions of phospholipases A₁, A₂, C and D?
+
+a. PL-A1: splits FA1 off of phospholipid
+b. PL-A2: splits FA2 off of phospholipid
+c. PL-C
+
+i. G-protein coupled (learned it before)
+ii. Produces diglyceride and phosphoX
+
+d. PL-D: splits off phosphatidic acid and X
+
+31. What are the functional significance of these phospholipases?
+
+a. PL-A2
+
+i. Adjusts FA composition
+ii. Can be used to switch groups from unsaturated to saturated (surfactant)
+
+b. PL-C: signal transduction
+
+i. G-protein coupled receptor activation
+ii. Takes phosphatidylinositol and makes IP3 and DAG
+
+Biochemistry Page 16
+
+c. PL-D: signal transduction
+
+32. What is the overall composition of pulmonary surfactant? What is the major surface active component? How is it synthesized?
+
+a. Role of Surfactant
+
+i. Produced by type II pneumocytes
+ii. Alveolar spaces have enormous air/liquid interface
+iii. Surfactant forms layer at surface and reduces surface tension to prevent alveolar collapse
+iv. Also allows for larger alveolar spaces
+v. Contributes to defense mechanism
+
+1) Supports non-specific host defense mechanisms by forming barrier to microorganisms
+2) Suppresses activation and proliferation of lymphocytes
+3) Augments alveolar macrophage activities
+
+b. Surfactant deficiency
+
+i. Neonatal RDS: premature birth, babies haven't begun to secrete surfactant
+ii. ARDS: lung injury
+iii. Can lead to respiratory failure
+
+c. Composition
+
+i. Isolated from bronchoalveolar lavage fluid
+ii. Nearly half saturated (dipalmitoyl phosphatidylcholine) fatty acids
+iii. Number of proteins and other phosphatidylcholine make up rest
+
+d. Synthesis of dipalmitoyl phosphatidylcholine
+
+i. CDP-choline pathway: dipalmitoyl diglyceride + CDP-choline
+ii. Using PL-A2 to replace unsaturated FA on C2 w/ palmitate
+
+Biochemistry Page 17

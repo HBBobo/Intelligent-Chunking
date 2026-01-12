@@ -1,0 +1,490 @@
+# CHAPTER 22
+
+# The Respiratory System
+
+![img-0.jpeg](img-0.jpeg)
+Figure 22.1 Mountain Climbers The thin air at high elevations can strain the human respiratory system. (credit: "bortescristian"/flickr.com)
+
+# CHAPTER OBJECTIVES
+
+After studying this chapter, you will be able to:
+
+- List the structures of the respiratory system
+- List the major functions of the respiratory system
+- Outline the forces that allow for air movement into and out of the lungs
+- Outline the process of gas exchange
+- Summarize the process of oxygen and carbon dioxide transport within the respiratory system
+- Create a flow chart illustrating how respiration is controlled
+- Discuss how the respiratory system responds to exercise
+- Describe the development of the respiratory system in the embryo
+
+INTRODUCTION Hold your breath. Really! See how long you can hold your breath as you continue reading...How long can you do it? Chances are you are feeling uncomfortable already. A typical human cannot survive without breathing for more than 3 minutes, and even if you wanted to hold your breath longer, your autonomic nervous system would take control. This is because every cell in the body needs to run the oxidative stages of cellular respiration, the process by which energy is produced in the form of adenosine triphosphate (ATP). For oxidative phosphorylation to occur, oxygen is used as a reactant and carbon dioxide is released as a waste product. You may be surprised to learn that although oxygen is a critical need for cells, it is actually the accumulation of carbon dioxide that primarily drives your need to breathe. Carbon dioxide is exhaled and oxygen is inhaled through the respiratory system, which includes muscles to move air into and out of the lungs, passageways through which air moves, and microscopic gas exchange surfaces covered by capillaries. The circulatory system transports gases from the lungs to tissues throughout the body and vice versa. A variety of diseases can affect the respiratory system, such as asthma, emphysema, chronic obstruction pulmonary disorder (COPD), and lung cancer. All of these conditions affect the gas exchange process and result in labored breathing and other difficulties.
+
+22 • The Respiratory System
+
+# 22.1 Organs and Structures of the Respiratory System
+
+## LEARNING OBJECTIVES
+
+By the end of this section, you will be able to:
+
+- List the structures that make up the respiratory system
+- Describe how the respiratory system processes oxygen and $\mathrm{CO}_{2}$
+- Compare and contrast the functions of upper respiratory tract with the lower respiratory tract
+
+The major organs of the respiratory system function primarily to provide oxygen to body tissues for cellular respiration, remove the waste product carbon dioxide, and help to maintain acid-base balance. Portions of the respiratory system are also used for non-vital functions, such as sensing odors, speech production, and for straining, such as during childbirth or coughing (Figure 22.2).
+
+![img-1.jpeg](img-1.jpeg)
+FIGURE 22.2 Major Respiratory Structures The major respiratory structures span the nasal cavity to the diaphragm.
+
+Functionally, the respiratory system can be divided into a conducting zone and a respiratory zone. The conducting zone of the respiratory system includes the organs and structures not directly involved in gas exchange. The gas exchange occurs in the respiratory zone.
+
+## Conducting Zone
+
+The major functions of the conducting zone are to provide a route for incoming and outgoing air, remove debris and pathogens from the incoming air, and warm and humidify the incoming air. Several structures within the conducting zone perform other functions as well. The epithelium of the nasal passages, for example, is essential to sensing odors, and the bronchial epithelium that lines the lungs can metabolize some airborne carcinogens.
+
+## The Nose and its Adjacent Structures
+
+The major entrance and exit for the respiratory system is through the nose. When discussing the nose, it is helpful to divide it into two major sections: the external nose, and the nasal cavity or internal nose.
+
+The external nose consists of the surface and skeletal structures that result in the outward appearance of the nose and contribute to its numerous functions (Figure 22.3). The root is the region of the nose located between the eyebrows. The bridge is the part of the nose that connects the root to the rest of the nose. The dorsum nasi is the length of the nose. The apex is the tip of the nose. On either side of the apex, the nostrils are formed by the alae (singular = ala). An ala is a cartilaginous structure that forms the lateral side of each naris (plural = nares), or nostril opening. The philtrum is the concave surface that connects the apex of the nose to the upper lip.
+
+Access for free at openstax.org
+
+Underneath the thin skin of the nose are its skeletal features (see Figure 22.3, lower illustration). While the root and bridge of the nose consist of bone, the protruding portion of the nose is composed of cartilage. As a result, when looking at a skull, the nose is missing. The nasal bone is one of a pair of bones that lies under the root and bridge of the nose. The nasal bone articulates superiorly with the frontal bone and laterally with the maxillary bones. Septal cartilage is flexible hyaline cartilage connected to the nasal bone, forming the dorsum nasi. The alar cartilage consists of the apex of the nose; it surrounds the naris.
+
+The nares open into the nasal cavity, which is separated into left and right sections by the nasal septum (Figure 22.4). The nasal septum is formed anteriorly by a portion of the septal cartilage (the flexible portion you can touch with your fingers) and posteriorly by the perpendicular plate of the ethmoid bone (a cranial bone located just posterior to the nasal bones) and the thin vomer bones (whose name refers to its plough shape). Each lateral wall of the nasal cavity has three bony projections, called the superior, middle, and inferior nasal conchae. The inferior conchae are separate bones, whereas the superior and middle conchae are portions of the ethmoid bone. Conchae serve to increase the surface area of the nasal cavity and to disrupt the flow of air as it enters the nose, causing air to bounce along the epithelium, where it is cleaned and warmed. The conchae and meatuses also conserve water and prevent dehydration of the nasal epithelium by trapping water during exhalation. The floor of the nasal cavity is composed of the palate. The hard palate at the anterior region of the nasal cavity is composed of bone. The soft palate at the posterior portion of the nasal cavity consists of muscle tissue. Air exits the nasal cavities via the internal nares and moves into the pharynx.
+
+Several bones that help form the walls of the nasal cavity have air-containing spaces called the paranasal sinuses, which serve to warm and humidify incoming air. Sinuses are lined with a mucosa. Each paranasal sinus is named for its associated bone: frontal sinus, maxillary sinus, sphenoidal sinus, and ethmoidal sinus. The sinuses produce mucus and lighten the weight of the skull.
+
+The nares and anterior portion of the nasal cavities are lined with mucous membranes, containing sebaceous glands and hair follicles that serve to prevent the passage of large debris, such as dirt, through the nasal cavity. An olfactory epithelium used to detect odors is found deeper in the nasal cavity.
+
+The conchae, meatuses, and paranasal sinuses are lined by respiratory epithelium composed of pseudostratified ciliated columnar epithelium (Figure 22.5). The epithelium contains goblet cells, one of the specialized, columnar epithelial cells that produce mucus to trap debris. The cilia of the respiratory epithelium help remove the mucus and debris from the nasal cavity with a constant beating motion, sweeping materials towards the throat to be swallowed. Interestingly, cold air slows the movement of the cilia, resulting in accumulation of mucus that may in turn lead to a runny nose during cold weather. This moist epithelium functions to warm and humidify incoming air. Capillaries located just beneath the nasal epithelium warm the air by convection. Serous and mucus-producing cells also secrete the lysozyme enzyme and proteins called defensins, which have antibacterial properties. Immune cells that patrol the connective tissue deep to the respiratory epithelium provide additional protection.
+
+22.1 • Organs and Structures of the Respiratory System
+951
+
+![img-2.jpeg](img-2.jpeg)
+FIGURE 22.5 Pseudostratified Ciliated Columnar Epithelium Respiratory epithelium is pseudostratified ciliated columnar epithelium. Seromucous glands provide lubricating mucus. LM × 680. (Micrograph provided by the Regents of University of Michigan Medical School © 2012)
+
+## INTERACTIVE LINK
+
+View the University of Michigan WebScope (http://openstax.org/l/pseudoMG) to explore the tissue sample in greater detail.
+
+## Pharynx
+
+The pharynx is a tube formed by skeletal muscle and lined by mucous membrane that is continuous with that of the nasal cavities (see Figure 22.4). The pharynx is divided into three major regions: the nasopharynx, the oropharynx, and the laryngopharynx (Figure 22.6).
+
+![img-3.jpeg](img-3.jpeg)
+FIGURE 22.6 Divisions of the Pharynx The pharynx is divided into three regions: the nasopharynx, the oropharynx, and the laryngopharynx.
+
+The nasopharynx is flanked by the conchae of the nasal cavity, and it serves only as an airway. At the top of the nasopharynx are the pharyngeal tonsils. A pharyngeal tonsil, also called an adenoid, is an aggregate of lymphoid reticular tissue similar to a lymph node that lies at the superior portion of the nasopharynx. The function of the pharyngeal tonsil is not well understood, but it contains a rich supply of lymphocytes and is covered with ciliated epithelium that traps and destroys invading pathogens that enter during inhalation. The pharyngeal tonsils are large in children, but interestingly, tend to regress with age and may even disappear. The uvula is a small bulbous, teardrop-shaped structure located at the apex of the soft palate. Both the uvula and soft palate move like a pendulum during swallowing, swinging upward to close off the nasopharynx to prevent ingested materials from entering the nasal cavity. In addition, auditory (Eustachian) tubes that connect to each middle ear cavity open into the nasopharynx. This connection is why colds often lead to ear infections.
+
+The oropharynx is a passageway for both air and food. The oropharynx is bordered superiorly by the nasopharynx and anteriorly by the oral cavity. The fauces is the opening at the connection between the oral cavity and the oropharynx. As the nasopharynx becomes the oropharynx, the epithelium changes from pseudostratified ciliated columnar epithelium to stratified squamous epithelium. The oropharynx contains two distinct sets of tonsils, the palatine and lingual tonsils. A palatine tonsil is one of a pair of structures located laterally in the oropharynx in the area of the fauces. The lingual tonsil is located at the base of the tongue. Similar to the pharyngeal tonsil, the palatine and lingual tonsils are composed of lymphoid tissue, and trap and destroy pathogens entering the body through the oral or nasal cavities.
+
+The laryngopharynx is inferior to the oropharynx and posterior to the larynx. It continues the route for ingested material and air until its inferior end, where the digestive and respiratory systems diverge. The stratified squamous epithelium of the oropharynx is continuous with the laryngopharynx. Anteriorly, the laryngopharynx opens into the larynx, whereas posteriorly, it enters the esophagus.
+
+### Larynx
+
+The larynx is a cartilaginous structure inferior to the laryngopharynx that connects the pharynx to the trachea and helps regulate the volume of air that enters and leaves the lungs (Figure 22.7). The structure of the larynx is formed by several pieces of cartilage. Three large cartilage pieces—the thyroid cartilage (anterior), epiglottis (superior), and cricoid cartilage (inferior)—form the major structure of the larynx. The thyroid cartilage is the largest piece of cartilage that makes up the larynx. The thyroid cartilage consists of the laryngeal prominence, or “Adam's apple,” which tends to be more prominent in males. The thick cricoid cartilage forms a ring, with a wide posterior region and a thinner anterior region. Three smaller, paired cartilages—the arytenoids, corniculates, and cuneiforms—attach to the epiglottis and the vocal cords and muscle that help move the vocal cords to produce speech.
+
+22.1 • Organs and Structures of the Respiratory System
+953
+
+![img-4.jpeg](img-4.jpeg)
+
+![img-5.jpeg](img-5.jpeg)
+FIGURE 22.7 Larynx The larynx extends from the laryngopharynx and the hyoid bone to the trachea.
+
+The epiglottis, attached to the thyroid cartilage, is a very flexible piece of elastic cartilage that covers the opening of the trachea (see Figure 22.4). When in the "closed" position, the unattached end of the epiglottis rests on the glottis. The glottis is composed of the vestibular folds, the true vocal cords, and the space between these folds (Figure 22.8). A vestibular fold, or false vocal cord, is one of a pair of folded sections of mucous membrane. A true vocal cord is one of the white, membranous folds attached by muscle to the thyroid and arytenoid cartilages of the larynx on their outer edges. The inner edges of the true vocal cords are free, allowing oscillation to produce sound. The size of the membranous folds of the true vocal cords differs between individuals, producing voices with different pitch ranges. Folds in males tend to be larger than those in females, which create a deeper voice. The act of swallowing causes the pharynx and larynx to lift upward, allowing the pharynx to expand and the epiglottis of the larynx to swing downward, closing the opening to the trachea. These movements produce a larger area for food to pass through, while preventing food and beverages from entering the trachea.
+
+22 • The Respiratory System
+
+![img-6.jpeg](img-6.jpeg)
+FIGURE 22.8 Vocal Cords The true vocal cords and vestibular folds of the larynx are viewed inferiorly from the laryngopharynx.
+
+Continuous with the laryngopharynx, the superior portion of the larynx is lined with stratified squamous epithelium, transitioning into pseudostratified ciliated columnar epithelium that contains goblet cells. Similar to the nasal cavity and nasopharynx, this specialized epithelium produces mucus to trap debris and pathogens as they enter the trachea. The cilia beat the mucus upward towards the laryngopharynx, where it can be swallowed down the esophagus.
+
+## Trachea
+
+The trachea (windpipe) extends from the larynx toward the lungs (Figure 22.9a). The trachea is formed by 16 to 20 stacked, C-shaped pieces of hyaline cartilage that are connected by dense connective tissue. The trachealis muscle and elastic connective tissue together form the fibroelastic membrane, a flexible membrane that closes the posterior surface of the trachea, connecting the C-shaped cartilages. The fibroelastic membrane allows the trachea to stretch and expand slightly during inhalation and exhalation, whereas the rings of cartilage provide structural support and prevent the trachea from collapsing. In addition, the trachealis muscle can be contracted to force air through the trachea during exhalation. The trachea is lined with pseudostratified ciliated columnar epithelium, which is continuous with the larynx. The esophagus borders the trachea posteriorly.
+
+Access for free at openstax.org
+
+22.1 • Organs and Structures of the Respiratory System
+955
+
+![img-7.jpeg](img-7.jpeg)
+(a)
+
+![img-8.jpeg](img-8.jpeg)
+(b)
+FIGURE 22.9 Trachea (a) The tracheal tube is formed by stacked, C-shaped pieces of hyaline cartilage. (b) The layer visible in this cross-section of tracheal wall tissue between the hyaline cartilage and the lumen of the trachea is the mucosa, which is composed of pseudostratified ciliated columnar epithelium that contains goblet cells. LM × 1220. (Micrograph provided by the Regents of University of Michigan Medical School © 2012)
+
+## Bronchial Tree
+
+The trachea branches into the right and left primary bronchi at the carina. These bronchi are also lined by pseudostratified ciliated columnar epithelium containing mucus-producing goblet cells (Figure 22.9b). The carina is a raised structure that contains specialized nervous tissue that induces violent coughing if a foreign body, such as food, is present. Rings of cartilage, similar to those of the trachea, support the structure of the bronchi and prevent their collapse. The primary bronchi enter the lungs at the hilum, a concave region where blood vessels, lymphatic vessels, and nerves also enter the lungs. The bronchi continue to branch into a bronchial tree. A bronchial tree (or respiratory tree) is the collective term used for these multiple-branched bronchi. The main function of the bronchi, like other conducting zone structures, is to provide a passageway for air to move into and out of each lung. In addition, the mucous membrane traps debris and pathogens.
+
+A bronchiole branches from the tertiary bronchi. Bronchioles, which are about 1 mm in diameter, further branch until they become the tiny terminal bronchioles, which lead to the structures of gas exchange. There are more than 1000 terminal bronchioles in each lung. The muscular walls of the bronchioles do not contain cartilage like those of the bronchi. This muscular wall can change the size of the tubing to increase or decrease airflow through the tube.
+
+## Respiratory Zone
+
+In contrast to the conducting zone, the respiratory zone includes structures that are directly involved in gas exchange. The respiratory zone begins where the terminal bronchioles join a respiratory bronchiole, the smallest type of bronchiole (Figure 22.10), which then leads to an alveolar duct, opening into a cluster of alveoli.
+
+22 • The Respiratory System
+
+![img-9.jpeg](img-9.jpeg)
+FIGURE 22.10 Respiratory Zone Bronchioles lead to alveolar sacs in the respiratory zone, where gas exchange occurs.
+
+## Alveoli
+
+An alveolar duct is a tube composed of smooth muscle and connective tissue, which opens into a cluster of alveoli. An alveolus is one of the many small, grape-like sacs that are attached to the alveolar ducts.
+
+An alveolar sac is a cluster of many individual alveoli that are responsible for gas exchange. An alveolus is approximately $200\,\mu\mathrm{m}$ in diameter with elastic walls that allow the alveolus to stretch during air intake, which greatly increases the surface area available for gas exchange. Alveoli are connected to their neighbors by alveolar pores, which help maintain equal air pressure throughout the alveoli and lung (Figure 22.11).
+
+Access for free at openstax.org
+
+22.1 • Organs and Structures of the Respiratory System
+957
+
+![img-10.jpeg](img-10.jpeg)
+![img-11.jpeg](img-11.jpeg)
+
+The alveolar wall consists of three major cell types: type I alveolar cells, type II alveolar cells, and alveolar macrophages. A type I alveolar cell is a squamous epithelial cell of the alveoli, which constitute up to 97 percent of the alveolar surface area. These cells are about 25 nm thick and are highly permeable to gases. A type II alveolar cell is interspersed among the type I cells and secretes pulmonary surfactant, a substance composed of phospholipids and proteins that reduces the surface tension of the alveoli. Roaming around the alveolar wall is the alveolar macrophage, a phagocytic cell of the immune system that removes debris and pathogens that have reached the alveoli.
+
+The simple squamous epithelium formed by type I alveolar cells is attached to a thin, elastic basement membrane. This epithelium is extremely thin and borders the endothelial membrane of capillaries. Taken together, the alveoli and capillary membranes form a respiratory membrane that is approximately 0.5 µm (micrometers) thick. The respiratory membrane allows gases to cross by simple diffusion, allowing oxygen to be picked up by the blood for transport and CO₂ to be released into the air of the alveoli.
+
+Diseases of the...
+
+Respiratory System: Asthma Asthma is common condition that affects the lungs in both adults and children. Approximately 8.2 percent of adults (18.7 million) and 9.4 percent of children (7 million) in the United States suffer from asthma. In addition, asthma is the most frequent cause of hospitalization in children.
+
+Asthma is a chronic disease characterized by inflammation and edema of the airway, and bronchospasms (that is, constriction of the bronchioles), which can inhibit air from entering the lungs. In addition, excessive mucus secretion can occur, which further contributes to airway occlusion (Figure 22.12). Cells of the immune system, such as eosinophils and mononuclear cells, may also be involved in infiltrating the walls of the bronchi and bronchioles.
+
+Bronchospasms occur periodically and lead to an "asthma attack." An attack may be triggered by environmental factors such as dust, pollen, pet hair, or dander, changes in the weather, mold, tobacco smoke, and respiratory infections, or by exercise and stress.
+
+22 • Chapter Review
+
+the esophagus and trachea
+
+philtrum concave surface of the face that connects the apex of the nose to the top lip
+
+pleural cavity space between the visceral and parietal pleurae
+
+pleural fluid substance that acts as a lubricant for the visceral and parietal layers of the pleura during the movement of breathing
+
+pneumotaxic center network of neurons within the pons that inhibit the activity of the neurons in the dorsal respiratory group; controls rate of breathing
+
+pulmonary artery artery that arises from the pulmonary trunk and carries deoxygenated, arterial blood to the alveoli
+
+pulmonary plexus network of autonomic nervous system fibers found near the hilum of the lung
+
+pulmonary surfactant substance composed of phospholipids and proteins that reduces the surface tension of the alveoli; made by type II alveolar cells
+
+pulmonary ventilation exchange of gases between the lungs and the atmosphere; breathing
+
+quiet breathing (also, eupnea) mode of breathing that occurs at rest and does not require the cognitive thought of the individual
+
+residual volume (RV) amount of air that remains in the lungs after maximum exhalation
+
+respiratory bronchiole specific type of bronchiole that leads to alveolar sacs
+
+respiratory cycle one sequence of inspiration and expiration
+
+respiratory epithelium ciliated lining of much of the conducting zone that is specialized to remove debris and pathogens, and produce mucus
+
+respiratory membrane alveolar and capillary wall together, which form an air-blood barrier that facilitates the simple diffusion of gases
+
+respiratory rate total number of breaths taken each minute
+
+respiratory volume varying amounts of air within the lung at a given time
+
+respiratory zone includes structures of the respiratory system that are directly involved in gas exchange
+
+root region of the external nose between the eyebrows
+
+# Chapter Review
+
+## 22.1 Organs and Structures of the Respiratory System
+
+The respiratory system is responsible for obtaining oxygen and getting rid of carbon dioxide, and aiding in speech production and in sensing odors. From a functional perspective, the respiratory system can be
+
+thoracic wall compliance ability of the thoracic wall to stretch while under pressure
+
+thyroid cartilage largest piece of cartilage that makes up the larynx and consists of two lamina
+
+tidal volume (TV) amount of air that normally enters the lungs during quiet breathing
+
+total dead space sum of the anatomical dead space and alveolar dead space
+
+total lung capacity (TLC) total amount of air that can be held in the lungs; sum of TV, ERV, IRV, and RV
+
+total pressure sum of all the partial pressures of a gaseous mixture
+
+trachea tube composed of cartilaginous rings and supporting tissue that connects the lung bronchi and the larynx; provides a route for air to enter and exit the lung
+
+trachealis muscle smooth muscle located in the fibroelastic membrane of the trachea
+
+transpulmonary pressure pressure difference between the intrapleural and intra-alveolar pressures
+
+true vocal cord one of the pair of folded, white membranes that have a free inner edge that oscillates as air passes through to produce sound
+
+type I alveolar cell squamous epithelial cells that are the major cell type in the alveolar wall; highly permeable to gases
+
+type II alveolar cell cuboidal epithelial cells that are the minor cell type in the alveolar wall; secrete pulmonary surfactant
+
+ventilation movement of air into and out of the lungs; consists of inspiration and expiration
+
+ventral respiratory group (VRG) region of the medulla oblongata that stimulates the contraction of the accessory muscles involved in respiration to induce forced inspiration and expiration
+
+vestibular fold part of the folded region of the glottis composed of mucous membrane; supports the epiglottis during swallowing
+
+visceral pleura innermost layer of the pleura that is superficial to the lungs and extends into the lung fissures
+
+vital capacity (VC) sum of TV, ERV, and IRV, which is all the volumes that participate in gas exchange
+
+divided into two major areas: the conducting zone and the respiratory zone. The conducting zone consists of all of the structures that provide passageways for air to travel into and out of the lungs: the nasal cavity, pharynx, trachea, bronchi, and most bronchioles. The nasal passages contain the conchae and meatuses that
+
+Access for free at openstax.org
+
+expand the surface area of the cavity, which helps to warm and humidify incoming air, while removing debris and pathogens. The pharynx is composed of three major sections: the nasopharynx, which is continuous with the nasal cavity; the oropharynx, which borders the nasopharynx and the oral cavity; and the laryngopharynx, which borders the oropharynx, trachea, and esophagus. The respiratory zone includes the structures of the lung that are directly involved in gas exchange: the terminal bronchioles and alveoli.
+
+The lining of the conducting zone is composed mostly of pseudostratified ciliated columnar epithelium with goblet cells. The mucus traps pathogens and debris, whereas beating cilia move the mucus superiorly toward the throat, where it is swallowed. As the bronchioles become smaller and smaller, and nearer the alveoli, the epithelium thins and is simple squamous epithelium in the alveoli. The endothelium of the surrounding capillaries, together with the alveolar epithelium, forms the respiratory membrane. This is a blood-air barrier through which gas exchange occurs by simple diffusion.
+
+### The Lungs
+
+The lungs are the major organs of the respiratory system and are responsible for performing gas exchange. The lungs are paired and separated into lobes; The left lung consists of two lobes, whereas the right lung consists of three lobes. Blood circulation is very important, as blood is required to transport oxygen from the lungs to other tissues throughout the body. The function of the pulmonary circulation is to aid in gas exchange. The pulmonary artery provides deoxygenated blood to the capillaries that form respiratory membranes with the alveoli, and the pulmonary veins return newly oxygenated blood to the heart for further transport throughout the body. The lungs are innervated by the parasympathetic and sympathetic nervous systems, which coordinate the bronchodilation and bronchoconstriction of the airways. The lungs are enclosed by the pleura, a membrane that is composed of visceral and parietal pleural layers. The space between these two layers is called the pleural cavity. The mesothelial cells of the pleural membrane create pleural fluid, which serves as both a lubricant (to reduce friction during breathing) and as an adhesive to adhere the lungs to the thoracic wall (to facilitate movement of the lungs during ventilation).
+
+### The Process of Breathing
+
+Pulmonary ventilation is the process of breathing, which is driven by pressure differences between the lungs and the atmosphere. Atmospheric pressure is the force exerted by gases present in the atmosphere. The force exerted by gases within the alveoli is called intra-alveolar (intrapulmonary) pressure, whereas the force exerted by gases in the pleural cavity is called intrapleural pressure. Typically, intrapleural pressure is lower, or negative to, intra-alveolar pressure. The difference in pressure between intrapleural and intra-alveolar pressures is called transpulmonary pressure. In addition, intra-alveolar pressure will equalize with the atmospheric pressure. Pressure is determined by the volume of the space occupied by a gas and is influenced by resistance. Air flows when a pressure gradient is created, from a space of higher pressure to a space of lower pressure. Boyle's law describes the relationship between volume and pressure. A gas is at lower pressure in a larger volume because the gas molecules have more space to in which to move. The same quantity of gas in a smaller volume results in gas molecules crowding together, producing increased pressure.
+
+Resistance is created by inelastic surfaces, as well as the diameter of the airways. Resistance reduces the flow of gases. The surface tension of the alveoli also influences pressure, as it opposes the expansion of the alveoli. However, pulmonary surfactant helps to reduce the surface tension so that the alveoli do not collapse during expiration. The ability of the lungs to stretch, called lung compliance, also plays a role in gas flow. The more the lungs can stretch, the greater the potential volume of the lungs. The greater the volume of the lungs, the lower the air pressure within the lungs.
+
+Pulmonary ventilation consists of the process of inspiration (or inhalation), where air enters the lungs, and expiration (or exhalation), where air leaves the lungs. During inspiration, the diaphragm and external intercostal muscles contract, causing the rib cage to expand and move outward, and expanding the thoracic cavity and lung volume. This creates a lower pressure within the lung than that of the atmosphere, causing air to be drawn into the lungs. During expiration, the diaphragm and intercostals relax, causing the thorax and lungs to recoil. The air pressure within the lungs increases to above the pressure of the atmosphere, causing air to be forced out of the lungs. However, during forced exhalation, the internal intercostals and abdominal muscles may be involved in forcing air out of the lungs.
+
+Respiratory volume describes the amount of air in a given space within the lungs, or which can be moved by the lung, and is dependent on a variety of factors. Tidal
+
+22 • Review Questions
+
+# Review Questions
+
+4. Which of the following anatomical structures is not part of the conducting zone?
+a. pharynx
+b. nasal cavity
+c. alveoli
+d. bronchi
+
+5. What is the function of the conchae in the nasal cavity?
+a. increase surface area
+b. exchange gases
+c. maintain surface tension
+d. maintain air pressure
+
+6. The fauces connects which of the following structures to the oropharynx?
+a. nasopharynx
+b. laryngopharynx
+c. nasal cavity
+d. oral cavity
+
+7. Which of the following are structural features of the trachea?
+a. C-shaped cartilage
+b. smooth muscle fibers
+c. cilia
+d. all of the above
+
+8. Which of the following structures is not part of the bronchial tree?
+a. alveoli
+b. bronchi
+c. terminal bronchioles
+d. respiratory bronchioles
+
+9. What is the role of alveolar macrophages?
+a. to secrete pulmonary surfactant
+b. to secrete antimicrobial proteins
+c. to remove pathogens and debris
+d. to facilitate gas exchange
+
+10. Which of the following structures separates the lung into lobes?
+a. mediastinum
+b. fissure
+c. root
+d. pleura
+
+11. A section of the lung that receives its own tertiary bronchus is called the ________.
+a. bronchopulmonary segment
+b. pulmonary lobule
+c. interpulmonary segment
+d. respiratory segment
+
+12. The ________ circulation picks up oxygen for cellular use and drops off carbon dioxide for removal from the body.
+a. pulmonary
+b. interlobular
+c. respiratory
+d. bronchial
+
+13. The pleura that surrounds the lungs consists of two layers, the ________.
+a. visceral and parietal pleurae.
+b. mediastinum and parietal pleurae.
+c. visceral and mediastinum pleurae.
+d. none of the above
+
+14. Which of the following processes does atmospheric pressure play a role in?
+a. pulmonary ventilation
+b. production of pulmonary surfactant
+c. resistance
+d. surface tension
+
+15. A decrease in volume leads to a(n) ________ pressure.
+a. decrease in
+b. equalization of
+c. increase in
+d. zero
+
+16. The pressure difference between the intra-alveolar and intrapleural pressures is called ________.
+a. atmospheric pressure
+b. pulmonary pressure
+c. negative pressure
+d. transpulmonary pressure
+
+17. Gas flow decreases as ________ increases.
+a. resistance
+b. pressure
+c. airway diameter
+d. friction
+
+18. Contraction of the external intercostal muscles causes which of the following to occur?
+a. The diaphragm moves downward.
+b. The rib cage is compressed.
+c. The thoracic cavity volume decreases.
+d. The ribs and sternum move upward.
+
+Access for free at openstax.org
+
+22 • Review Questions 993
+
+19. Which of the following prevents the alveoli from collapsing?
+a. residual volume
+b. tidal volume
+c. expiratory reserve volume
+d. inspiratory reserve volume
+
+20. Gas moves from an area of ______ partial pressure to an area of ______ partial pressure.
+a. low; high
+b. low; low
+c. high; high
+d. high; low
+
+21. When ventilation is not sufficient, which of the following occurs?
+a. The capillary constricts.
+b. The capillary dilates.
+c. The partial pressure of oxygen in the affected alveolus increases.
+d. The bronchioles dilate.
+
+22. Gas exchange that occurs at the level of the tissues is called
+a. external respiration
+b. interpulmonary respiration
+c. internal respiration
+d. pulmonary ventilation
+
+23. The partial pressure of carbon dioxide is 45 mm Hg in the blood and 40 mm Hg in the alveoli. What happens to the carbon dioxide?
+a. It diffuses into the blood.
+b. It diffuses into the alveoli.
+c. The gradient is too small for carbon dioxide to diffuse.
+d. It decomposes into carbon and oxygen.
+
+24. Oxyhemoglobin forms by a chemical reaction between which of the following?
+a. hemoglobin and carbon dioxide
+b. carbonic anhydrase and carbon dioxide
+c. hemoglobin and oxygen
+d. carbonic anhydrase and oxygen
+
+25. Which of the following factors play a role in the oxygen-hemoglobin saturation/dissociation curve?
+a. temperature
+b. pH
+c. BPG
+d. all of the above
+
+26. Which of the following occurs during the chloride shift?
+a. Chloride is removed from the erythrocyte.
+b. Chloride is exchanged for bicarbonate.
+c. Bicarbonate is removed from the erythrocyte.
+d. Bicarbonate is removed from the blood.
+
+27. A low partial pressure of oxygen promotes hemoglobin binding to carbon dioxide. This is an example of the
+a. Haldane effect
+b. Bohr effect
+c. Dalton's law
+d. Henry's law
+
+28. Increased ventilation that results in an increase in blood pH is called
+a. hyperventilation
+b. hyperpnea
+c. acclimatization
+d. apnea
+
+29. Exercise can trigger symptoms of AMS due to which of the following?
+a. low partial pressure of oxygen
+b. low atmospheric pressure
+c. abnormal neural signals
+d. small venous reserve of oxygen
+
+30. Which of the following stimulates the production of erythrocytes?
+a. AMS
+b. high blood levels of carbon dioxide
+c. low atmospheric pressure
+d. erythropoietin
+
+31. The olfactory pits form from which of the following?
+a. mesoderm
+b. cartilage
+c. ectoderm
+d. endoderm
+
+32. A full complement of mature alveoli are present by
+a. early childhood, around 8 years of age
+b. birth
+c. 37 weeks
+d. 16 weeks
+
+22 • Critical Thinking Questions
+
+33. If a baby is born prematurely before type II cells produce sufficient pulmonary surfactant, which of the following might you expect?
+a. difficulty expressing fluid
+b. difficulty inflating the lungs
+c. difficulty with pulmonary capillary flow
+d. no difficulty as type I cells can provide enough surfactant for normal breathing
+
+34. When do fetal breathing movements begin?
+a. around week 20
+b. around week 37
+c. around week 16
+d. after birth
+
+35. What happens to the fluid that remains in the lungs after birth?
+a. It reduces the surface tension of the alveoli.
+b. It is expelled shortly after birth.
+c. It is absorbed shortly after birth.
+d. It lubricates the pleurae.
+
+# Critical Thinking Questions
+
+36. Describe the three regions of the pharynx and their functions.
+37. If a person sustains an injury to the epiglottis, what would be the physiological result?
+38. Compare and contrast the conducting and respiratory zones.
+39. Compare and contrast the right and left lungs.
+40. Why are the pleurae not damaged during normal breathing?
+41. Describe what is meant by the term "lung compliance."
+42. Outline the steps involved in quiet breathing.
+43. What is respiratory rate and how is it controlled?
+44. Compare and contrast Dalton's law and Henry's law.
+45. A smoker develops damage to several alveoli that then can no longer function. How does this affect gas exchange?
+
+46. Compare and contrast adult hemoglobin and fetal hemoglobin.
+47. Describe the relationship between the partial pressure of oxygen and the binding of oxygen to hemoglobin.
+48. Describe three ways in which carbon dioxide can be transported.
+49. Describe the neural factors involved in increasing ventilation during exercise.
+50. What is the major mechanism that results in acclimatization?
+51. During what timeframe does a fetus have enough mature structures to breathe on its own if born prematurely? Describe the other structures that develop during this phase.
+52. Describe fetal breathing movements and their purpose.
+
+Access for free at openstax.org

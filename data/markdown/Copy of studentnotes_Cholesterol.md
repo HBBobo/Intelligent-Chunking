@@ -1,0 +1,56 @@
+open.michigan
+
+Author(s): Aken Desai, Michael Mathis, 2008
+
+License: Unless otherwise noted, this material is made available under the terms of the Creative Commons Attribution – Share Alike 3.0
+License: http://creativecommons.org/licenses/by-sa/3.0/
+
+We have reviewed this material in accordance with U.S. Copyright Law and have tried to maximize your ability to use, share, and adapt it.
+
+Copyright holders of content included in this material should contact open.michigan@umich.edu with any questions, corrections, or clarification regarding the use of content.
+
+For more information about how to cite these materials visit http://open.umich.edu/education/about/terms-of-use.
+
+Student works are presented as is and may be an interpretation of faculty members' lectures or assignments. These student works are not a product of faculty members. Faculty do not guarantee the accuracy of student work nor endorse them in any way.
+
+Any medical information in this material is intended to inform and educate and is not a tool for self-diagnosis or a replacement for medical evaluation, advice, diagnosis or treatment by a healthcare professional. Please speak to your physician if you have questions about your medical condition.
+
+Viewer discretion is advised: Some medical content is graphic and may not be suitable for all viewers.
+
+MUNIVERSITY OF MICHIGAN
+
+CC BY SA
+
+# Cholesterol
+
+Wednesday, January 16, 2008
+10:30 AM
+
+1. Know the general pathway for cholesterol biosynthesis.
+a. All carbons are derived from acetate
+b. Cytosolic
+c. Mechanism
+i. Thiolase: Acetyl-CoA Acetyltransferase: 2 Acetyl-CoA --&gt; Acetoacetyl-CoA + CoASH
+ii. HMG-CoA Synthase: Acetoacetyl-CoA + Acetyl-CoA --&gt; HMG-CoA + CoASH
+iii. HMG-CoA Reductase: HMG-CoA + 2 NADPH --&gt; Mevalonate + 2 NADP+ + CoA
+iv. Mevalonate --&gt; Squalene
+v. Squalene --&gt; Lenosterol
+vi. Lenosterol --&gt; Cholesterol
+
+2. Know the major site of regulation. --&gt; HMG-CoA Reductase
+
+3. Know how HMG-CoA Reductase is regulated.
+a. Long term feedback control of amount of enzyme
+i. Decrease in cholesterol concentration --&gt; release of ER membrane protein
+ii. Sterol Regulatory Element-Binding Protein and SREBP Cleavage Activating Protein bound together on ER membrane
+iii. Sterol levels decline and complex migrate to Golgi
+iv. Two cleavages result in SREBP migrating to nucleus
+v. Transcription of HMG-CoA reductase and LDL receptor gene
+vi. Due to this system, dietary cholesterol control alone does not necessarily work because you just produce more cholesterol
+b. Covalent Modification
+i. Activated by dephosphorylation by PPP
+1) Insulin activates PPP
+2) Glucagon --&gt; PKA --&gt; AMP Kinase --&gt; phosphorylates/inactivates HMG CoA Reductase
+ii. Statins are competitive inhibitors of HMG CoA Reductase
+
+Biochemistry Page 18

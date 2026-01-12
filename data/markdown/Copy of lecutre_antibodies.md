@@ -1,0 +1,313 @@
+open.michigan
+
+Attribution: University of Michigan Medical School, Department of Microbiology and Immunology
+
+License: Unless otherwise noted, this material is made available under the terms of the Creative Commons Attribution–Noncommercial–Share Alike 3.0 License: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+We have reviewed this material in accordance with U.S. Copyright Law and have tried to maximize your ability to use, share, and adapt it. The citation key on the following slide provides information about how you may share and adapt this material.
+
+Copyright holders of content included in this material should contact open.michigan@umich.edu with any questions, corrections, or clarification regarding the use of content.
+
+For more information about how to cite these materials visit http://open.umich.edu/education/about/terms-of-use.
+
+Any medical information in this material is intended to inform and educate and is not a tool for self-diagnosis or a replacement for medical evaluation, advice, diagnosis or treatment by a healthcare professional. Please speak to your physician if you have questions about your medical condition.
+
+Viewer discretion is advised: Some medical content is graphic and may not be suitable for all viewers.
+
+MUNIVERSITY OF MICHIGAN
+
+CC BY NC SA
+
+# Citation Key
+
+for more information see: http://open.umich.edu/wiki/CitationPolicy
+
+## Use + Share + Adapt
+
+{ Content the copyright holder, author, or law permits you to use, share and adapt. }
+
+- **PD-GOV** Public Domain – Government: Works that are produced by the U.S. Government. (USC 17 § 105)
+- **PD-EXP** Public Domain – Expired: Works that are no longer protected due to an expired copyright term.
+- **PD-SELF** Public Domain – Self Dedicated: Works that a copyright holder has dedicated to the public domain.
+- **ZERO** Creative Commons – Zero Waiver
+- **BY** Creative Commons – Attribution License
+- **BY-SA** Creative Commons – Attribution Share Alike License
+- **BY-NC** Creative Commons – Attribution Noncommercial License
+- **BY-NC-SA** Creative Commons – Attribution Noncommercial Share Alike License
+- **GNU-FDL** GNU – Free Documentation License
+
+## Make Your Own Assessment
+
+{ Content Open.Michigan believes can be used, shared, and adapted because it is ineligible for copyright. }
+
+- **PD-INEL** Public Domain – Ineligible: Works that are ineligible for copyright protection in the U.S. (USC 17 § 102(b)) *laws in your jurisdiction may differ
+
+{ Content Open.Michigan has used under a Fair Use determination. }
+
+- **FAIR USE** Fair Use: Use of works that is determined to be Fair consistent with the U.S. Copyright Act. (USC 17 § 107) *laws in your jurisdiction may differ
+
+Our determination **DOES NOT** mean that all uses of this 3rd-party content are Fair Uses and we **DO NOT** guarantee that your use of the content is Fair.
+
+To use this content you should do your own independent analysis to determine whether or not your use will be Fair.
+
+# Antibodies
+
+M1 – Immunology Sequence
+
+Winter 2009
+
+M
+
+University of Michigan Medical School
+
+1. The polypeptides that make up an immunoglobulin.
+2. Constant and variable regions of an immunoglobulin.
+3. The immunoglobulin domain.
+4. Framework and complementarity determining (hypervariable) regions within the variable region.
+5. Different functions of the different antibody classes and subclasses.
+
+The structure of antibodies has been derived from monoclonal antibodies secreted by monoclonal plasmacytomas (or myelomas)--tumors of plasma cells.
+
+All antibodies are made up of two polypeptides:
+
+Two identical heavy chains of molecular weight 44-55 kD
+
+Two identical light chains of molecular weight 24 kD
+
+![img-0.jpeg](img-0.jpeg)
+
+6
+
+PO-INEL
+
+Janeway. Immunobiology: The Immune System in Health and Disease. Current Biology Ltd./Garland Publishing, Inc. 1997
+
+Constant region--the amino acid sequence is exactly the same, for one kind of immunoglobulin polypeptide. Always located in carboxy part of chain.
+
+For light chains, residue numbers 108-214. Called κ, λ
+
+Heavy chain: α, γ, δ, ε, μ
+
+# Subclasses of immunoglobulins, with different heavy chains
+
+For example, γ1, γ2, γ3, and γ4
+α1 and α2
+
+All constant regions within a subclass have exactly the same sequence.
+
+For example, γ1 and γ2 are more closely related to each other than either is to α1.
+
+Variable region--the amino acid sequence in the amino terminal part is never the same for two immunoglobulins.
+
+For light chains, residues 1-107.
+
+Wu and Kabat defined variability by an equation:
+
+$$
+\text{Variability} = \frac{\text{Number of different amino acids at a residue}}{\text{Frequency of the most frequent amino acid}}
+$$
+
+PO-INEL
+Source Undetermined
+
+|  V.I ROY | DI QMT QSPSSLSASVGBBVTTICQASQ | CB2-1 | FB-3 | CD2-2  |
+| --- | --- | --- | --- | --- |
+|  AW |  | 27 | 28 | 29  |
+|  OU | Z | B | B | Z  |
+|  REI |  |  |  |   |
+|  HAW |  |  | R |   |
+|  SCW |  |  |  |   |
+|  RFZ |  |  | N |   |
+|  GAL |  |  | I | R  |
+|  LAY |  | V |  |   |
+|  EU |  | T |  | R  |
+|  HBJ |  | T |  | R  |
+|  CAR |  | T |  | A  |
+|  BI |  | P |  | S  |
+|  KA |  | T | V |   |
+|  KWE |  | T Q P |  | R  |
+
+3/.57=5
+1/1=1
+7/0.29=24
+
+|  27 | 28 | 29 | 30 | 31 | FLN | WYQQK | PGKAPKLLI | YBASKLEA  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  ) O | I | S | I | FLN | WYQQK | PGKAPKLLI | YBASKLEA |   |
+|  ) O | Y |  |  |  |  |  |  | N S  |
+|  ) T | S | Y | B | Z | Z |  | B | A B M S  |
+|  ) I | K | Y |  |  | T |  |  | E N Q  |
+|  ) S | S | Y | S |  |  | Q | V | A S P S  |
+|  ) R | K | H |  | D |  | R |  | G T T  |
+|  ) V | K | S |  |  | R | Q |  | A B  |
+|  ) G | R | N | D | T |  |  | E | A N Q S  |
+|  ) N | Y | N | A | Y |  | L |  | G T R  |
+|  ) S | N | T | W | A |  |  | M K | S E S  |
+|  ) S | Y | N | N | W | A | E | Z | S K T S E R  |
+|  ) N | S | W | A |  |  | V |  | K S S S  |
+|  ) R | N | S | L |  |  | F |  | E N I  |
+|  ) T | V | L | S | Y |  |  | A | S T  |
+|  ) S | N | W | A |  |  | E |  | K T T  |
+
+![img-1.jpeg](img-1.jpeg)
+
+PD-INEL
+
+Janeway. Immunobiology: The Immune System in Health and Disease. Current Biology Ltd./Garland Publishing, Inc. 1997
+
+Variable regions are subdivided into **hypervariable** regions, which are clusters of residues with variability about 15-100.
+
+The large number of different amino acids allow the hypervariable regions to form many different structures with different charge, hydrogen bond, and polarity distributions. The hypervariable regions come together to form the antigen binding site. Hence, another term for the hypervariable region is the **complementarity determining region (CDR)**.
+
+**Framework regions are the clusters of amino acid residues between the hypervariable regions with variability of 1-20.**
+
+Framework regions are less variable because they form the scaffold upon which the variable region is built. Some residues within the framework regions are, in fact, invariant. For example, cys at residues 23 and 88.
+
+![img-2.jpeg](img-2.jpeg)
+
+PD-INEL
+
+Janeway. Immunobiology: The Immune System in Health and Disease. Current Biology Ltd./Garland Publishing, Inc. 1997
+
+Domains: ca. 110 amino acid units with disulfide bridge between two cysteines
+
+![img-3.jpeg](img-3.jpeg)
+
+JANE2019
+
+![img-4.jpeg](img-4.jpeg)
+
+JANE2019
+
+PD-INEL
+
+January. Immunobiology: The Immune System in Health and Disease. Current Biology Ltd./Garland Publishing, Inc. 1997
+
+![img-5.jpeg](img-5.jpeg)
+Light-chain V region
+
+![img-6.jpeg](img-6.jpeg)
+
+PO-INEL
+
+Janeway. Immunobiology: The Immune System in Health and Disease. Current Biology Ltd./Garland Publishing, Inc. 1997
+
+1. Variable and constant regions fold the same and are independent of each other. Two sets of parallel beta-pleated sheets perpendicular to the cys--cys bond.
+
+2. Hypervariable residues are clustered near each other and form the antigen binding pocket. Hence, they are also called "complementarity determining region (CDR)". For example, in one antibody, tyr and arg interact with an antigenic phosphate via hydrogen bonding and charge neutralization.
+
+3. The framework regions form the backbone of the immunoglobulin domain fold. The structure of the complementarity determining region is added upon this domain fold.
+
+4. The immunoglobulin fold is used in many other proteins.
+
+# Space-filling model of an antibody binding its antigen, lysozyme
+
+Lysozyme is in red.
+
+Hypervariable regions in bright colors.
+
+![img-0.jpeg](img-0.jpeg)
+
+PO-INEL
+
+Source Undetermined
+
+![img-1.jpeg](img-1.jpeg)
+
+PD-INEL
+
+W. Dunnick
+
+# Structure and function of antibody classes
+
+|  Class | H chain | C region domains | pro-rich hinge | serum  |
+| --- | --- | --- | --- | --- |
+|  IgM | μ | 4 | no | 1.5 mg/ml  |
+|  IgG | γ | 3 | yes | 13.5  |
+|  IgA | α | 3 | yes | 3.5  |
+|  IgE | ε | 4 | no | 0.003  |
+|  IgD | δ | 3 | yes | 0.03  |
+
+IgM fixes complement, opsinin
+IgG opsinin, some subclasses fix complement, cross placenta
+IgA secreted at mucosal surfaces
+IgE binds mast cells, allergies
+IgD cell surface only
+
+![img-2.jpeg](img-2.jpeg)
+
+JANE 2019
+
+#
+
+PO-INEL
+
+Janeway. Immunobiology: The Immune System in Health and Disease. Current Biology Ltd./Garland Publishing, Inc. 1997
+
+1. An individual immunoglobulin has either a κ or a λ light chain (but not both). Each type of immunoglobulin (e.g., IgG3) has within it immunoglobulins with κ light chains and immunoglobulins with λ light chains.
+
+2. An opsin is an antibody that enhances phagocytosis.
+
+3. The hinge is a 20-30 amino acid region that is proline rich.
+
+4. IgA includes attached secretory piece (70 kD glycoprotein), which protects IgA against proteolysis.
+
+![img-3.jpeg](img-3.jpeg)
+
+![img-4.jpeg](img-4.jpeg)
+
+The secreted forms of IgM and IgA.
+
+Formation of IgA dimers and IgM pentamers require covalent linkage to J chain.
+
+PD-THEL
+
+Janeway. Immunobiology: The Immune System in Health and Disease. Current Biology Ltd./Garland Publishing, Inc. 1997
+
+![img-5.jpeg](img-5.jpeg)
+
+PD-1MEL
+
+Janeway. Immunobiology: The Immune System in Health and Disease. Current Biology Ltd./Garland Publishing, Inc. 1997
+
+Fragments created by limited digestion of antibodies with proteolytic enzymes. Each class or subclass of heavy chain has a different amino acid sequence and hence a different Fc region.
+
+Different effecter functions of different classes and subclasses of antibodies are mediated by binding to specific Fc receptors.
+
+Fcε RI on mast cells, eosinophils
+
+poly Ig receptor on mucosal epithelia
+
+Fcγ receptor on macrophages, neutrophils, eosinophils, etc.
+
+Hence, because each subclass has a different constant region, different Fc receptors bind different classes and subclasses of immunoglobulins. Therefore, each subclass of immunoglobulin has a specific set of effector functions. Even though all antibodies can use the same set of variable regions (bind the same epitopes), when those variable regions are found on different constant regions, the way a pathogen is handled after binding is different for each subclass.
+
+It is important that an individual directs the expression of the appropriate subclass for a given pathogen.
+
+# Summary:
+
+1. Five types of heavy chains (α, γ, δ, ε, and μ) and two types of light chains (κ and λ).
+2. Both heavy and light chains have variable regions and constant regions.
+3. The 110- (approximately) amino acid domain is the basic building block of an immunoglobulin.
+
+4. Hypervariable regions fold together to form the complementarity determining region.
+
+Framework regions form the immunoglobulin domain fold.
+
+5. Different antibody subclasses and classes have different structures and different functions.
+
+# Additional Source Information
+
+for more information see: http://open.umich.edu/wiki/CitationPolicy
+
+Slide 6: Janeway. Immunobiology: The Immune System in Health and Disease. Current Biology Ltd./Garland Publishing, Inc. 1997
+Slide 10: Source Undetermined
+Slide 11: Janeway. Immunobiology: The Immune System in Health and Disease. Current Biology Ltd./Garland Publishing, Inc. 1997
+Slide 14: Janeway. Immunobiology: The Immune System in Health and Disease. Current Biology Ltd./Garland Publishing, Inc. 1997
+Slide 16: Janeway. Immunobiology: The Immune System in Health and Disease. Current Biology Ltd./Garland Publishing, Inc. 1997
+Slide 17: Janeway. Immunobiology: The Immune System in Health and Disease. Current Biology Ltd./Garland Publishing, Inc. 1997
+Slide 21: Source Undetermined
+Slide 22: Wesley Dunnick
+Slide 24: Janeway. Immunobiology: The Immune System in Health and Disease. Current Biology Ltd./Garland Publishing, Inc. 1997
+Slide 26: Janeway. Immunobiology: The Immune System in Health and Disease. Current Biology Ltd./Garland Publishing, Inc. 1997
+Slide 27: Janeway. Immunobiology: The Immune System in Health and Disease. Current Biology Ltd./Garland Publishing, Inc. 1997

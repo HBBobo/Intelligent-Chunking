@@ -1,0 +1,155 @@
+open.michigan
+
+Author(s): Aken Desai, Michael Mathis, 2008
+
+License: Unless otherwise noted, this material is made available under the terms of the Creative Commons Attribution – Share Alike 3.0
+License: http://creativecommons.org/licenses/by-sa/3.0/
+
+We have reviewed this material in accordance with U.S. Copyright Law and have tried to maximize your ability to use, share, and adapt it.
+
+Copyright holders of content included in this material should contact open.michigan@umich.edu with any questions, corrections, or clarification regarding the use of content.
+
+For more information about how to cite these materials visit http://open.umich.edu/education/about/terms-of-use.
+
+Student works are presented as is and may be an interpretation of faculty members' lectures or assignments. These student works are not a product of faculty members. Faculty do not guarantee the accuracy of student work nor endorse them in any way.
+
+Any medical information in this material is intended to inform and educate and is not a tool for self-diagnosis or a replacement for medical evaluation, advice, diagnosis or treatment by a healthcare professional. Please speak to your physician if you have questions about your medical condition.
+
+Viewer discretion is advised: Some medical content is graphic and may not be suitable for all viewers.
+
+MUNIVERSITY OF MICHIGAN
+
+CC BY SA
+
+Liver, Pancreas and Gallbladder
+
+Monday, January 14, 2008
+
+1:00 PM
+
+# I. Liver and Gallbladder
+
+## A. Liver
+
+i. Pale spots are either central veins or small branches of portal veins
+ii. Central veins (terminal hepatic venules)
+
+1) Outflow of liver to hepatic vein
+2) Surrounded by hepatocytes
+3) All by itself in the center of a lobule
+4) Connected to sinusoids
+
+iii. Portal veins/hepatic triad
+
+1) Portal veins surrounded by connective tissue
+
+a) No smooth muscle
+b) Largest vessel of triad
+c) Connected to sinusoids
+
+2) Bile duct
+
+a) Circle of prominent nuclei
+b) Cuboidal epithelium
+
+3) Hepatic artery branch
+
+a) Ring of smooth muscle
+b) Looks like normal arteriole
+
+iv. Liver tissue
+
+1) Hepatocytes
+
+a) Line up in plates
+b) EM shows lots of organelles and glycogen appears as black clusters near smooth ER
+c) Cell surface has two types
+
+i) Facing blood and space of Disse
+ii) Surface involved w/ bile canliculus w/ junctional complexes to isolate bile from blood
+
+2) Sinusoids between plates of hepatocytes
+
+a) Lined by thin layer of endothelium
+
+i) EM shows discontinuous lining to allow passage into Disse
+ii) Numerous microvilli
+iii) No organized basal lamina
+
+b) Will see Kupfer cells (macrophages)
+
+i) EM shows lysosomes
+
+3) Space between hepatocytes and endothelial cells = "space of Disse"
+
+a) Blood flows from portal veins/hepatic arteries --&gt; sinusoids --&gt; central veins
+b) Bile flows from canaliculi --&gt; canals of Hering (low cuboidal cells) --&gt; bile ducts in portal canals --&gt; hepatic ducts --&gt; common hepatic duct
+
+4) Hepatic outflow does not follow organization of liver lobules vs. inflow at periphery of each lobule
+
+a) Classic: Microscope based --&gt; connective tissue surrounds hexagon w/ central vein in middle
+b) Portal: bile produced in one lobule goes to one duct; triangle w/ central veins as three corners and triad in center
+c) Liver Acinus of Rappaport: spans btwn two triads; elliptical w/ hepatic artery and portal vein as core
+
+i) Zone 1 - closest to vessels, gets most oxygen/blood; toxins kill it off first,
+
+Histology Page 6
+
+but most likely to survive is hypoxic
+
+ii) Zone 2 - intermediate
+iii) Zone 3 - most isolated, most subject to hypoxia
+
+5) Collagen
+
+a) Around portal canals and less around central veins
+b) Thin layers around sinusoids
+
+v. Bile Canaliculi
+
+1) Chicken wire arrangement
+2) Extends btwn plates of hepatocytes
+
+B. Gall Bladder
+
+i. Extensive folds of mucosa extending into lumen get distended when gallbladder is full
+ii. Tall, simple columnar epithelium and underlying connective tissue (Lamina propria)
+iii. Muscularis externa is scattered bundles of smooth muscle
+iv. Adventitia is dense CT binding gall bladder to liver
+v. Surface of bladder facing abdominal cavity is a serosa
+
+II. Pancreas
+
+A. Exocrine
+
+i. Divided into smaller areas by slits of open space/CT
+ii. Lighter spots are islets of Langerhans, endocrine
+iii. Large number of acini w/ some fat cells
+
+1) Periphery of each acinus stains blue/purple (basal side of cells) due to abundance of RER
+2) Apical portion should be pink because of Golgi and secretory granules
+
+iv. Smaller cells in central region of acinus are centroacinar and represent initial portion of duct that extends into larger excretory ducts outside lobule
+v. Intercalated ducts appear btwn lobules w/ nuclei btwn acini; pale cytoplasm
+
+1) Contribute bicarbonate and Na/H2O to exocrine secretion
+2) Lining epithelium of interlobular ducts is simple cuboidal epithelium or simple columnar in larger ducts
+
+B. Endocrine
+
+i. Islets of Langerhans
+
+1) Pale areas of cells
+2) Scattered distribution
+3) Alpha, beta, gamma responsible for glucagon, insulin and somatostatin
+4) Don't have to recognize individual cell types
+
+ii. Vascular Supply much richer to endocrine portions of pancreas
+iii. Chrome-alum staining allows distinction of cell types
+
+1) Alpha cells stain reddish, peripheral
+2) Beta cells more central, stain purple
+
+iv. EM of endocrine cells shows basal RER, apical secretory granules
+
+Histology Page 7

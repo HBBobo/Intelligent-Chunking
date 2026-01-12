@@ -1,0 +1,460 @@
+open.michigan
+
+Author: John Williams, M.D., Ph.D., 2009
+
+License: Unless otherwise noted, this material is made available under the terms of the Creative Commons Attribution-Non-commercial-Share Alike 3.0 License: http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+We have reviewed this material in accordance with U.S. Copyright Law and have tried to maximize your ability to use, share, and adapt it. The citation key on the following slide provides information about how you may share and adapt this material.
+
+Copyright holders of content included in this material should contact open.michigan@umich.edu with any questions, corrections, or clarification regarding the use of content.
+
+For more information about how to cite these materials visit http://open.umich.edu/education/about/terms-of-use.
+
+Any medical information in this material is intended to inform and educate and is not a tool for self-diagnosis or a replacement for medical evaluation, advice, diagnosis or treatment by a healthcare professional. Please speak to your physician if you have questions about your medical condition.
+
+Viewer discretion is advised: Some medical content is graphic and may not be suitable for all viewers.
+
+MUNIVERSITY OF MICHIGAN
+
+CC BY NC SA
+
+# Citation Key
+
+for more information see: http://open.umich.edu/wiki/CitationPolicy
+
+## Use + Share + Adapt
+
+{ Content the copyright holder, author, or law permits you to use, share and adapt. }
+
+- **PD-GOV** Public Domain – Government: Works that are produced by the U.S. Government. (USC 17 § 105)
+- **PD-EXP** Public Domain – Expired: Works that are no longer protected due to an expired copyright term.
+- **PD-SELF** Public Domain – Self Dedicated: Works that a copyright holder has dedicated to the public domain.
+- **ZERO** Creative Commons – Zero Waiver
+- **BY** Creative Commons – Attribution License
+- **BY-SA** Creative Commons – Attribution Share Alike License
+- **BY-NC** Creative Commons – Attribution Noncommercial License
+- **BY-NC-SA** Creative Commons – Attribution Noncommercial Share Alike License
+- **GNU-FDL** GNU – Free Documentation License
+
+## Make Your Own Assessment
+
+{ Content Open.Michigan believes can be used, shared, and adapted because it is ineligible for copyright. }
+
+- **PD-THEL** Public Domain – Ineligible: Works that are ineligible for copyright protection in the U.S. (USC 17 § 102(b)) *laws in your jurisdiction may differ
+
+{ Content Open.Michigan has used under a Fair Use determination. }
+
+- **FAIR USE** Fair Use: Use of works that is determined to be Fair consistent with the U.S. Copyright Act. (USC 17 § 107) *laws in your jurisdiction may differ
+
+Our determination **DOES NOT** mean that all uses of this 3rd-party content are Fair Uses and we **DO NOT** guarantee that your use of the content is Fair.
+
+To use this content you should do your own independent analysis to determine whether or not your use will be Fair.
+
+M1 - GI Sequence
+
+# Pancreas
+
+John Williams, M.D., Ph.D.
+
+Winter, 2009
+
+M
+
+University of Michigan Medical School
+
+Page 66
+Page 67
+
+# PANCREAS
+
+![img-0.jpeg](img-0.jpeg)
+PD-EXP Gray's Anatomy, Wikimedia Commons
+
+The pancreas is made up of three functional components:
+
+Endocrine – Islets 2%
+
+Exocrine – Acinar 80%
+Digestive Enzymes
+
+Exocrine – Ducts 8%
+Bicarbonate Rich Fluid
+
+Innervation
+Vagal – Acini
+ACh main transmitter
+Ducts
+Islets
+Sympathetic – Islets
+NE main transmitter
+Blood Vessels
+
+# OVERVIEW OF PANCREATIC SECRETION
+
+![img-1.jpeg](img-1.jpeg)
+PD-INEL Jim Sherman
+
+Page 68
+Page 69
+
+# Stimulation of Pancreatic Secretion during the Intestinal Phase
+
+![img-2.jpeg](img-2.jpeg)
+[PD-TNS] John Williams modified from undetermined source
+
+Mechanisms involved in the stimulation of pancreatic secretion during the intestinal phase of digestion. Dashed lines indicate potentiative interactions on secretion. Note that CCK released from I cells can travel through the blood as an endocrine secretion to reach receptors on acinar cells or act locally as a paracrine regulator to excite afferent nerve endings leading to neural stimulation of acinar cells. This latter mechanism is especially important in humans.
+
+![img-3.jpeg](img-3.jpeg)
+[PD-TNS] Source Undetermined
+
+The duct system of the pancreas.
+
+Page 70
+Page 71
+
+# Concentration of Ions in Pancreatic Juice as a Function of Flow
+
+![img-4.jpeg](img-4.jpeg)
+Fig. 9-2 Johnson, L. Gastrointestinal Physiology, 7th ed. Mosby Elsevier, Philadelphia, PA; 2007: 87.
+
+Relationship between the rate of secretion of pancreatic juice and the concentrations of its major ions.
+
+# Pancreatic Bicarbonate output increases in response to low Duodenal pH
+
+![img-5.jpeg](img-5.jpeg)
+Fig. 9-5 Johnson, L. Gastrointestinal Physiology, 6th ed. Mosby Elsevier, St. Louis, MO; 2001: 102.
+
+Pancreatic biocarbonate output in response to various duodenal pH values. The output of bicarbonate can be used as an index of secretin release.
+
+# Mechanism of Pancreatic Bicarbonate Secretion
+
+![img-6.jpeg](img-6.jpeg)
+POZNEL John Williams
+
+Pancreatic duct cells secrete a bicarbonate rich fluid in which the bicarbonate is both derived from  $\mathrm{CO}_{2}$  and enters the cell by means of a  $\mathrm{Na}^{+}-\mathrm{HCO}_{3}^{+}$ cotransporter which has a 2:1 stoichiometry. The enzyme carbonic anhydrase facilitates the hydration of  $\mathrm{CO}_{2}$  to form carbonic acid which dissociates into  $\mathrm{H}^{+}$ and  $\mathrm{HCO}_{3}^{-}$ . The ductular cells transport  $\mathrm{HCO}_{3}^{-}$ into the lumen and  $\mathrm{H}^{+}$ out of the cell to the blood (equivalent to  $\mathrm{HCO}_{3}^{-}$ uptake).  $\mathrm{H}^{+}$ extrusion to plasma also occurs by a  $\mathrm{Na}^{+}-\mathrm{H}^{+}$ exchanger and in some species by a vacuolar type  $\mathrm{H}^{+}$ ATPase (different from stomach) which may undergo vesicular translocation to the cell membrane in response to secretin. The main mechanism, however, is the  $\mathrm{Na}^{+}-\mathrm{HCO}_{3}^{-}$ uptake by the cotransporter. HCO3 exits the cell to the lumen through the CFTR ion channel or by a  $\mathrm{Cl}^{-}-\mathrm{HCO}_{3}^{-}$ anion exchanger in exchange for  $\mathrm{Cl}^{-}$ which has entered the lumen through the channel. The CFTR channel is activated by cAMP produced in response to secretin which binds to receptors on the basolateral plasma membrane.
+
+![img-7.jpeg](img-7.jpeg)
+PD-3NEL Source Undetermined
+
+Summary of primary steps in the intracellular transport and exocytosis of secretory proteins. 1, Synthesis on polysomes and transfer into the RER; 2, protein modification in the RER; 3, transfer to the Golgi complex; 4, further modification and sorting in the trans-Golgi network (TGN) and concentration (4') in condensing vacuoles (CV); 5, storage in the zymogen granules (ZG); 6, exocytosis. RER, rough endoplasmic reticulum, GC, Golgi cisternae; tr, transitional elements of the RER; LY, lysosome; Solid lines, secretory protein transport routes in the pancreatic acinar cell; dashed line, lysosomal protein transport from the Golgi complex to lysosomes.
+
+# Stimulus-secretion Coupling of Pancreatic Enzyme Secretion
+
+![img-8.jpeg](img-8.jpeg)
+PD-3NEL John Williams
+
+Schematic diagram of stimulus-secretion coupling of pancreatic acinar cell protein secretion. The binding of hormones and neurotransmitters to their membrane-spanning receptors (shown here only as distinct conceptual units) leads to the G-protein-coupled formation of intracellular messengers. Receptors for CCK, ACh, and bombesin are coupled by the heterotrimeric G protein,  $\mathrm{G_q}$  to the formation of  $\mathrm{IP}_3$ , which leads to release of  $\mathrm{Ca^{2+}}$  from intracellular stores, accompanied by stimulation of  $\mathrm{Ca^{2+}}$  influx. The stimulation of influx may be related to the state of refilling of the pool. The simultaneous formation of diacylglycerol (DAG) by PLC activates PKC. Receptors for VIP and secretin are coupled by  $\mathrm{G_a}$  to the stimulation of adenylate cyclase. The formation of the intracellular messengers cAMP,  $\mathrm{Ca^{2+}}$ , and DAG influences either directly or indirectly the activity of kinases and phosphatases. ACh, acetylcholine; CAM, calmodulin; CCK cholecystokinin; DAG, diacylglycerol;  $\mathrm{IP}_3$ , inositol 1,4,5-trisphosphate;  $\mathrm{PIP}_2$ , phosphotidylinositol 4,5-bisphosphate; PK, protein kinase, PP, protein phosphatase; PLC, phospholipase C; VIP, vasoactive intestinal polypeptide.
+
+Page 76
+Page 77
+
+Human pancreatic exocrine enzymes
+
+|  Enzyme | Molecular weight (daltons)  |
+| --- | --- |
+|  Proteases |   |
+|  Trypsinogen 1 | 25,000  |
+|  Trypsinogen 2 | 25,000  |
+|  Trypsinogen 3 | 23,400  |
+|  Chymotrypsinogen | 24,000  |
+|  proElastase 1 | 33,000  |
+|  proElastase 2 | 26,600  |
+|  Protease E | 33,000  |
+|  Kallikreinogen | 35,000  |
+|  proCarboxypeptidase A1 | 44,500  |
+|  proCarboxypeptidase A2 | 47,000  |
+|  proCarboxypeptidase B1 | 47,300  |
+|  proCarboxypeptidase B2 | 47,300  |
+|  Glycosidase |   |
+|  Amylase | 57,000  |
+|  Lipases |   |
+|  Triglyceride lipase | 48,000  |
+|  Colipase | 10,000  |
+|  Carboxyl ester hydrolase | 100,000  |
+|  Phospholipase A2 | 14,000  |
+|  Nucleases |   |
+|  DNase I | 30,000  |
+|  RNase | 15,000  |
+
+**FO-3N5L** Source Undetermined
+
+Molecular weights are given for reference information only. The multiple isoforms may have different catalytic specificity
+
+# Activation of Pancreatic Proenzymes in the Intestine involves Enterokinase and activated Trypsin
+
+![img-9.jpeg](img-9.jpeg)
+
+**FO-3N5L** Jim Sherman
+
+Page 78
+Page 79
+
+# FUNCTIONS OF LIVER
+
+1. Storage, metabolism and release of nutrients and some vitamins.
+2. Detoxification and elimination of toxins, drugs and metabolites.
+3. Synthesis of biologically important proteins such as albumin, clotting factors, apolipoproteins.
+4. Synthesis and secretion of bile important for lipid digestion and absorption.
+5. Role in immune function and clearance of intestinally absorbed bacteria.
+
+## Structure of a Hepatic Lobule
+
+![img-10.jpeg](img-10.jpeg)
+
+## Liver Anatomy and Blood Supply
+
+The liver has a dual blood supply with 75% of the incoming blood volume from the portal vein. Oxygenated blood (25% of incoming volume) is from the hepatic artery which supplies the bile ducts and mixes in the hepatic sinusoids with portal venous blood. Drainage of the liver is by the hepatic veins which collect blood from the central vein of the lobules and empty into the vena cava.
+
+The functional unit of the liver is the lobule which classically has a hexagonal shape with a draining central vein in the center and portal triads containing branches of the hepatic artery, portal vein and bile duct at the angles. Blood flows through the sinusoids toward the central vein passing plates of hepatocytes while bile flows in the opposite direction through canalicui to drain into the bile duct. Sinusoids are lined with fenestrated capillaries which are highly permeable to macromolecules..
+
+## Cellular Components of the Liver
+
+- Hepatocytes
+- Stellate or Ito Cells
+- Kupfer Cells (macrophages)
+- Sinusoidal Endothelial Cells
+- Bile Ductular Epithelial Cells (cholangiocytes)
+
+BILE PRODUCTION, SECRETION AND STORAGE
+
+![img-11.jpeg](img-11.jpeg)
+Anatomical Relationships in Liver
+
+# Components of Bile
+
+Water  $\sim 1$  liter/day
+
+Bile Acids - major organic constituents
+
+Phospholipids
+
+Cholesterol
+
+Bile pigments - bilirubin
+
+Metabolites of Hormones, Drugs
+
+Inorganic ions -  $\mathrm{HCO}_3$  from duct cells
+
+# Transport of Biliary Components by Hepatocyte
+
+![img-12.jpeg](img-12.jpeg)
+FIG. 10.21. John Williams modified from Fig. 6-6 Granger, D, et al. Clinical Gastrointestinal Physiology. W.B. Saunders, Philadelphia, PA; 1985: 125.
+
+OATP Organic Anion Transport Protein
+
+MRP2 Multi-drug Resistance Protein 2
+
+NTCP Na Taurocholate Cotransporter Protein
+
+BSEP Bile Salt Export Pump
+
+ABC ATP Binding Cassette Protein
+
+# Molecular Components of Bile Secretion
+
+1. Uptake of bile salts by  $\mathrm{Na^{+}}$  coupled cotransporter (NTCP)
+2. Basolateral membrane also contains several organic anion transport proteins (OATP)
+3. Bile salts excreted into bile by the Bile Salt Export Protein (BSEP) an ATP binding cassette protein which belongs to multidrug resistance (MDR) gene family
+4. Other apical proteins are MRP2 which transports bilirubin glucuronide and a number of drugs, ABC 5/8 involved in cholesterol transport and MDR3, a phospholipid transporter (flipase)
+5. Gene expression of many of above transporters is regulated by bile salts through the Bile acid Receptor/Farnesoid X Receptor (FXR)
+
+81 C
+
+# Function of Bile Ducts
+
+1. Bile ducts are lined by cholangiocytes, columnar epithelial cells specialized to modify bile.
+2. Ductules are freely permeable to water so bile rapidly becomes isotonic.
+3. Ductules scavenge solutes such as glucose and amino acids that entered leaky canaliculus and absorbs them using cotransporters.
+4. Cholangiocytes secrete $\mathrm{HCO}_3^-$ in response to secretin (bile slightly alkaline) in a manner similar to pancreatic duct cells.
+5. Ductules secrete IgA molecules into bile.
+
+Chemistry of Bile Acids
+
+![img-13.jpeg](img-13.jpeg)
+Cholesterol
+
+![img-14.jpeg](img-14.jpeg)
+Bile acid (Cholic acid)
+
+[PD-ENEL] John Williams
+
+Synthesis of Bile Acids from cholesterol occurs in the hepatocytes. The initial step of 7α hydroxylation (enzyme is 7α hydroxylase) is subject to feedback inhibition by bile acids taken up from the blood. The alkyl side chain is then shortened and a 12 α hydroxylation occurs to make cholic acid. The liver also synthesizes chenodeoxycholic acid which lacks the 12 α hydroxyl group. Bile acid synthesis in normal humans occurs at 200-400 mg/day.
+
+Primary Bile Acids
+
+![img-15.jpeg](img-15.jpeg)
+Cholic acid (3 OH groups)
+
+![img-16.jpeg](img-16.jpeg)
+Chenodeoxycholic acid (2 OH groups)
+
+![img-17.jpeg](img-17.jpeg)
+Secondary Bile Acids
+
+![img-18.jpeg](img-18.jpeg)
+Deoxycholic acid (2 OH groups)
+
+![img-19.jpeg](img-19.jpeg)
+Lithocholic acid (1 OH groups)
+
+[PD-ENEL] John Williams
+
+Page 82
+Page 83
+
+Page 84
+Page 85
+
+![img-20.jpeg](img-20.jpeg)
+
+![img-21.jpeg](img-21.jpeg)
+Bile Acid Conjugation
+
+![img-22.jpeg](img-22.jpeg)
+Source: Undetermined
+
+## Bile Acids
+
+Bile acids are the major organic components in bile. They are structurally similar to cholesterol from which they are synthesized. Primary bile acids are synthesized in hepatocytes while secondary bile acids have been modified (reduced) by intestinal bacteria. In the hepatocyte, bile acids are conjugated to glycine or taurine which increases their water solubility by lowering their pK. 7α hydroxylase is the rate limiting enzyme for bile acid synthesis by hepatocytes and is subject to feedback inhibition by bile salts taken up from blood.
+
+Bile acids are amphipathic by virtue of having both hydrophilic and hydrophobic regions. Thus, they will orient at a surface and above the critical concentration in aqueous medium form micelles. These micelles will incorporate other amphipathic and hydrophobic molecules including cholesterol and phospholipids resulting in mixed micelles which upon reaching the intestinal lumen will also incorporate fatty acids and other lipophilic products of digestion.
+
+Page 86
+Page 87
+
+# Amphipathic Molecules
+
+![img-23.jpeg](img-23.jpeg)
+**PS-3NEL** Source Undetermined
+
+Amphipathic molecules like to sit at an oil-water interface with the hydrophilic groups (black dots) in the aqueous phase. In an aqueous solution above a specific concentration, the critical micellar concentration or CMC, the bile acids spontaneously self-associate into micelles where the hydrophobic areas interact away from the aqueous environment.
+
+# Mixed Micelle
+
+![img-24.jpeg](img-24.jpeg)
+**PS-3NEL** Source Undetermined
+
+In bile the micelles also assemble with phospholipid and take up and solubilize hydrophobic molecules such as cholesterol.
+
+Page 88
+Page 89
+
+# Functions of the Gallbladder
+
+Once bile is secreted by hepatocytes it flows down biliary ducts and either directly enters the intestine or is stored in the gallbladder. The gallbladder absorbs salts and water and concentrates bile 5-20 fold but isotonicity is maintained as a result of micelles having minimal osmotic activity. Gallbladder bile is potentially unstable and gallstones can form by precipitation. Shortly after a meal the gallbladder contracts and the sphincter of Oddi relaxes primarily in response to an increase in plasma CCK. CCK receptors bringing about contraction are located on gallbladder smooth muscle cells while sphincter relation occurs by CCK activation of inhibitory neurons which release VIP and nitric oxide.
+
+![img-25.jpeg](img-25.jpeg)
+
+# Enterohepatic Circulation of Bile Salts
+
+Most bile acids entering the intestine are absorbed, about 50% passively and 50% by a Na⁺ coupled cotransporter in the distal ileum. Deconjugation and dehydroxylation by bacteria in ileum and colon produce secondary bile acids and enhance their lipid solubility. The daily fecal loss of about 10% of total body pool is equal to the rate of hepatic synthesis. All absorbed bile salts travel via hepatic portal blood to the liver where most (80-90%) are taken up in a single pass by Na⁺ dependent transporters on the sinusoidal membrane of the hepatocyte and resecreted into bile. Bile salts can recycle several times during a single meal and therefore multiple times in a day. Bile salts in the portal blood stimulate bile secretion and inhibit bile acid synthesis. Interruption of the enterophepatic circulation by ileal disease or ingestion of bile acid binding agents such as cholestyramine can lead to fat malabsorption.
+
+Page 90
+Page 91
+
+![img-26.jpeg](img-26.jpeg)
+
+# OTHER SUBSTANCES IN BILE
+
+## Phospholipids
+
+Phospholipids are the second most abundant group of organic compounds in bile with the major form being lecithin (phosphatidylcholine). Phosphatidylcholine secretion into bile is mediated by MDR3 protein present in the canalicular membrane. Phospholipids are amphipathic and contribute to mixed micelles. The combination of bile salts and phospholipids is better able to solubilize other lipids than bile salts alone.
+
+## Cholesterol
+
+The liver is a major site of cholesterol synthesis and also takes up cholesterol from plasma lipoproteins. Cholesterol is used to synthesize bile acids, but is also secreted into bile by a ABC (ATP Binding Cassette) 5/8 complex as free cholesterol. Some is excreted and helps regulate total body cholesterol stores while a portion is absorbed by the intestine. It is relatively insoluble in water and is solubilized in micelles. Cholesterol may precipitate out of solution in the gallbladder and contribute to gallstone formation.
+
+## Bile Pigments
+
+Bile pigments are tetrapyroles derived from the breakdown of heme. The major bile pigment, bilirubin is produced primarily in the spleen from senescent red cells and normally is present unconjugated in the serum bound to albumin. Bilirubin is taken up by an organic anion transport protein (OATP) in the sinusoidal membrane of the hepatocyte, conjugated with glucuronide which makes it more water soluble and transported across the canalicular membrane into the bile by the Multidrug Resistance Protein 2 (MRP2). Bilirubin is responsible for the color of bile and feces. An increase in the plasma levels of unconjugated bilirubin can result from hemolysis or immaturity of the conjugating system in the newborn, while liver disease can lead to conjugated bilirubin escaping into the plasma from which it is also excreted in the urine. A high plasma bilirubin results in jaundice.
+
+## Metabolites of Hormones and Drugs
+
+Thyroid and steroid hormones are conjugated and excreted in bile as normal removal mechanisms. Many drugs and other foreign substrates are modified (detoxified) by P450 enzymes present in hepatocytes and excreted in bile or released to blood and excreted by the kidney. Exogenous organic compounds without nutritive value or enzyme-cofactor function are termed xenobiotics.
+
+Page 92
+Page 93
+
+# Metabolism of Bile Pigment (Bilirubin)
+
+![img-27.jpeg](img-27.jpeg)
+
+# The Liver Synthesizes a Variety of Plasma Proteins
+
+Major Plasma Proteins
+Albumin, α fetoprotein, α₂-Microglobulin
+
+Hemotasis Proteins
+Fibrinogen, clotting factors and inhibitors
+Plasmin (fibrinolysis)
+Complement C3
+
+Binding Proteins
+Ceruloplasmin (copper)
+Steroid binding proteins
+Thyroid hormone binding globulin (TBG)
+Transferrin
+
+Prohormones
+Angiotensinogen
+
+Apolipoproteins
+Apo A-I, -II, and IV
+Apo B-100
+Apo D, Apo E
+
+JFH-2NEL
+John Williams
+
+Page 94
+Page 95
+
+# THE LIVER AS A METABOLIC ORGAN
+
+1. Carbohydrate
+Produces glucose between meals by gluconeogenesis and glycogenolysis; stores glucose as glycogen or uses for fat synthesis after a meal.
+
+2. Protein
+Takes up amino acids after meal for protein synthesis or deaminates them releasing NH₄⁺ (metabolized to urea) and α-keto acids which can be metabolized or used to produce acetylCo and ketone bodies which are exported.
+
+3. Fat
+Takes up chylomicron remnants and long chain fatty acids. Metabolizes fatty acids to acetylCoA and acetoacetate. Synthesizes and secrets VLDLs
+
+4. Cholesterol
+Takes up cholesterol in chylomicron remants and LDL. Synthesizes cholesterol from acetyl CoA. Utilizes cholesterol for bile salts and excretes cholesterol in bile exports cholesterol in VLDLs
+
+# THE LIVER METABOLIZES AND EXCRETES FOREIGN MOLECULES (Drugs, Xenobiotics)
+
+1. Most often involves oxidation (hydroxylation) and/or conjugation
+2. Most hydroxylation is by family of enzymes termed cytochrome P450
+a. Pigment (P) absorbs light at 450 nm
+b. Now usually referred to as CYPs. Three main gene families CYP1, CYP2, and CYP3
+c. The most abundant single P450 in human liver is CYP3A4
+d. Genetic and nongenetic factors influence P450 activity
+3. Conjugation is by UDP glucuronyltransferases (glucuronic acid), glutathione S-Transferase (glutathione) and sulfotransferases (sulfate)
+4. Metabolites which are more water soluble are secreted into bile or plasma where can be excreted by kidney.
+
+# Additional Source Information
+
+for more information see: http://open.umich.edu/wiki/CitationPolicy
+
+Slide 4: (Left) Gray's Anatomy Plate 1100, Wikimedia Commons, http://commons.wikimedia.org/wiki/File:Gray_1100_Pancreatic_duct.png
+Slide 4: (Right) Jim Sherman
+Slide 5: (Left) John Williams modified from undetermined source
+Slide 5: (Right) Source Undetermined
+Slide 6: (Left) Fig. 9-2 Johnson, L. Gastrointestinal Physiology, 7th ed. Mosby Elsevier, Philadelphia, PA; 2007: 87.
+Slide 6: (Right) Fig. 9-5 Johnson, L. Gastrointestinal Physiology, 6th ed. Mosby Elsevier, St. Louis, MO; 2001: 102.
+Slide 7: John Williams
+Slide 8: (Left) Source Undetermined
+Slide 8: (Right) John Williams
+Slide 9: (Left) Source Undetermined
+Slide 9: (Right) Jim Sherman
+Slide 11: Source Undetermined
+Slide 12: John Williams modified from Fig. 6-6 Granger, D, et al. Clinical Gastrointestinal Physiology. W.B. Saunders, Philadelphia, PA; 1985: 125.
+Slide 14: (All images) John Williams
+Slide 15: (All images) John Williams
+Slide 16: (Both images) Source Undetermined
+Slide 17: John Williams
+Slide 18: John Williams
+Slide 19: John Williams
